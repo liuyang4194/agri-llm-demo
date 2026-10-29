@@ -1,0 +1,643 @@
+[
+  {
+    "id": "demo1029:shimen-festival",
+    "title": "石门柑橘节：10月25日开幕，达成14组产销对接项目",
+    "shortTitle": "石门柑橘节：10月25日开幕，达成14组产销对接项目",
+    "summary": "报道记载10月25日柑橘节开幕及14组产销对接项目。项目对接不等于已执行订单或成交额。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "常德市政府／常德日报",
+      "publishedAt": "2026-10-26",
+      "commodityName": "石门柑橘"
+    },
+    "variety": "石门柑橘",
+    "varieties": [
+      "石门柑橘"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-10-26",
+    "publishedAt": "2026-10-26",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-25活动",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "石门县",
+    "province": "湖南",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "HN",
+        "name": "湖南"
+      }
+    ],
+    "lng": 111.38,
+    "lat": 29.58,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道记载10月25日柑橘节开幕及14组产销对接项目。项目对接不等于已执行订单或成交额。",
+    "sourcePlugin": "常德市政府／常德日报",
+    "sourceUrl": "https://www.changde.gov.cn/cdzx/cdyw/content_78224637",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:citrus"
+    ],
+    "relations": [],
+    "demoPriority": 100,
+    "metric": {
+      "value": 14,
+      "unit": "组产销对接项目",
+      "period": "2026-10-25活动"
+    },
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "常德市政府／常德日报",
+        "q": "报道记载10月25日柑橘节开幕及14组产销对接项目。项目对接不等于已执行订单或成交额。",
+        "url": "https://www.changde.gov.cn/cdzx/cdyw/content_78224637"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-26",
+      "sourceSha256": "df304d7b50164e7fc3d3ed374d3b71d9f9f51d77c4076169c490cd86004483a5",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "policy|公共治理|重大活动"
+  },
+  {
+    "id": "demo1029:shimen-output",
+    "title": "石门柑橘：2025年鲜果产量54.43万吨",
+    "shortTitle": "石门柑橘：2025年鲜果产量54.43万吨",
+    "summary": "报道引用2025年县域鲜果产量与综合销售收入19.75亿元；是历史年度口径，不是2026年实际产量或批发市场交易额。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "常德市政府／常德日报",
+      "publishedAt": "2026-10-26",
+      "commodityName": "石门柑橘"
+    },
+    "variety": "石门柑橘",
+    "varieties": [
+      "石门柑橘"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-10-26",
+    "publishedAt": "2026-10-26",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2025年度",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "石门县",
+    "province": "湖南",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "HN",
+        "name": "湖南"
+      }
+    ],
+    "lng": 111.38,
+    "lat": 29.58,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道引用2025年县域鲜果产量与综合销售收入19.75亿元；是历史年度口径，不是2026年实际产量或批发市场交易额。",
+    "sourcePlugin": "常德市政府／常德日报",
+    "sourceUrl": "https://www.changde.gov.cn/cdzx/cdyw/content_78224637",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:citrus"
+    ],
+    "relations": [],
+    "demoPriority": 99,
+    "metric": {
+      "value": 54.43,
+      "unit": "万吨",
+      "period": "2025年度"
+    },
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "常德市政府／常德日报",
+        "q": "报道引用2025年县域鲜果产量与综合销售收入19.75亿元；是历史年度口径，不是2026年实际产量或批发市场交易额。",
+        "url": "https://www.changde.gov.cn/cdzx/cdyw/content_78224637"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-26",
+      "sourceSha256": "df304d7b50164e7fc3d3ed374d3b71d9f9f51d77c4076169c490cd86004483a5",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "supply|产能供给|产量"
+  },
+  {
+    "id": "demo1029:shimen-fair",
+    "title": "石门名优特农产品展销会：柑橘展销与直播同步推进",
+    "shortTitle": "石门名优特农产品展销会：柑橘展销与直播同步推进",
+    "summary": "官方发布报道展示展销会与直播销售结合的产销渠道。只确认公开活动信息，不将个别经营者销量外推为全县销量。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "常德市农业农村局／常德日报",
+      "publishedAt": "2026-10-27",
+      "commodityName": "石门柑橘"
+    },
+    "variety": "石门柑橘",
+    "varieties": [
+      "石门柑橘"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-10-27",
+    "publishedAt": "2026-10-27",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-27报道",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "石门县",
+    "province": "湖南",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "HN",
+        "name": "湖南"
+      }
+    ],
+    "lng": 111.38,
+    "lat": 29.58,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "官方发布报道展示展销会与直播销售结合的产销渠道。只确认公开活动信息，不将个别经营者销量外推为全县销量。",
+    "sourcePlugin": "常德市农业农村局／常德日报",
+    "sourceUrl": "https://nyncj.changde.gov.cn/zhdt/xczx/content_78225108",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:citrus"
+    ],
+    "relations": [],
+    "demoPriority": 98,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "常德市农业农村局／常德日报",
+        "q": "官方发布报道展示展销会与直播销售结合的产销渠道。只确认公开活动信息，不将个别经营者销量外推为全县销量。",
+        "url": "https://nyncj.changde.gov.cn/zhdt/xczx/content_78225108"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-27",
+      "sourceSha256": "4fbd8391c946b62ff973e575adba7a08a751c60ce162ec41a7fcb1bbf29d8eee",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "policy|公共治理|重大活动"
+  },
+  {
+    "id": "demo1029:kunming-durian",
+    "title": "东盟榴莲产销对接：40余家出口企业与90余家采购等企业交流",
+    "shortTitle": "东盟榴莲产销对接：40余家出口企业与90余家采购等企业交流",
+    "summary": "报道记载10月23日昆明对接活动，涵盖泰国、越南、马来西亚等东盟代表和供应链企业；合作意向不等于成交订单。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "开屏新闻",
+      "publishedAt": "2026-10-24",
+      "commodityName": "榴莲"
+    },
+    "variety": "榴莲",
+    "varieties": [
+      "榴莲"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-10-24",
+    "publishedAt": "2026-10-24",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-23活动；10-24报道",
+    "status": "active",
+    "persistent": true,
+    "level": "L2",
+    "region": "昆明",
+    "province": null,
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      }
+    ],
+    "lng": 102.83,
+    "lat": 24.88,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道记载10月23日昆明对接活动，涵盖泰国、越南、马来西亚等东盟代表和供应链企业；合作意向不等于成交订单。",
+    "sourcePlugin": "开屏新闻",
+    "sourceUrl": "https://www.ccwb.cn/content/202610/24/c930588.html",
+    "authorityTier": "B",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:durian"
+    ],
+    "relations": [],
+    "demoPriority": 97,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "开屏新闻",
+        "q": "报道记载10月23日昆明对接活动，涵盖泰国、越南、马来西亚等东盟代表和供应链企业；合作意向不等于成交订单。",
+        "url": "https://www.ccwb.cn/content/202610/24/c930588.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-24",
+      "sourceSha256": "9be42d10f4b0e1c1b13b26510c261ace417a3f9b90d26a69b017ac6dc55be65b",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "policy|公共治理|重大活动"
+  },
+  {
+    "id": "demo1029:durian-import",
+    "title": "海关发布会：2025年中国榴莲进口186.8万吨",
+    "shortTitle": "海关发布会：2025年中国榴莲进口186.8万吨",
+    "summary": "新华社记录海关总署发布会披露的2025年进口量。全国进口与红星批发交易不是同一统计口径，不能直接得出经审定的市场份额。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "新华社／海关总署发布会",
+      "publishedAt": "2026-07-22",
+      "commodityName": "榴莲"
+    },
+    "variety": "榴莲",
+    "varieties": [
+      "榴莲"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-07-22",
+    "publishedAt": "2026-07-22",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2025年度；2026-07-22发布",
+    "status": "active",
+    "persistent": true,
+    "level": "L2",
+    "region": "全国",
+    "province": null,
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      }
+    ],
+    "lng": 104.2,
+    "lat": 35.9,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "新华社记录海关总署发布会披露的2025年进口量。全国进口与红星批发交易不是同一统计口径，不能直接得出经审定的市场份额。",
+    "sourcePlugin": "新华社／海关总署发布会",
+    "sourceUrl": "https://www.xinhuanet.com/politics/20260722/1d6b76e26ace4121a05514e5b3d41886/c.html",
+    "authorityTier": "B",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:durian"
+    ],
+    "relations": [],
+    "demoPriority": 96,
+    "metric": {
+      "value": 186.8,
+      "unit": "万吨",
+      "period": "2025年度；2026-07-22发布"
+    },
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "新华社／海关总署发布会",
+        "q": "新华社记录海关总署发布会披露的2025年进口量。全国进口与红星批发交易不是同一统计口径，不能直接得出经审定的市场份额。",
+        "url": "https://www.xinhuanet.com/politics/20260722/1d6b76e26ace4121a05514e5b3d41886/c.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-07-22",
+      "sourceSha256": "3f904ce278d22216b939916190f20ded7be31bdf46654087cd871a1f8aee5ee3",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "chain|贸易通关|进口"
+  },
+  {
+    "id": "demo1029:hongxing-durian",
+    "title": "红星全球农批中心：2026年以来榴莲交易超9万吨（6月16日报道）",
+    "shortTitle": "红星全球农批中心：2026年以来榴莲交易超9万吨（6月16日报道）",
+    "summary": "长沙晚报报道援引市场数据；原文为2026年以来，未明确为1—5月。是媒体引述而非平台接入的内部交易台账，不能据此线性年化后对外承诺10%—12%份额。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "长沙晚报（新浪转载）",
+      "publishedAt": "2026-06-16",
+      "commodityName": "榴莲"
+    },
+    "variety": "榴莲",
+    "varieties": [
+      "榴莲"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-06-16",
+    "publishedAt": "2026-06-16",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026年以来，截至报道时点；非明确1—5月",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "长沙",
+    "province": "湖南",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "HN",
+        "name": "湖南"
+      }
+    ],
+    "lng": 113.05,
+    "lat": 28.08,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "长沙晚报报道援引市场数据；原文为2026年以来，未明确为1—5月。是媒体引述而非平台接入的内部交易台账，不能据此线性年化后对外承诺10%—12%份额。",
+    "sourcePlugin": "长沙晚报（新浪转载）",
+    "sourceUrl": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicrcpp7609963.shtml",
+    "authorityTier": "B",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:durian",
+      "checked:hx"
+    ],
+    "relations": [],
+    "demoPriority": 95,
+    "metric": {
+      "value": 9,
+      "unit": "万吨以上",
+      "period": "2026年以来，截至报道时点；非明确1—5月"
+    },
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "长沙晚报（新浪转载）",
+        "q": "长沙晚报报道援引市场数据；原文为2026年以来，未明确为1—5月。是媒体引述而非平台接入的内部交易台账，不能据此线性年化后对外承诺10%—12%份额。",
+        "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicrcpp7609963.shtml"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-06-16",
+      "sourceSha256": "a704e17169f41ba031e3498021defd3e81f4ce85def8b52119d537f1f951296d",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "market|交易|成交"
+  },
+  {
+    "id": "demo1029:yunnan-durian",
+    "title": "云南榴莲协作组：本土化仍在科研与标准化推进阶段",
+    "shortTitle": "云南榴莲协作组：本土化仍在科研与标准化推进阶段",
+    "summary": "官方报道科研机构与企业组建协作组、开展系统攻关。不是已经形成足以替代进口的成熟规模产能。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "云南省农业农村厅／云南日报",
+      "publishedAt": "2026-10-10",
+      "commodityName": "榴莲"
+    },
+    "variety": "榴莲",
+    "varieties": [
+      "榴莲"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-08会议；10-10发布",
+    "status": "active",
+    "persistent": true,
+    "level": "L2",
+    "region": "云南",
+    "province": null,
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      }
+    ],
+    "lng": 102.83,
+    "lat": 24.88,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "官方报道科研机构与企业组建协作组、开展系统攻关。不是已经形成足以替代进口的成熟规模产能。",
+    "sourcePlugin": "云南省农业农村厅／云南日报",
+    "sourceUrl": "https://nync.yn.gov.cn/html/2026/yunnongkuanxun-new_1010/1429128.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:durian"
+    ],
+    "relations": [],
+    "demoPriority": 94,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "云南省农业农村厅／云南日报",
+        "q": "官方报道科研机构与企业组建协作组、开展系统攻关。不是已经形成足以替代进口的成熟规模产能。",
+        "url": "https://nync.yn.gov.cn/html/2026/yunnongkuanxun-new_1010/1429128.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-10",
+      "sourceSha256": "e873594d3dd4c9abf5c6604173bdcb567196e1307a9a272d9aadcec3cd9fb2df",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "macro|技术产业|农业技术"
+  },
+  {
+    "id": "demo1029:nansha-durian",
+    "title": "泰国榴莲集中到港案例：南沙24小时接卸超6300吨",
+    "shortTitle": "泰国榴莲集中到港案例：南沙24小时接卸超6300吨",
+    "summary": "官方转载记载4月25—26日南沙到港案例。是历史集中到货证据，不是下周到货预报；查验条件下的时效不等于全程通关承诺。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "广东省委港澳办／南方+",
+      "publishedAt": "2026-04-28",
+      "commodityName": "榴莲"
+    },
+    "variety": "榴莲",
+    "varieties": [
+      "榴莲"
+    ],
+    "varietyBasis": "该条来源正文明确涉及",
+    "date": "2026-04-28",
+    "publishedAt": "2026-04-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-04-25至26日",
+    "status": "active",
+    "persistent": true,
+    "level": "L2",
+    "region": "广州南沙",
+    "province": null,
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      }
+    ],
+    "lng": 113.6,
+    "lat": 22.75,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "官方转载记载4月25—26日南沙到港案例。是历史集中到货证据，不是下周到货预报；查验条件下的时效不等于全程通关承诺。",
+    "sourcePlugin": "广东省委港澳办／南方+",
+    "sourceUrl": "https://www.gdhmo.gov.cn/ygashmshz/content/post_107428.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "demo1029:commodity:durian"
+    ],
+    "relations": [],
+    "demoPriority": 93,
+    "metric": {
+      "value": 6300,
+      "unit": "吨以上",
+      "period": "2026-04-25至26日"
+    },
+    "evidence": [
+      {
+        "k": "公开来源",
+        "t": "广东省委港澳办／南方+",
+        "q": "官方转载记载4月25—26日南沙到港案例。是历史集中到货证据，不是下周到货预报；查验条件下的时效不等于全程通关承诺。",
+        "url": "https://www.gdhmo.gov.cn/ygashmshz/content/post_107428.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-04-28",
+      "sourceSha256": "2209a348387d8a91bc385730068d84101dd5563973b38194eaa925c79bb2d937",
+      "auditScope": "来源页面、发布日期及本条摘要涉及的事件/数值核对；不代表全文独立审计",
+      "coordinateMeaning": "行政区参考点，非事件精确坐标"
+    },
+    "taxonomyLeaf": "chain|物流运输|港口"
+  }
+]
