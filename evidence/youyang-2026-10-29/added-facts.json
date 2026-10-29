@@ -1,0 +1,671 @@
+[
+  {
+    "id": "yy1029:products",
+    "title": "酉阳800：10月22日新品发布与产销对接",
+    "shortTitle": "酉阳800：10月22日新品发布与产销对接",
+    "summary": "新品活动涵盖特色农产品及加工品，集中签约反映渠道合作，不代表已完成交易。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "新华信用／中国金融信息网",
+      "publishedAt": "2026-10-23",
+      "commodityName": "茶油、青蒿、香柚"
+    },
+    "variety": "茶油、青蒿、香柚",
+    "varieties": [
+      "茶油",
+      "青蒿",
+      "香柚"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-10-23",
+    "publishedAt": "2026-10-23",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-22活动",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "新品活动涵盖特色农产品及加工品，集中签约反映渠道合作，不代表已完成交易。",
+    "sourcePlugin": "新华信用／中国金融信息网",
+    "sourceUrl": "https://www.cnfin.com/xy-lb/detail/20261023/4485533_1.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "yy1029:commodity:茶油",
+      "yy1029:commodity:青蒿",
+      "yy1029:commodity:香柚"
+    ],
+    "relations": [],
+    "demoPriority": 110,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "新华信用／中国金融信息网",
+        "q": "新品活动涵盖特色农产品及加工品，集中签约反映渠道合作，不代表已完成交易。",
+        "url": "https://www.cnfin.com/xy-lb/detail/20261023/4485533_1.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-23",
+      "sourceSha256": "51d81a6770d274236d824670f9ad95d83139dcc921f708ee5ff08db0a52d03df",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:oil-scale",
+    "title": "酉阳油茶：十四五累计发展43万亩",
+    "shortTitle": "酉阳油茶：十四五累计发展43万亩",
+    "summary": "43万亩是十四五期间累计规模；未来50万亩属于规划目标，不能混用。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "重庆日报",
+      "publishedAt": "2026-10-15",
+      "commodityName": "油茶、茶油"
+    },
+    "variety": "油茶、茶油",
+    "varieties": [
+      "油茶",
+      "茶油"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-10-15",
+    "publishedAt": "2026-10-15",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "十四五累计口径",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "43万亩是十四五期间累计规模；未来50万亩属于规划目标，不能混用。",
+    "sourcePlugin": "重庆日报",
+    "sourceUrl": "https://epaper.cqrb.cn/cqrb/2026-10/15/004/content_rb_365289.htm",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "yy1029:commodity:油茶",
+      "yy1029:commodity:茶油"
+    ],
+    "relations": [],
+    "demoPriority": 109,
+    "metric": {
+      "value": 43,
+      "unit": "万亩",
+      "period": "十四五累计口径"
+    },
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "重庆日报",
+        "q": "43万亩是十四五期间累计规模；未来50万亩属于规划目标，不能混用。",
+        "url": "https://epaper.cqrb.cn/cqrb/2026-10/15/004/content_rb_365289.htm"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-15",
+      "sourceSha256": "26fa6132562f3c319d18effa96f781371bd68606fd8019568bacf22f8340015a",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:oil-value",
+    "title": "酉阳油茶：2025年综合产值5.5亿元",
+    "shortTitle": "酉阳油茶：2025年综合产值5.5亿元",
+    "summary": "数值为2025年综合产值，不是2026年销售额或农批中心交易额。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "重庆日报",
+      "publishedAt": "2026-10-15",
+      "commodityName": "油茶、茶油"
+    },
+    "variety": "油茶、茶油",
+    "varieties": [
+      "油茶",
+      "茶油"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-10-15",
+    "publishedAt": "2026-10-15",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2025年度",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "数值为2025年综合产值，不是2026年销售额或农批中心交易额。",
+    "sourcePlugin": "重庆日报",
+    "sourceUrl": "https://epaper.cqrb.cn/cqrb/2026-10/15/004/content_rb_365289.htm",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "yy1029:commodity:油茶",
+      "yy1029:commodity:茶油"
+    ],
+    "relations": [],
+    "demoPriority": 108,
+    "metric": {
+      "value": 5.5,
+      "unit": "亿元",
+      "period": "2025年度"
+    },
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "重庆日报",
+        "q": "数值为2025年综合产值，不是2026年销售额或农批中心交易额。",
+        "url": "https://epaper.cqrb.cn/cqrb/2026-10/15/004/content_rb_365289.htm"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-15",
+      "sourceSha256": "26fa6132562f3c319d18effa96f781371bd68606fd8019568bacf22f8340015a",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:kiwi",
+    "title": "酉阳山羊村：野生猕猴桃采收超6万斤",
+    "shortTitle": "酉阳山羊村：野生猕猴桃采收超6万斤",
+    "summary": "报道口径限定山羊村；不能外推全县产量。种植培训同时覆盖品种评鉴与产销对接。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "中央广电总台国际在线",
+      "publishedAt": "2026-10-15",
+      "commodityName": "猕猴桃"
+    },
+    "variety": "猕猴桃",
+    "varieties": [
+      "猕猴桃"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-10-15",
+    "publishedAt": "2026-10-15",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026年报道口径",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道口径限定山羊村；不能外推全县产量。种植培训同时覆盖品种评鉴与产销对接。",
+    "sourcePlugin": "中央广电总台国际在线",
+    "sourceUrl": "https://cq.cri.cn/n/20261015/99aff1b8-44ed-41b6-a9d2-cedb818d048f.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "yy1029:commodity:猕猴桃"
+    ],
+    "relations": [],
+    "demoPriority": 107,
+    "metric": {
+      "value": 6,
+      "unit": "万斤以上",
+      "period": "2026年报道口径"
+    },
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "中央广电总台国际在线",
+        "q": "报道口径限定山羊村；不能外推全县产量。种植培训同时覆盖品种评鉴与产销对接。",
+        "url": "https://cq.cri.cn/n/20261015/99aff1b8-44ed-41b6-a9d2-cedb818d048f.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-15",
+      "sourceSha256": "48a9bcdcf37d9d6dcb59d835fbb73ee151798a9ca2d065133e41c5c3b4b7cee3",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:enzyme",
+    "title": "酉阳山果加工：刺梨、猕猴桃支撑酵素产业",
+    "shortTitle": "酉阳山果加工：刺梨、猕猴桃支撑酵素产业",
+    "summary": "报道确认本地山果用于酵素加工；年产值突破2亿元为预期，尚非实绩。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "重庆日报",
+      "publishedAt": "2026-10-21",
+      "commodityName": "刺梨、猕猴桃"
+    },
+    "variety": "刺梨、猕猴桃",
+    "varieties": [
+      "刺梨",
+      "猕猴桃"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-10-29",
+    "period": "2026-10-21报道",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道确认本地山果用于酵素加工；年产值突破2亿元为预期，尚非实绩。",
+    "sourcePlugin": "重庆日报",
+    "sourceUrl": "https://www.cqrb.cn/disijii/2026-10-21/2801872_pc.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "yy1029:commodity:刺梨",
+      "yy1029:commodity:猕猴桃"
+    ],
+    "relations": [],
+    "demoPriority": 106,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "重庆日报",
+        "q": "报道确认本地山果用于酵素加工；年产值突破2亿元为预期，尚非实绩。",
+        "url": "https://www.cqrb.cn/disijii/2026-10-21/2801872_pc.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-10-21",
+      "sourceSha256": "51736070165b0c767c850f7738f3000aeb847f5108bee32e63cba1ac23601547",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:market",
+    "title": "红星酉阳武陵山农批中心：一期9月23日投用",
+    "shortTitle": "红星酉阳武陵山农批中心：一期9月23日投用",
+    "summary": "一期启用及冷链配套有公开报道，建设规模不等于成交规模，覆盖范围不等于实际客户数。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "人民网重庆频道",
+      "publishedAt": "2026-09-24",
+      "commodityName": "水果、蔬菜、粮油"
+    },
+    "variety": "水果、蔬菜、粮油",
+    "varieties": [
+      "水果",
+      "蔬菜",
+      "粮油"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": "2026-09-23",
+    "ingestedAt": "2026-10-29",
+    "period": "2026-09-23活动",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "一期启用及冷链配套有公开报道，建设规模不等于成交规模，覆盖范围不等于实际客户数。",
+    "sourcePlugin": "人民网重庆频道",
+    "sourceUrl": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "checked:yy-market",
+      "yy1029:commodity:水果",
+      "yy1029:commodity:蔬菜",
+      "yy1029:commodity:粮油"
+    ],
+    "relations": [],
+    "demoPriority": 105,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "人民网重庆频道",
+        "q": "一期启用及冷链配套有公开报道，建设规模不等于成交规模，覆盖范围不等于实际客户数。",
+        "url": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-09-24",
+      "sourceSha256": "18227bde9e25f96ff1560df177958cffcc505e639ee5c913187b85330ad10b9a",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:banana",
+    "title": "酉阳农批中心：苹果蕉、红皮蕉等鲜果入驻",
+    "shortTitle": "酉阳农批中心：苹果蕉、红皮蕉等鲜果入驻",
+    "summary": "按来源列明入驻鲜果品种；未提供逐笔交易量、到货单和实时价格。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "人民网重庆频道",
+      "publishedAt": "2026-09-24",
+      "commodityName": "苹果蕉、红皮蕉、香蕉"
+    },
+    "variety": "苹果蕉、红皮蕉、香蕉",
+    "varieties": [
+      "苹果蕉",
+      "红皮蕉",
+      "香蕉"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": "2026-09-23",
+    "ingestedAt": "2026-10-29",
+    "period": "2026-09-24报道",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "按来源列明入驻鲜果品种；未提供逐笔交易量、到货单和实时价格。",
+    "sourcePlugin": "人民网重庆频道",
+    "sourceUrl": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "checked:yy-market",
+      "yy1029:commodity:苹果蕉",
+      "yy1029:commodity:红皮蕉",
+      "yy1029:commodity:香蕉"
+    ],
+    "relations": [],
+    "demoPriority": 104,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "人民网重庆频道",
+        "q": "按来源列明入驻鲜果品种；未提供逐笔交易量、到货单和实时价格。",
+        "url": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-09-24",
+      "sourceSha256": "18227bde9e25f96ff1560df177958cffcc505e639ee5c913187b85330ad10b9a",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  },
+  {
+    "id": "yy1029:coldchain",
+    "title": "酉阳农批中心：东盟鲜果冷链铁路通道开通",
+    "shortTitle": "酉阳农批中心：东盟鲜果冷链铁路通道开通",
+    "summary": "报道确认冷链铁路开通；出山品类描述体现通道用途，不等于每个品种均有已执行运输订单。",
+    "cat": "market",
+    "cardType": "news",
+    "cardTypeName": "公开报道",
+    "card": {
+      "sourceName": "人民网重庆频道",
+      "publishedAt": "2026-09-24",
+      "commodityName": "水果、茶叶、中药材"
+    },
+    "variety": "水果、茶叶、中药材",
+    "varieties": [
+      "水果",
+      "茶叶",
+      "中药材"
+    ],
+    "varietyBasis": "公开来源正文明确涉及",
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": "2026-09-23",
+    "ingestedAt": "2026-10-29",
+    "period": "2026-09-23活动",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "酉阳县",
+    "province": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "code": "CHN",
+        "name": "中国"
+      },
+      {
+        "level": "province",
+        "code": "CN-CQ",
+        "name": "重庆市"
+      }
+    ],
+    "lng": 108.77,
+    "lat": 28.84,
+    "geoApprox": true,
+    "geoPrecision": "行政区参考点",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "mid",
+    "severity": 30,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "报道确认冷链铁路开通；出山品类描述体现通道用途，不等于每个品种均有已执行运输订单。",
+    "sourcePlugin": "人民网重庆频道",
+    "sourceUrl": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html",
+    "authorityTier": "A",
+    "review": "manually_checked_public_report",
+    "prov": "real",
+    "objects": [
+      "checked:yy",
+      "checked:yy-market",
+      "yy1029:commodity:水果",
+      "yy1029:commodity:茶叶",
+      "yy1029:commodity:中药材"
+    ],
+    "relations": [],
+    "demoPriority": 103,
+    "metric": null,
+    "evidence": [
+      {
+        "k": "来源核对摘记",
+        "t": "人民网重庆频道",
+        "q": "报道确认冷链铁路开通；出山品类描述体现通道用途，不等于每个品种均有已执行运输订单。",
+        "url": "http://cq.people.com.cn/n2/2026/0924/c367650-41707128.html"
+      }
+    ],
+    "provenanceMeta": {
+      "dataOrigin": "checked-public-report",
+      "checkedAt": "2026-10-29",
+      "sourceDate": "2026-09-24",
+      "sourceSha256": "18227bde9e25f96ff1560df177958cffcc505e639ee5c913187b85330ad10b9a",
+      "coordinateMeaning": "行政区参考点，非设施精确坐标"
+    }
+  }
+]
