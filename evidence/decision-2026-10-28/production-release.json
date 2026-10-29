@@ -1,0 +1,159 @@
+{
+  "checks": [
+    {
+      "name": "v2.9.14/build-meta.json可访问",
+      "passed": true
+    },
+    {
+      "name": "v2.9.14/build-meta.json指纹匹配",
+      "passed": true,
+      "detail": {
+        "hash": "3b6e922cd482",
+        "git": "552215e",
+        "builtAt": "2026-10-27T22:50:58.681Z",
+        "partial": false,
+        "inputs": [
+          "src/v03/shell.html",
+          "package.json",
+          "src/v03/app.css",
+          "src/v03/relation.css",
+          "src/v03/sim.css",
+          "src/v03/tl/timeline.css",
+          "src/v03/tl/facts.css",
+          "src/v03/mass.js",
+          "src/v03/pkg-adapter.js",
+          "src/v03/atlas-data.js",
+          "src/v03/overlays-v12.js",
+          "src/v03/data.js",
+          "src/v03/data-sim.js",
+          "src/v03/dict-f3.js",
+          "src/v03/store.js",
+          "src/v03/theme.js",
+          "src/v03/scope.js",
+          "src/v03/filter.js",
+          "src/v03/globe.js",
+          "src/v03/intake.js",
+          "src/v03/media.js",
+          "src/v03/feed.js",
+          "src/v03/fact.js",
+          "src/v03/relation.js",
+          "src/v03/mirofish-bridge.js",
+          "src/v03/tl/timeline.js",
+          "src/v03/tl/date-range.js",
+          "src/v03/tl/date-playback.js",
+          "src/v03/tl/facts.js",
+          "src/v03/app.js",
+          "data/china.geo.json",
+          "data/world110.geo.json",
+          "data/supplier/reviewed.json",
+          "build.mjs",
+          "vendor/echarts.min.js",
+          "vendor/hls.min.js",
+          "fonts/PlexLight-sub.woff2",
+          "fonts/PlexRegular-sub.woff2",
+          "fonts/PlexSemiBold-sub.woff2",
+          "fonts/PlexBold-sub.woff2"
+        ],
+        "missing": [],
+        "bytes": 81356280
+      }
+    },
+    {
+      "name": "mirofish/build-info.json可访问",
+      "passed": true
+    },
+    {
+      "name": "mirofish/build-info.json指纹匹配",
+      "passed": true,
+      "detail": {
+        "source_commit": "dc1f7ae",
+        "revision": "LLM-291-actionable-default",
+        "fingerprint": "ccc897fa3b11",
+        "v4_topics": 37,
+        "default_rounds": 40,
+        "minutes_per_round": 1440,
+        "launch_presets": 12,
+        "pinned_history": 25,
+        "report_styles": 9,
+        "simulated_events": 5920,
+        "shared_map_engines": [
+          "V03MapKit",
+          "V03Globe"
+        ],
+        "assets": [
+          "index-eSsg9pxe.css",
+          "index-osxYX1LM.js"
+        ]
+      }
+    },
+    {
+      "name": "latest进入V2.9.14",
+      "passed": true
+    },
+    {
+      "name": "数据量及86项新增",
+      "passed": true,
+      "detail": {
+        "facts": 36141,
+        "objects": 2432,
+        "relations": 2207,
+        "added": 86,
+        "noGenerated": true,
+        "references": true,
+        "note": "2026-10-08官方气候展望；预测期为2027年1—3月，不是果品产量实测。"
+      }
+    },
+    {
+      "name": "无生成事实、引用完整、气候边界",
+      "passed": true
+    },
+    {
+      "name": "1000条队列60张卡片合成滚动",
+      "passed": true,
+      "detail": {
+        "queue": 1000,
+        "cards": 60,
+        "moved": 999.9000000000005,
+        "noReset": true
+      }
+    },
+    {
+      "name": "外层进入推演也显示红星默认问题",
+      "passed": true
+    },
+    {
+      "name": "酉阳资料可检索",
+      "passed": true
+    },
+    {
+      "name": "57项来源目录公开",
+      "passed": true
+    },
+    {
+      "name": "品牌渠道待核状态透明",
+      "passed": true
+    },
+    {
+      "name": "风格切换移除",
+      "passed": true
+    },
+    {
+      "name": "独立阅读标签页命名",
+      "passed": true
+    },
+    {
+      "name": "直接回答母题及NOAA依据",
+      "passed": true
+    },
+    {
+      "name": "版本与主题标题",
+      "passed": true
+    },
+    {
+      "name": "无浏览器异常",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

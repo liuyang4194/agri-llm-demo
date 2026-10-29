@@ -1,0 +1,20 @@
+{
+  "source_commit": "b67fbf5",
+  "revision": "LLM-291-neutral-default-500",
+  "fingerprint": "3b45426fb997",
+  "v4_topics": 37,
+  "default_rounds": 40,
+  "minutes_per_round": 1440,
+  "launch_presets": 12,
+  "pinned_history": 25,
+  "report_styles": 9,
+  "simulated_events": 5920,
+  "shared_map_engines": [
+    "V03MapKit",
+    "V03Globe"
+  ],
+  "assets": [
+    "index-B0X1aKs-.js",
+    "index-eSsg9pxe.css"
+  ]
+}

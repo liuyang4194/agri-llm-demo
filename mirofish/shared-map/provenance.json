@@ -1,0 +1,33 @@
+{
+  "source_repository": "UpStarData/agri-llm-demo",
+  "local_source": "agri-llm-demo-visual-v0810",
+  "assets": [
+    {
+      "source": "src/v03/mapkit.js",
+      "file": "mapkit.js",
+      "sha256": "822c4f4ee10719314d6f3a71b6bcfc3a648ae5d928f16590581e6094e6118641"
+    },
+    {
+      "source": "src/v03/globe.js",
+      "file": "globe.js",
+      "sha256": "1fc08ec7010bd3bf1b4bcb2f7ead0171255b6504524aedcdb4bdcc8152759ccc"
+    },
+    {
+      "source": "vendor/echarts.min.js",
+      "file": "echarts.min.js",
+      "sha256": "e84270bd0cd5bdf60fefc26d00c2a391cb2e81f4d26a7a9ee16185a54773a3cf"
+    },
+    {
+      "source": "data/china.geo.json",
+      "file": "china.geo.json",
+      "sha256": "02e474def2725db05247568511329ae67feb2cb53f72176e2180aa6565b53ffa"
+    },
+    {
+      "source": "data/world110.geo.json",
+      "file": "world110.geo.json",
+      "sha256": "f1d0ad43857933f5474ca6bf811a778bb1a7b736ebf4c960e439dbba4c70bf97"
+    }
+  ],
+  "extracted_helpers": "fact.js: seamHalf/worldGeoJSON/MAP_PALETTE/regionColors/regionIndex/regionFill",
+  "source_checkout_commit": "2018d401e7fb3eb07837f3268b5f44dc9e2bfdab"
+}

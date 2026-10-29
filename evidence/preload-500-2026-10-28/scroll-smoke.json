@@ -1,0 +1,94 @@
+{
+  "checks": [
+    {
+      "name": "500条预载且仅渲染40张",
+      "passed": true,
+      "detail": {
+        "queue": 500,
+        "dom": 40
+      }
+    },
+    {
+      "name": "滚动轨道进入独立合成层",
+      "passed": true,
+      "detail": {
+        "compositingReasons": [
+          "Has a trivial 3d transform.",
+          "Has an active accelerated transform animation or transition.",
+          "Has a will-change: transform compositing hint."
+        ],
+        "compositingReasonIds": [
+          "Trivial3DTransform",
+          "ActiveTransformAnimation",
+          "WillChangeTransform"
+        ]
+      }
+    },
+    {
+      "name": "主线程阻塞时合成动画仍推进",
+      "passed": true,
+      "detail": {
+        "captureMs": 950,
+        "phase": 1183.2999999999993,
+        "screencastFrames": 77
+      }
+    },
+    {
+      "name": "窗口轮换不整批克隆卡片",
+      "passed": true,
+      "detail": {
+        "old": "current2026:noaa-20261008",
+        "next": "current2026:d1b53cfb3c188b66",
+        "dom": 40,
+        "time": 468.94028571510836
+      }
+    },
+    {
+      "name": "500条队列可轮换覆盖且DOM有界",
+      "passed": true,
+      "detail": {
+        "seen": 500,
+        "dom": 40
+      }
+    },
+    {
+      "name": "用户滚轮接管",
+      "passed": true,
+      "detail": {
+        "paused": true,
+        "manual": true,
+        "animation": false
+      }
+    },
+    {
+      "name": "轮换后的卡片仍能打开事实",
+      "passed": true
+    },
+    {
+      "name": "无匹配时停止旧滚动",
+      "passed": true
+    },
+    {
+      "name": "清空查询后恢复瀑布流",
+      "passed": true
+    },
+    {
+      "name": "手机无横向页面溢出",
+      "passed": true
+    },
+    {
+      "name": "显式接入通知仍可更新满队列",
+      "passed": true,
+      "detail": {
+        "changed": true,
+        "found": true
+      }
+    },
+    {
+      "name": "无浏览器脚本异常",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

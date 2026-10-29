@@ -1,0 +1,110 @@
+[
+  {
+    "name": "湖南农业12316",
+    "channel": "微信公众号",
+    "operator": "湖南省农业农村厅",
+    "identityEvidence": "https://agri.hunan.gov.cn/xxgk/",
+    "verification": "官方指南明确名称；固定账号ID待核",
+    "audience": "政府、专家、农民",
+    "collectionMethod": "公开原文链接白名单；官网同文优先，授权RSS/导出补充"
+  },
+  {
+    "name": "湖北农业",
+    "channel": "微信／微博",
+    "operator": "湖北省农业农村厅",
+    "identityEvidence": "https://nyt.hubei.gov.cn/",
+    "verification": "官网有政务微信及官方微博入口；具体账号ID需从入口核对",
+    "audience": "政府、专家、媒体",
+    "collectionMethod": "从官网锚点登记账号ID；公开图文或官网镜像增量采集"
+  },
+  {
+    "name": "江西农业农村",
+    "channel": "微信／微博候选",
+    "operator": "江西省农业农村厅",
+    "identityEvidence": "https://nync.jiangxi.gov.cn/",
+    "verification": "候选名称，当前未完成平台认证主体与ID核对",
+    "audience": "政府、农民、媒体",
+    "collectionMethod": "先核账号主体，未核对不入事实库"
+  },
+  {
+    "name": "贵州农业农村",
+    "channel": "微信公众号候选",
+    "operator": "贵州省农业农村厅",
+    "identityEvidence": "https://nynct.guizhou.gov.cn/",
+    "verification": "候选名称，固定平台ID待核",
+    "audience": "政府、专家、农民",
+    "collectionMethod": "官网资料先行，认证后再登记公开文章链接"
+  },
+  {
+    "name": "广西农业农村厅",
+    "channel": "微信；头条／抖音／视频号候选",
+    "operator": "广西壮族自治区农业农村厅",
+    "identityEvidence": "https://nynct.gxzf.gov.cn/xxgk/zdlyxxgk/czxx/ggzyjy/P020230726645835183425.pdf",
+    "verification": "官方运维文件支持微信名称；其他平台身份分别待核，不能一并视为认证",
+    "audience": "政府、专家、合作商",
+    "collectionMethod": "官网与认证账号双向核对；公开文章/获授权字幕导入"
+  },
+  {
+    "name": "广州农业农村",
+    "channel": "微信公众号",
+    "operator": "广州市农业农村局",
+    "identityEvidence": "https://nyncj.gz.gov.cn/zw/tzgg/content/post_9724730.html",
+    "verification": "官方更名公告确认名称；账号ID待核",
+    "audience": "政府、媒体、农民",
+    "collectionMethod": "更名别名归一；按文章URL去重"
+  },
+  {
+    "name": "广州农博士",
+    "channel": "微信／视频号",
+    "operator": "广州市农业技术推广中心",
+    "identityEvidence": "https://nyncj.gz.gov.cn/gkmlpt/content/10/10899/post_10899129.html",
+    "verification": "2026-07-13官方报道明确两渠道；平台ID待核",
+    "audience": "农民、农技专家、合作社",
+    "collectionMethod": "官网转载、公开农技图文；已授权视频字幕/问答另存证据"
+  },
+  {
+    "name": "酉阳发布",
+    "channel": "微博／新媒体矩阵",
+    "operator": "酉阳县政府相关发布渠道",
+    "identityEvidence": "https://youyang.gov.cn/hdjl_236/xmtjz/",
+    "verification": "官方矩阵有入口；微信同名账号主体还需逐个核对",
+    "audience": "领导、政府、合作商、媒体",
+    "collectionMethod": "使用政府矩阵锚点，不按同名搜索结果直接认证"
+  },
+  {
+    "name": "酉阳县人民政府",
+    "channel": "微信公众号",
+    "operator": "酉阳县人民政府",
+    "identityEvidence": "https://cq.gov.cn/zwgk/zfxxgkzl/zfxxgkzn/qxzf/youyxzf/",
+    "verification": "重庆市政府公开指南明确名称；固定ID待核",
+    "audience": "领导、政府、合作商",
+    "collectionMethod": "官网公开同文为首选；获授权账号导出作补充"
+  },
+  {
+    "name": "红星实业集团",
+    "channel": "微信／视频号候选",
+    "operator": "红星实业集团有限公司",
+    "identityEvidence": "http://hxsyjt.net/",
+    "verification": "集团官网可访问；未取得可核验的平台认证ID",
+    "audience": "领导、股东、上下游合作商",
+    "collectionMethod": "先采集团官网；运营方提供的官方主页/文章链接经核对后入白名单"
+  },
+  {
+    "name": "红星酉阳武陵山农批中心",
+    "channel": "公众号／视频号／抖音候选",
+    "operator": "市场运营主体待认证核对",
+    "identityEvidence": "https://www.douyin.com/video/7688332950739995113",
+    "verification": "发现公开视频线索，但请求返回空页面；身份及正文未核，不入事实库",
+    "audience": "领导、合作商、市场人员",
+    "collectionMethod": "以政府项目报道作事实依据；平台认证及公开正文取得后再导入"
+  },
+  {
+    "name": "农民日报、中国农科院、中国天气、中国农技推广",
+    "channel": "微信／微博／视频候选组合",
+    "operator": "各机构分别核对",
+    "identityEvidence": "https://www.farmers.com.cn/",
+    "verification": "受众建议观测清单，未在本批逐个认证，不称已采集",
+    "audience": "农民、专家、媒体",
+    "collectionMethod": "逐机构查官网社媒入口，保留账号ID与运营主体，禁止合并成一个来源"
+  }
+]

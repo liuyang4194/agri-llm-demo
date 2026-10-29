@@ -1,0 +1,1724 @@
+[
+  {
+    "region": "湖南",
+    "priority": "P0",
+    "name": "湖南省农业农村厅·数据发布",
+    "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/",
+    "channel": "官方网站／数据",
+    "content": "农产品批发价格周报、电商行情、生猪价格、产业与市县动态",
+    "audience": "领导、专家、政府、合作商、市场人员",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:09.564874+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34089043.html",
+        "title": "湖南主要农产品批发价格监测周报（2026年第43期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34088830.html",
+        "title": "10月第4周生猪和猪肉价格有所下跌"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261021_34085506.html",
+        "title": "湖南热门农产品电商行情监测周报(2026年第42期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084758.html",
+        "title": "湖南主要农产品批发价格监测周报（2026年第42期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084294.html",
+        "title": "10月第3周生猪和猪肉价格有所下跌"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261014_34081033.html",
+        "title": "湖南热门农产品电商行情监测周报(2026年第41期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34080190.html",
+        "title": "湖南主要农产品批发价格监测周报（2026年第41期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34079971.html",
+        "title": "10月第2周生猪和猪肉价格有所下跌"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079768.html",
+        "title": "湖南热门农产品电商行情监测周报(2026年第40期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079780.html",
+        "title": "10月第1周生猪和猪肉价格有所下跌"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079764.html",
+        "title": "湖南主要农产品批发价格监测周报（2026年第40期）"
+      },
+      {
+        "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202609/t20260930_34075048.html",
+        "title": "湖南热门农产品电商行情监测周报(2026年第39期）"
+      }
+    ],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/",
+    "title": "数据发布 -\r\n        湖南省农业农村厅",
+    "sha256": "51ff07cabdcab7d9c34d130b933182e0177c13b06033360bc084d393634f29c6",
+    "snapshot": "51ff07cabdcab7d9c34d130b933182e0177c13b06033360bc084d393634f29c6.txt"
+  },
+  {
+    "region": "湖南",
+    "priority": "P0",
+    "name": "湖南省统计局",
+    "url": "https://tjj.hunan.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业增加值、粮食、茶叶、水果、生猪、水产、农民收入、投资",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:09.565181+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202610/t20261023_34087374.html",
+        "title": "马云霞：前三季度全省农业经济形势保持平稳"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/hnywg/202610/t20261023_34086899.html",
+        "title": "湖南省纪念中国工农红军长征胜利90周年座谈会举行 沈晓明讲话 毛伟明主持"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjfx/jmxx/2026sjjd/202610/t20261023_34087374.html",
+        "title": "马云霞：前三季度全省农业经济形势保持平稳"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260916_34065701.html",
+        "title": "速存！四农普12张海报新鲜出炉！带你定格“三农”画卷"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260916_34065672.html",
+        "title": "农普老照片“动”起来｜透过老照片，感受蓬勃发展的乡村图景"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260909_34059691.html",
+        "title": "图解｜农普闯关指南！第四次全国农业普查全流程大揭秘"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260903_34056191.html",
+        "title": "农普画中话｜四农普上门问点啥呢？来来来剧透一下~"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202610/t20261014_34080637.html",
+        "title": "乡里湘音话农普｜湘西州凤凰县发布汉苗双语四农普主题MV《四农普说唱》"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260930_34074690.html",
+        "title": "乡里湘音话农普｜四农普 说望城"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260928_34072933.html",
+        "title": "乡里湘音话农普｜怀化溆浦发布四农普公益宣传片《走进溆浦乡野 盘清三农家底》"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260924_34071532.html",
+        "title": "乡里湘音话农普｜娄底发布四农普主题MV《农业家底摸清了 乡村振兴咱有数》"
+      },
+      {
+        "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260922_34070367.html",
+        "title": "乡里湘音话农普｜湘潭发布四农普主题MV《莲城农普踏新程》"
+      }
+    ],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://tjj.hunan.gov.cn/",
+    "title": "湖南省统计局 - 湖南统计信息网",
+    "sha256": "ad8bbf71080fe98382f0959674c5bc5758cb6cee15d009a699430c3f9ea813d4",
+    "snapshot": "ad8bbf71080fe98382f0959674c5bc5758cb6cee15d009a699430c3f9ea813d4.txt"
+  },
+  {
+    "region": "湖南",
+    "priority": "P0",
+    "name": "红星农副产品大市场／红星实业集团",
+    "url": "http://www.redstarwholesale.com/",
+    "channel": "市场运营方",
+    "content": "价格、到货、交易、招商、商户、市场活动、产销对接、集团项目",
+    "audience": "领导、股东、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:09.565263+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 502: Bad Gateway",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "region": "湖南",
+    "priority": "P0",
+    "name": "全国农产品批发市场价格信息系统·湖南市场",
+    "url": "https://pfsc.agri.cn/",
+    "channel": "价格平台",
+    "content": "湖南市场分品类价格、市场报价、价格变化及区域横向比较",
+    "audience": "专家、合作商、市场人员、竞对",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:09.565319+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://pfsc.agri.cn/",
+    "title": "全国农产品批发市场价格信息系统",
+    "sha256": "0ce7802aebeca2a5f9d8dbe20adcdeb98b6bea2be47ad67cbb7bac674d6e5f9e",
+    "snapshot": "0ce7802aebeca2a5f9d8dbe20adcdeb98b6bea2be47ad67cbb7bac674d6e5f9e.txt"
+  },
+  {
+    "region": "湖南",
+    "priority": "P1",
+    "name": "湖南农业12316",
+    "url": "https://agri.hunan.gov.cn/agri/xxgk/zfxxgknb/202402/t20240222_32621309.html",
+    "channel": "公众号／短视频",
+    "content": "政策解释、农业技术、地方产业、农事服务、典型案例",
+    "audience": "专家、政府、媒体、生产端合作商",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:09.565370+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://agri.hunan.gov.cn/agri/xxgk/zfxxgknb/202402/t20240222_32621309.html",
+    "title": "",
+    "sha256": "d297f15b0a0c769e147c5a0e1dbaf94a158eca1e01a0f86f0d072efee25fa924",
+    "snapshot": "d297f15b0a0c769e147c5a0e1dbaf94a158eca1e01a0f86f0d072efee25fa924.txt"
+  },
+  {
+    "region": "湖南",
+    "priority": "P1",
+    "name": "红网政务／湖南日报三农",
+    "url": "https://gov.rednet.cn/",
+    "channel": "地方媒体／新媒体",
+    "content": "湖南领导活动、重大项目、地方产业案例、红星及区域协作报道",
+    "audience": "领导、政府、媒体、股东",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:09.565412+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://gov.rednet.cn/",
+    "title": "红网政务频道_湖南红网",
+    "sha256": "3e6e876e67c894d1ec7c7e9c0db02f13dc043a597ce8dba09fcb7b75f651e041",
+    "snapshot": "3e6e876e67c894d1ec7c7e9c0db02f13dc043a597ce8dba09fcb7b75f651e041.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P0",
+    "name": "湖北省农业农村厅",
+    "url": "https://nyt.hubei.gov.cn/",
+    "channel": "官方网站",
+    "content": "市州农业、产业链、品牌、科技、质量安全、项目与政策",
+    "audience": "领导、专家、政府、媒体",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:09.565456+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nyt.hubei.gov.cn/sytt/202610/t20261023_6038378.shtml",
+        "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260923_6021582.shtml",
+        "title": "2026年中国农民丰收节主场活动在湖北枣阳举办"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260911_6012317.shtml",
+        "title": "2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260910_6010917.shtml",
+        "title": "一图看懂丨2026中国农民丰收节主题定了"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202603/t20260309_5888176.shtml",
+        "title": "“三农九问”问出爱农富农初心使命"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261022_6037819.shtml",
+        "title": "严把整地播种质量关 专家支招小麦适期高质播种2026-10-22"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261020_6035885.shtml",
+        "title": "湖北省加强农业废弃物循环利用技术培训2026-10-20"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261019_6035306.shtml",
+        "title": "科技改写湖北农业版图2026-10-19"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261015_6033434.shtml",
+        "title": "省人大常委会调研农产品质量安全工作2026-10-15"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261012_6030866.shtml",
+        "title": "湖北重构农村产权交易体系一年来成效明显——集体资产不再“睡大觉”　阳光交易鼓起“钱袋子”2026-10-12"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260930_6025637.shtml",
+        "title": "全省秋冬农业生产工作视频会议召开2026-09-30"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202610/t20261026_6040731.shtml",
+        "title": "[宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链2026-10-26"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nyt.hubei.gov.cn/",
+    "title": "湖北省农业农村厅",
+    "sha256": "8c755d139daca3311aaa7cc5ca34702e5499994ccd0b194132814f1866a4b331",
+    "snapshot": "8c755d139daca3311aaa7cc5ca34702e5499994ccd0b194132814f1866a4b331.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P0",
+    "name": "湖北省统计局",
+    "url": "https://tjj.hubei.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业月报、季度数据、粮食、畜牧、水产、居民收入、投资",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:09.565496+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202610/t20261012_6031180.shtml",
+        "title": "双节联动  借势赋能  湖北全力做好第四次全国农业普查宣传"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202609/t20260910_6011315.shtml",
+        "title": "湖北省第四次全国农业普查方案培训会在武汉举办"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202608/t20260828_6003177.shtml",
+        "title": "谢高波到省农普办检查指导湖北省“四农普”普查区划分与建筑物标绘工作"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202607/t20260728_5984729.shtml",
+        "title": "谢高波赴武汉市督办农业普查工作"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn/tjsj/tjfx/qstjfx/202610/t20261026_6040988.shtml",
+        "title": "前三季度全省农业生产形势平稳"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://tjj.hubei.gov.cn/",
+    "title": "湖北省统计局",
+    "sha256": "3ce8d4db3126a5467b3ba3701c5808766684e2b94a57b92e23e71ef315b72e18",
+    "snapshot": "3ce8d4db3126a5467b3ba3701c5808766684e2b94a57b92e23e71ef315b72e18.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P0",
+    "name": "武汉白沙洲农副产品大市场",
+    "url": "http://www.whbsz.com.cn/",
+    "channel": "市场运营方／价格",
+    "content": "蔬菜、水产、粮油价格行情，市场交易与到货变化",
+    "audience": "专家、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:10.261856+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://www.whbsz.com.cn/NewsInfo.aspx?ID=659009",
+        "title": "武汉白沙洲农副产品大市场举办2026年马年元宵团"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://www.whbsz.com.cn/",
+    "title": "武汉白沙洲农副产品大市场",
+    "sha256": "bd443733c051efe90072dc75654d1115a295cef6170dc431465494731c58f31a",
+    "snapshot": "bd443733c051efe90072dc75654d1115a295cef6170dc431465494731c58f31a.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P0",
+    "name": "武汉市农业农村局·农产品价格监测",
+    "url": "https://nyncj.wuhan.gov.cn/",
+    "channel": "城市价格数据",
+    "content": "重点市场、重点品类价格监测和城市保供动态",
+    "audience": "政府、专家、合作商、市场人员",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:12.662696+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868858.html",
+        "title": "秋日清剿外来入侵物种，武汉抢抓关键窗口期防治加拿大一枝黄花"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261026_2868148.html",
+        "title": "“花点时间，乡游武汉”走进黄陂，古村山野间解锁乡村新玩法"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202608/t20260825_2838180.html",
+        "title": "市农业农村局关于行政规范性文件清理结果的通知"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202607/t20260729_2827170.html",
+        "title": "市农业农村局关于印发 《武汉市高标准农田建设全过程质量管理实施细则(试行)》的通知"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/zcjd/202607/t20260730_2827234.html",
+        "title": "关于《武汉市高标准农田建设全过程质量管理实施细则（试行）》的解读"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202603/t20260316_2740443.html",
+        "title": "解读2026年省委一号文件精神｜锚定农业农村现代化 扎实推进乡村全面振兴"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202604/t20260427_2757773.html",
+        "title": "市农业农村局办公室关于印发 《2026年武汉市特色优质水产品种示范推广项目实施方案》的通知"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202605/t20260507_2761204.html",
+        "title": "市农业农村局办公室关于印发《2026年武汉市渔业发展补助项目实施方案》的通知"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202603/t20260318_2741534.html",
+        "title": "市农业农村局办公室关于印发2026年农业随机抽查计划的通知"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wn/202601/t20260113_2710487.html",
+        "title": "武汉市农业农村局关于湖北今楚联合食品有限公司新建100万头生猪定点屠宰厂加工项目的批复"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868861.html",
+        "title": "徒步、露营、音乐“打包”进乡野 武汉这场嘉年华串起21家农庄"
+      },
+      {
+        "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868860.html",
+        "title": "守住耕地、科技种田、育好种子，武汉三招端出一碗好饭"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nyncj.wuhan.gov.cn/",
+    "title": "首页-武汉市农业农村局",
+    "sha256": "119f1534fae3c310c76703448d5449b6a60df10e7a009d6142eadff99c0ffbf4",
+    "snapshot": "119f1534fae3c310c76703448d5449b6a60df10e7a009d6142eadff99c0ffbf4.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P1",
+    "name": "湖北农业政务微信／微博",
+    "url": "https://nyt.hubei.gov.cn/",
+    "channel": "公众号／微博",
+    "content": "领导调研、地方项目、品牌推广、科技成果和农业现场信息",
+    "audience": "政府、专家、媒体、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:12.850013+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nyt.hubei.gov.cn/sytt/202610/t20261023_6038378.shtml",
+        "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260923_6021582.shtml",
+        "title": "2026年中国农民丰收节主场活动在湖北枣阳举办"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260911_6012317.shtml",
+        "title": "2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260910_6010917.shtml",
+        "title": "一图看懂丨2026中国农民丰收节主题定了"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202603/t20260309_5888176.shtml",
+        "title": "“三农九问”问出爱农富农初心使命"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261022_6037819.shtml",
+        "title": "严把整地播种质量关 专家支招小麦适期高质播种2026-10-22"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261020_6035885.shtml",
+        "title": "湖北省加强农业废弃物循环利用技术培训2026-10-20"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261019_6035306.shtml",
+        "title": "科技改写湖北农业版图2026-10-19"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261015_6033434.shtml",
+        "title": "省人大常委会调研农产品质量安全工作2026-10-15"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261012_6030866.shtml",
+        "title": "湖北重构农村产权交易体系一年来成效明显——集体资产不再“睡大觉”　阳光交易鼓起“钱袋子”2026-10-12"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260930_6025637.shtml",
+        "title": "全省秋冬农业生产工作视频会议召开2026-09-30"
+      },
+      {
+        "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202610/t20261026_6040731.shtml",
+        "title": "[宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链2026-10-26"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nyt.hubei.gov.cn/",
+    "title": "湖北省农业农村厅",
+    "sha256": "8c755d139daca3311aaa7cc5ca34702e5499994ccd0b194132814f1866a4b331",
+    "snapshot": "8c755d139daca3311aaa7cc5ca34702e5499994ccd0b194132814f1866a4b331.txt"
+  },
+  {
+    "region": "湖北",
+    "priority": "P1",
+    "name": "垄上行／湖北三农融媒体",
+    "url": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202609/t20260922_5802834.shtml",
+    "channel": "电视／公众号／视频",
+    "content": "农产品滞销、产销对接、助农直播、农民故事和消费端反馈",
+    "audience": "媒体、合作商、市场人员、政府",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:13.973570+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "region": "江西",
+    "priority": "P0",
+    "name": "江西省农业农村厅",
+    "url": "https://nync.jiangxi.gov.cn/",
+    "channel": "官方网站",
+    "content": "农业政策、产业项目、粮食、生猪、果业、农产品流通和市县动态",
+    "audience": "领导、专家、政府、媒体",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:15.310424+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nync.jiangxi.gov.cn/",
+    "title": "江西省农业农村厅",
+    "sha256": "7dfd52e205a17a32df0654530fc4fbc15657fb12ed1bbb8eceb6654ac7212a90",
+    "snapshot": "7dfd52e205a17a32df0654530fc4fbc15657fb12ed1bbb8eceb6654ac7212a90.txt"
+  },
+  {
+    "region": "江西",
+    "priority": "P0",
+    "name": "江西省统计局",
+    "url": "https://tjj.jiangxi.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业生产、粮食、畜牧、果业、农村居民收入、产业投资",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:15.980057+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://tjj.jiangxi.gov.cn/",
+    "title": "江西省统计局",
+    "sha256": "9b12017cd706b3d488878c287ce2b54729da14429a475f736d98f90c9adb9a1f",
+    "snapshot": "9b12017cd706b3d488878c287ce2b54729da14429a475f736d98f90c9adb9a1f.txt"
+  },
+  {
+    "region": "江西",
+    "priority": "P0",
+    "name": "南昌市发展改革委·价格监测",
+    "url": "https://fgw.nc.gov.cn/",
+    "channel": "城市价格数据",
+    "content": "主要农副产品、蔬菜、肉蛋、粮油市场价格及价格波动",
+    "audience": "政府、专家、合作商、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:16.268578+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:108",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+  },
+  {
+    "region": "江西",
+    "priority": "P0",
+    "name": "南昌深圳农产品中心批发市场",
+    "url": "https://www.cawa.org.cn/",
+    "channel": "市场运营方／行业协会",
+    "content": "市场交易、价格、保供、产销衔接、项目与商户动态",
+    "audience": "合作商、竞对、市场人员、股东",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:16.432030+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 403: Forbidden",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "region": "江西",
+    "priority": "P1",
+    "name": "江西农业农村政务微信／微博",
+    "url": "https://nync.jiangxi.gov.cn/",
+    "channel": "公众号／微博",
+    "content": "地方现场、政策解释、特色产业、领导调研、农业人物和项目",
+    "audience": "政府、媒体、专家、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:16.645822+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "IncompleteRead(422035 bytes read)"
+  },
+  {
+    "region": "江西",
+    "priority": "P1",
+    "name": "江西日报／大江网三农",
+    "url": "https://www.jxnews.com.cn/",
+    "channel": "地方媒体／视频",
+    "content": "江西重大项目、地方特色产业、品牌、农民增收和社会热点",
+    "audience": "领导、政府、媒体、合作商",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:17.292771+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1082)>",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1082)>"
+  },
+  {
+    "region": "贵州",
+    "priority": "P0",
+    "name": "贵州省农业农村厅",
+    "url": "https://nynct.guizhou.gov.cn/",
+    "channel": "官方网站",
+    "content": "山地农业、茶叶、辣椒、中药材、生态畜牧、产业项目和政策",
+    "audience": "领导、专家、政府、媒体",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:19.122708+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261027_91036528.html",
+        "title": "贵州省畜禽遗传资源管理站关于家禽方面的4项采..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261026_91030339.html",
+        "title": "贵州省农业农村厅 关于申请加入补充耕地质量验..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202610/t20261021_91015714.html",
+        "title": "喜报！贵州“村T”项目勇夺全国农村创业大赛总决..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260930_90958180.html",
+        "title": "省种畜禽种质测定中心召开党风廉政工作会议"
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260929_90949789.html",
+        "title": "贵州省农业农村厅召开视频调度会 再部署农药兽药..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260924_90940343.html",
+        "title": "农业农村部耕地质量和农田工程监督保护中心赴黔 ..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260921_90926297.html",
+        "title": "以法治强监理 以专业护安全——2026年全国农机安..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260910_90860155.html",
+        "title": "贵州省2026年首期乡村产业振兴带头人培育“头雁..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260909_90851159.html",
+        "title": "贵州省山地农业机械研究所在开阳开展辣椒机械化..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202608/t20260828_90795534.html",
+        "title": "省农业农村厅组织召开2026年第三季度防止返贫致..."
+      },
+      {
+        "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202607/t20260716_90630292.html",
+        "title": "中华人民共和国农业农村部公告 第1039号（国家禁..."
+      },
+      {
+        "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202606/t20260605_90480637.html",
+        "title": "国务院关于印发《加快农业农村现代化  “十五五..."
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nynct.guizhou.gov.cn/",
+    "title": "贵州省农业农村厅",
+    "sha256": "49ad376012b3f94ccd8fb66ef9c349be68970fca458a31110014ec59636b8664",
+    "snapshot": "49ad376012b3f94ccd8fb66ef9c349be68970fca458a31110014ec59636b8664.txt"
+  },
+  {
+    "region": "贵州",
+    "priority": "P0",
+    "name": "贵州省统计局",
+    "url": "https://stjj.guizhou.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业生产、特色产业、农村收入、投资、地区比较数据",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:19.961980+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/tjyw/202610/t20261027_91040144.html",
+        "title": "省农普办召开四农普清查摸底工作视频会"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261023_91022277.html",
+        "title": "普定县农普办召开第四次全国农业普查清查摸底工作推进会"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261023_91022227.html",
+        "title": "凤冈县召开四农普工作推进视频会"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261014_90988670.html",
+        "title": "关岭县错峰入户开展四农普清查摸底工作"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969170.html",
+        "title": "钟山区开展第四次全国农业普查清查摸底业务培训"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969141.html",
+        "title": "黔东南州借力农民丰收节开展四农普宣传活动"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969132.html",
+        "title": "贵阳贵安农普办开展四农普宣传活动"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969056.html",
+        "title": "钟山区开展四农普清查宣传活动"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202609/t20260929_90950774.html",
+        "title": "关岭布依族苗族自治县深入基层指导四农普工作"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202609/t20260929_90950748.html",
+        "title": "锦屏县统计局举办“中国统计开放日”暨第四次全国农业普查宣传活动"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202607/t20260728_90669632.html",
+        "title": "上半年农业经济延续稳定发展态势"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202604/t20260424_90044014.html",
+        "title": "一季度全省农业经济稳定向好"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://stjj.guizhou.gov.cn/",
+    "title": "贵州省统计局门户网站",
+    "sha256": "d5d67444e884e673a02f601719fb24f7b192dee69a46a28eb6984684f412dd4c",
+    "snapshot": "d5d67444e884e673a02f601719fb24f7b192dee69a46a28eb6984684f412dd4c.txt"
+  },
+  {
+    "region": "贵州",
+    "priority": "P0",
+    "name": "贵阳农产品物流园／贵阳地利农产品物流园",
+    "url": "https://www.cawa.org.cn/index.php/home/member/HomeDetail.html?id=1164",
+    "channel": "市场运营方／行业协会",
+    "content": "贵阳市场交易、保供、冷链、商户、批发价格和区域集散",
+    "audience": "合作商、竞对、市场人员、政府",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:21.298519+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 403: Forbidden",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "region": "贵州",
+    "priority": "P1",
+    "name": "贵州农业农村政务微信",
+    "url": "https://nynct.guizhou.gov.cn/",
+    "channel": "公众号／视频号",
+    "content": "现场活动、项目、特色农产品、政策解释和领导调研",
+    "audience": "政府、媒体、专家、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:22.340032+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261027_91036528.html",
+        "title": "贵州省畜禽遗传资源管理站关于家禽方面的4项采..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261026_91030339.html",
+        "title": "贵州省农业农村厅 关于申请加入补充耕地质量验..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202610/t20261021_91015714.html",
+        "title": "喜报！贵州“村T”项目勇夺全国农村创业大赛总决..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260930_90958180.html",
+        "title": "省种畜禽种质测定中心召开党风廉政工作会议"
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260929_90949789.html",
+        "title": "贵州省农业农村厅召开视频调度会 再部署农药兽药..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260924_90940343.html",
+        "title": "农业农村部耕地质量和农田工程监督保护中心赴黔 ..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260921_90926297.html",
+        "title": "以法治强监理 以专业护安全——2026年全国农机安..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260910_90860155.html",
+        "title": "贵州省2026年首期乡村产业振兴带头人培育“头雁..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260909_90851159.html",
+        "title": "贵州省山地农业机械研究所在开阳开展辣椒机械化..."
+      },
+      {
+        "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202608/t20260828_90795534.html",
+        "title": "省农业农村厅组织召开2026年第三季度防止返贫致..."
+      },
+      {
+        "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202607/t20260716_90630292.html",
+        "title": "中华人民共和国农业农村部公告 第1039号（国家禁..."
+      },
+      {
+        "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202606/t20260605_90480637.html",
+        "title": "国务院关于印发《加快农业农村现代化  “十五五..."
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nynct.guizhou.gov.cn/",
+    "title": "贵州省农业农村厅",
+    "sha256": "49ad376012b3f94ccd8fb66ef9c349be68970fca458a31110014ec59636b8664",
+    "snapshot": "49ad376012b3f94ccd8fb66ef9c349be68970fca458a31110014ec59636b8664.txt"
+  },
+  {
+    "region": "贵州",
+    "priority": "P1",
+    "name": "天眼新闻／多彩贵州网",
+    "url": "https://www.gog.cn/",
+    "channel": "地方媒体／短视频",
+    "content": "贵州产业事件、人物故事、项目落地、舆情和消费热点",
+    "audience": "领导、政府、媒体、合作商",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:22.833794+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gog.cn'. (_ssl.c:1082)>"
+  },
+  {
+    "region": "贵州",
+    "priority": "P1",
+    "name": "贵州省公共资源交易平台",
+    "url": "https://ggzy.guizhou.gov.cn/",
+    "channel": "招投标／采购",
+    "content": "农业项目、冷链、市场建设、食材采购、设备和服务采购",
+    "audience": "股东、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:23.527540+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://ggzy.guizhou.gov.cn/zhdt/tpxw/202609/t20260902_90812472.html",
+        "title": "巩固拓展学习教育成果 以正确政绩观引领推动奋发有为走新路展风采"
+      },
+      {
+        "url": "https://ggzy.guizhou.gov.cn/zhdt/tpxw/202610/t20261026_91029847.html",
+        "title": "贵州省纪念中国工农红军长征胜利90周年座谈会举行 徐麟讲话 李炳军主持"
+      }
+    ],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://ggzy.guizhou.gov.cn/",
+    "title": "贵州省公共资源交易云",
+    "sha256": "f65993fd24ab958f018b1535fd236b5d7a4f63e410425901233d35cea0b912c7",
+    "snapshot": "f65993fd24ab958f018b1535fd236b5d7a4f63e410425901233d35cea0b912c7.txt"
+  },
+  {
+    "region": "广西",
+    "priority": "P0",
+    "name": "广西壮族自治区农业农村厅",
+    "url": "http://nynct.gxzf.gov.cn/",
+    "channel": "官方网站",
+    "content": "糖料、水果、蔬菜、畜牧、水产、产业项目、价格和市县动态",
+    "audience": "领导、专家、政府、媒体",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:23.782571+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28269161.shtml",
+        "title": "自治区农业农村厅开展2026年党员基本培训集中大课专题辅导\n                                \n                                2026.10.27"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264452.shtml",
+        "title": "自治区农业农村厅领导出席第二十三届广西“看禾选种”活动\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264399.shtml",
+        "title": "第八届广西壮族自治区农作物品种审定委员会成立大会在南宁召开\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262094.shtml",
+        "title": "广西在全国丘陵山区低空农业典型应用场景展示推介活动作典型场景推介\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262135.shtml",
+        "title": "自治区植保站《航空植保护八桂粮仓》视频作品入选科普中国优质科普资源\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259288.shtml",
+        "title": "2026年全国农业精品品牌和“桂字号”农业.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259071.shtml",
+        "title": "2026中国—东盟数字农业论坛探索农业合作.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28257572.shtml",
+        "title": "自治区农业农村厅组织召开2026年推进农业.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/rsxx/t28239404.shtml",
+        "title": "自治区农业农村厅2026年度考试录用参照公务员法管.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28234797.shtml",
+        "title": "广西壮族自治区农业农村厅2026年6-9月国家重点保.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28230008.shtml",
+        "title": "自治区农业农村厅关于2026年度广西科学技术奖拟提.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/syjs/t28152216.shtml",
+        "title": "2026年秋收农作物秸秆饲.."
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://nynct.gxzf.gov.cn/",
+    "title": "广西壮族自治区农业农村厅",
+    "sha256": "898b9b07957906315f5ccd199e0576f50c7c603b9256bbcf631e2c04420df858",
+    "snapshot": "898b9b07957906315f5ccd199e0576f50c7c603b9256bbcf631e2c04420df858.txt"
+  },
+  {
+    "region": "广西",
+    "priority": "P0",
+    "name": "广西壮族自治区统计局",
+    "url": "http://tjj.gxzf.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业产量、糖料、水果、水产、畜牧、农村收入和投资",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:25.093527+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28264235.shtml",
+        "title": "崇左市：榔响椒乡庆霜降 农普宣传入壮乡\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t2026-10-26"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28257934.shtml",
+        "title": "鱼峰区：聚焦农业普查数据质量  扎实开展晚稻遥感核实\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t2026-10-23"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28253892.shtml",
+        "title": "桂林市农普办下沉服务抓实精准指导  严控数据质量\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t2026-10-22"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://tjj.gxzf.gov.cn/",
+    "title": "广西壮族自治区统计局网站",
+    "sha256": "4439402f74f2a58497db14f346bdd53673cc1f0a935442568a160ea3acb051b6",
+    "snapshot": "4439402f74f2a58497db14f346bdd53673cc1f0a935442568a160ea3acb051b6.txt"
+  },
+  {
+    "region": "广西",
+    "priority": "P0",
+    "name": "广西政府·重要商品价格",
+    "url": "https://www.gxzf.gov.cn/",
+    "channel": "价格数据",
+    "content": "主要农副产品、蔬菜、肉蛋、粮油及重要民生商品价格",
+    "audience": "政府、专家、合作商、市场人员",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:26.582537+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gxzf.gov.cn'. (_ssl.c:1082)>"
+  },
+  {
+    "region": "广西",
+    "priority": "P0",
+    "name": "南宁海吉星农产品国际物流中心",
+    "url": "https://www.nnhjx.cn/",
+    "channel": "市场运营方／价格",
+    "content": "蔬菜、水果、粮油、副食交易、价格、到货、招商和市场活动",
+    "audience": "合作商、竞对、市场人员、股东",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:27.871901+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:108",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+  },
+  {
+    "region": "广西",
+    "priority": "P1",
+    "name": "广西农业农村厅政务微信／头条／抖音／视频号",
+    "url": "http://nynct.gxzf.gov.cn/",
+    "channel": "全媒体账号",
+    "content": "特色产业、产销活动、农民故事、项目现场和政策解释",
+    "audience": "政府、媒体、合作商、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:27.911595+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28269161.shtml",
+        "title": "自治区农业农村厅开展2026年党员基本培训集中大课专题辅导\n                                \n                                2026.10.27"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264452.shtml",
+        "title": "自治区农业农村厅领导出席第二十三届广西“看禾选种”活动\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264399.shtml",
+        "title": "第八届广西壮族自治区农作物品种审定委员会成立大会在南宁召开\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262094.shtml",
+        "title": "广西在全国丘陵山区低空农业典型应用场景展示推介活动作典型场景推介\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262135.shtml",
+        "title": "自治区植保站《航空植保护八桂粮仓》视频作品入选科普中国优质科普资源\n                                \n                                2026.10.26"
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259288.shtml",
+        "title": "2026年全国农业精品品牌和“桂字号”农业.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259071.shtml",
+        "title": "2026中国—东盟数字农业论坛探索农业合作.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28257572.shtml",
+        "title": "自治区农业农村厅组织召开2026年推进农业.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/rsxx/t28239404.shtml",
+        "title": "自治区农业农村厅2026年度考试录用参照公务员法管.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28234797.shtml",
+        "title": "广西壮族自治区农业农村厅2026年6-9月国家重点保.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28230008.shtml",
+        "title": "自治区农业农村厅关于2026年度广西科学技术奖拟提.."
+      },
+      {
+        "url": "http://nynct.gxzf.gov.cn/xwdt/syjs/t28152216.shtml",
+        "title": "2026年秋收农作物秸秆饲.."
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://nynct.gxzf.gov.cn/",
+    "title": "广西壮族自治区农业农村厅",
+    "sha256": "898b9b07957906315f5ccd199e0576f50c7c603b9256bbcf631e2c04420df858",
+    "snapshot": "898b9b07957906315f5ccd199e0576f50c7c603b9256bbcf631e2c04420df858.txt"
+  },
+  {
+    "region": "广西",
+    "priority": "P1",
+    "name": "广西新闻网／广西日报三农",
+    "url": "https://www.gxnews.com.cn/",
+    "channel": "地方媒体／视频",
+    "content": "广西重大农业事件、品牌、东盟贸易、产区和舆情热点",
+    "audience": "领导、政府、媒体、合作商",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:28.171336+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf0459-22008444.shtml",
+        "title": "广西日报南宁头条 | 乡村篮球在这里为何如此火爆(\n                    2026-10-26)"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae06c85-22008744.shtml",
+        "title": "科学家发现远古两栖动物新物种"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae04d59-22008686.shtml",
+        "title": "五常大米，有了新品种！"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae025a5-22008660.shtml",
+        "title": "零办案县区挂牌督办！广西农兽药专项整治进入攻坚阶段"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf4dfe-22008504.shtml",
+        "title": "数智赋能 链通东盟 | 广农供应链集团亮相2026广西农博会"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae07992-22008786.shtml",
+        "title": "“速生”有机肥，只需一小时！广西在农业种养循环领域的研究取得新进展"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad9ef8f-22006886.shtml",
+        "title": "共话科技助农 聚力八桂乡村振兴"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261021/newgx6ad8008b-22006264.shtml",
+        "title": "新疆种葛根，广西来帮忙"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf543d-22008522.shtml",
+        "title": "增产又增糖 广农糖业科学管护助农增收"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf0459-22008391.shtml",
+        "title": "广西日报南宁头条 | 乡村篮球在这里为何如此火爆"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261023/newgx6adb70ae-22007355.shtml",
+        "title": "估产测糖 科学调度｜广农糖业多措并举备战新榨季"
+      },
+      {
+        "url": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad96f9d-22006694.shtml",
+        "title": "广农糖业博华公司：检修技改正当时 全力冲刺新榨季"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://www.gxnews.com.cn/",
+    "title": "全国重点新闻网站-广西新闻门户网",
+    "sha256": "86a43f3fdfce4b00e4c25c3ced16b02394fc802fd735aea358d391f295c4ff1f",
+    "snapshot": "86a43f3fdfce4b00e4c25c3ced16b02394fc802fd735aea358d391f295c4ff1f.txt"
+  },
+  {
+    "region": "广西",
+    "priority": "P1",
+    "name": "广西公共资源交易平台",
+    "url": "http://ggzy.jgswj.gxzf.gov.cn/",
+    "channel": "招投标／采购",
+    "content": "农业园区、冷链、市场、食材、加工和物流项目采购信息",
+    "audience": "股东、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:28.362498+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: timed out",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "region": "广州",
+    "priority": "P0",
+    "name": "广州市农业农村局·数据发布",
+    "url": "https://nyncj.gz.gov.cn/zw/sjfb/",
+    "channel": "官方网站／数据",
+    "content": "广州农产品生产、质量安全、农业项目、市场与产业数据",
+    "audience": "领导、专家、政府、媒体",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:28.674716+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "region": "广州",
+    "priority": "P0",
+    "name": "广州市统计局",
+    "url": "https://tjj.gz.gov.cn/",
+    "channel": "统计数据",
+    "content": "农业、消费、批发零售、居民收入和城市经济数据",
+    "audience": "领导、专家、政府、股东",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:29.216710+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://tjj.gz.gov.cn/",
+    "title": "广州市统计局网站",
+    "sha256": "0f266d8bbb88eb93550f63b4b7e09ba735932e93b65372def6d3e7b4f17457a7",
+    "snapshot": "0f266d8bbb88eb93550f63b4b7e09ba735932e93b65372def6d3e7b4f17457a7.txt"
+  },
+  {
+    "region": "广州",
+    "priority": "P0",
+    "name": "广州江南果菜批发市场",
+    "url": "https://www.sfac.org.cn/market/100/13.html",
+    "channel": "市场运营方／价格",
+    "content": "蔬菜、水果价格指数、交易价格、市场行情和全国集散信息",
+    "audience": "专家、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:31.271494+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:108",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+  },
+  {
+    "region": "广州",
+    "priority": "P0",
+    "name": "粤港澳大湾区菜篮子平台",
+    "url": "https://nyncj.gz.gov.cn/gkmlpt/content/7/7176/post_7176081.html",
+    "channel": "供应链／质量平台",
+    "content": "生产基地、配送中心、质量标准、产销合作和湾区供应链",
+    "audience": "政府、合作商、专家、媒体",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:31.410892+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "region": "广州",
+    "priority": "P1",
+    "name": "广州农业农村政务微信／微博",
+    "url": "https://nyncj.gz.gov.cn/",
+    "channel": "公众号／微博",
+    "content": "政策解释、领导活动、项目现场、城市农业和农产品品牌",
+    "audience": "政府、媒体、专家、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:32.209809+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://nyncj.gz.gov.cn/zw/tzgg/content/post_11069314.html",
+        "title": "广州市农业农村局2026年第三季度养殖水产品质量..."
+      },
+      {
+        "url": "http://nyncj.gz.gov.cn/hdjlpt/yjzj/answer/50869",
+        "title": "广州市农业农村局关于2026年中央一号文件的调查..."
+      },
+      {
+        "url": "http://nyncj.gz.gov.cn/attachment/8/8108/8108754/11069412.pdf",
+        "title": "广州市主要农产品价格变动分析-2026年09月"
+      },
+      {
+        "url": "http://nyncj.gz.gov.cn/sj/cysj/content/post_10708260.html",
+        "title": "广州市畜禽屠宰企业名单（2026年9月）"
+      },
+      {
+        "url": "http://nyncj.gz.gov.cn/zw/zwyw/tpxw/content/post_10956030.html",
+        "title": "2026年广州市第一期农技人员知识更新培训圆满收官"
+      },
+      {
+        "url": "http://nyncj.gz.gov.cn/zw/zwyw/tszs/content/post_11023195.html",
+        "title": "2026中国农民丰收节陕西省主场活动见闻"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nyncj.gz.gov.cn/",
+    "title": "广州市农业农村局网站",
+    "sha256": "68369d250e724971566fc83a0243bc66b4086abdcd50093b728465e084f60feb",
+    "snapshot": "68369d250e724971566fc83a0243bc66b4086abdcd50093b728465e084f60feb.txt"
+  },
+  {
+    "region": "广州",
+    "priority": "P1",
+    "name": "广州农博士",
+    "url": "https://nyncj.gz.gov.cn/zw/zwyw/content/post_10474046.html",
+    "channel": "公众号／视频号",
+    "content": "农业技术、农产品质量、生产现场、专家解读和科普视频",
+    "audience": "专家、媒体、生产端合作商、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:32.648950+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "region": "广州",
+    "priority": "P1",
+    "name": "广州公共资源交易中心",
+    "url": "https://www.gzggzy.cn/",
+    "channel": "招投标／采购",
+    "content": "学校及机关食材采购、农业项目、冷链、物流和市场设施项目",
+    "audience": "股东、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:32.948857+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "region": "广州",
+    "priority": "P1",
+    "name": "广州日报／南方+／花城+",
+    "url": "https://www.gzdaily.cn/",
+    "channel": "地方媒体／视频",
+    "content": "城市保供、食品消费、市场现场、湾区合作和社会热点",
+    "audience": "领导、政府、媒体、合作商",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:33.577337+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://www.gzdaily.cn/",
+    "title": "广州日报",
+    "sha256": "9700b7cb657454339e605a9c5de914c381ad2a318560765dfd6154955c87ce2d",
+    "snapshot": "9700b7cb657454339e605a9c5de914c381ad2a318560765dfd6154955c87ce2d.txt"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P0",
+    "name": "重庆市农业农村委员会·市场资讯",
+    "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/",
+    "channel": "官方网站／价格",
+    "content": "重庆农产品与农资价格、生猪、蔬菜、水果、水产及市场周报",
+    "audience": "领导、专家、政府、合作商、市场人员",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:36.678245+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280060.html",
+        "title": "2026年第42周重庆渔业市场周报（总第190期）"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280052.html",
+        "title": "重庆农产品及农资价格周报2026年第42期（第929期）"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261016_16246582.html",
+        "title": "2026年第41周重庆渔业市场周报（总第189期）"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232345.html",
+        "title": "重庆农产品及农资价格周报2026年第41期（第928期）"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232320.html",
+        "title": "重庆市渔业全产业链经济发展指标监测月报(2026年第9期)"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261013_16225233.html",
+        "title": "重庆市大宗农产品产销形势分析月报(2026年第9期)"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211912.html",
+        "title": "2026年第40周重庆渔业市场周报（总第188期）"
+      },
+      {
+        "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211907.html",
+        "title": "重庆农产品及农资价格周报2026年第40期（第927期）"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/",
+    "title": "市场资讯_重庆市农业农村委员会",
+    "sha256": "4e1196ed09e2fe1250c9bbc6a40ba09c5f367647ef529d4323e2d3c3fc413723",
+    "snapshot": "4e1196ed09e2fe1250c9bbc6a40ba09c5f367647ef529d4323e2d3c3fc413723.txt"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P0",
+    "name": "酉阳县政府·红星酉阳武陵山农批中心",
+    "url": "https://youyang.gov.cn/ysyy/yshd/202608/t20260810_15911759.html",
+    "channel": "政府专题／项目事实",
+    "content": "项目定位、投运、招商、商户、冷链、产销对接、就业和区域辐射",
+    "audience": "全部受众",
+    "overlap": "上位重合",
+    "checkedAt": "2026-10-27T15:03:36.773116+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://youyang.gov.cn/ysyy/yshd/202608/t20260810_15911759.html",
+    "title": "红星酉阳武陵山农批中心进入开业倒计时 一期建设进度达95%，签约率超八成 - 酉阳土家族苗族自治县人民政府",
+    "sha256": "b2616913e244dda27863848b8acb257a752270fe634822c5e169525170b4eeb5",
+    "snapshot": "b2616913e244dda27863848b8acb257a752270fe634822c5e169525170b4eeb5.txt"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P0",
+    "name": "红星农批中心自有官网、公众号、视频号、抖音",
+    "url": "http://www.redstarwholesale.com/",
+    "channel": "企业全媒体",
+    "content": "开业、交易现场、商户、采购商、到货、招商、活动和市场运营",
+    "audience": "领导、股东、合作商、竞对、市场人员、媒体",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:37.442284+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 502: Bad Gateway",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P0",
+    "name": "重庆公共资源交易网·酉阳",
+    "url": "https://www.cqggzy.com/",
+    "channel": "招投标／采购",
+    "content": "农批中心、冷链、物流、配套工程、运营服务和采购项目",
+    "audience": "股东、合作商、竞对、市场人员",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:37.996923+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 403: Forbidden",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P1",
+    "name": "华龙网／重庆日报",
+    "url": "https://cqnews.net/",
+    "channel": "地方媒体／视频",
+    "content": "项目活动、渝湘协作、领导调研、产销对接和社会反馈",
+    "audience": "领导、政府、媒体、股东",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:38.625479+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://www.cqnews.net/web/content_1564354647158886400.html",
+        "title": "让优质美育资源下沉乡村 2026年“乡村学校美育西部行”在渝启动"
+      },
+      {
+        "url": "https://www.cqnews.net/web/content_1563168936131690496.html",
+        "title": "重庆华龙网集团股份有限公司关于2026年7月社会招聘结果的公示"
+      }
+    ],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://www.cqnews.net/",
+    "title": "",
+    "sha256": "cbe58a7dfdb04f1a722064fcc2a5486a2887347e39778c789dc39f76af8b9473",
+    "snapshot": "cbe58a7dfdb04f1a722064fcc2a5486a2887347e39778c789dc39f76af8b9473.txt"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P1",
+    "name": "人民网重庆频道",
+    "url": "http://cq.people.com.cn/",
+    "channel": "中央媒体地方频道",
+    "content": "项目投运、区域经济、政府活动、乡村振兴和民生价值",
+    "audience": "领导、政府、媒体、股东",
+    "overlap": "完全重合",
+    "checkedAt": "2026-10-27T15:03:38.750384+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://cq.people.com.cn/n2/2026/0909/c365425-41691537.html",
+        "title": "“希望专线”，让农家娃上学更安心"
+      },
+      {
+        "url": "http://cq.people.com.cn/n2/2026/1021/c365406-41728473.html",
+        "title": "川渝农民工服务周活动11月1日在巴南启幕"
+      },
+      {
+        "url": "http://cq.people.com.cn/n2/2026/1023/c365416-41730570.html",
+        "title": "城口县坪坝镇打造行走的乡村思政大课堂"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://cq.people.com.cn/",
+    "title": "重庆频道--人民网_网上的人民日报",
+    "sha256": "1a63f5d844d29ae7faadfd310c8e2534ca7f5cc7a46c9ecdf032afebc1ce7ec2",
+    "snapshot": "1a63f5d844d29ae7faadfd310c8e2534ca7f5cc7a46c9ecdf032afebc1ce7ec2.txt"
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P1",
+    "name": "抖音／视频号关键词监测",
+    "channel": "短视频／评论舆情",
+    "content": "红星酉阳、武陵山农批中心、商户体验、采购体验、市场现场和活动传播",
+    "audience": "媒体、市场人员、合作商、竞对、领导",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:40.365012+00:00",
+    "status": "未提供固定网址",
+    "articleCandidates": []
+  },
+  {
+    "region": "重庆／酉阳",
+    "priority": "P1",
+    "name": "国家企业信用信息公示系统",
+    "url": "https://www.gsxt.gov.cn/",
+    "channel": "企业事实／信用",
+    "content": "项目公司、运营主体、股权、变更、行政许可和监管记录",
+    "audience": "股东、合作商、竞对、领导",
+    "overlap": "新增",
+    "checkedAt": "2026-10-27T15:03:40.365035+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 521: ",
+    "error": "HTTP Error 521: "
+  },
+  {
+    "region": "国家",
+    "name": "农业农村部市场信息",
+    "url": "https://ncpscxx.moa.gov.cn/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:40.366518+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://ncpscxx.moa.gov.cn/",
+    "title": "重点农产品市场信息平台",
+    "sha256": "c05e83cc8908b3b8fb809c1f0b0aa9ce2510c0b41a2fb6e06d258a2ab6a5ee20",
+    "snapshot": "c05e83cc8908b3b8fb809c1f0b0aa9ce2510c0b41a2fb6e06d258a2ab6a5ee20.txt"
+  },
+  {
+    "region": "湖南",
+    "name": "红星实业集团官网",
+    "url": "http://hxsyjt.net/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:40.622463+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "http://hxsyjt.net/news/gsxw/35018.html",
+        "title": "红星实业集团2026迎春文艺汇演成功举办"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "http://hxsyjt.net/",
+    "title": "首页-红星实业集团",
+    "sha256": "8c8d907139dd4a3dd26504364d8b0d4a2d275ddd4cb380a6d03d6249be62e26a",
+    "snapshot": "8c8d907139dd4a3dd26504364d8b0d4a2d275ddd4cb380a6d03d6249be62e26a.txt"
+  },
+  {
+    "region": "酉阳",
+    "name": "酉阳县人民政府",
+    "url": "https://youyang.gov.cn/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:41.886631+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261021_16264875.html",
+        "title": "酉阳县9月考试员考试质量情况、三年内驾龄驾驶人交通违法率和交通肇事率"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261010_16212032.html",
+        "title": "酉阳土家族苗族自治县医疗保障事务中心关于公布解除重庆衡生医药连锁有限责任公司酉阳县中医院店等2家医保服务协议定点医药机构名单的通告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205922.html",
+        "title": "酉阳县钟多街道办事处紫园广场B栋六单元增设电梯项目公示"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205897.html",
+        "title": "酉阳县钟多街道办事处紫园广场A栋五单元增设电梯项目公示"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205815.html",
+        "title": "酉阳县钟多街道办事处紫园广场A栋二单元增设电梯项目公示"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205716.html",
+        "title": "酉阳县钟多街道办事处黔程商都5栋1单元增设电梯项目公示"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110097.html",
+        "title": "酉阳土家族苗族自治县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-材料供应（模板、管材、钢材等）采购公告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110079.html",
+        "title": "酉阳土家族苗族自治县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-水泥采购公告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16109976.html",
+        "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-机械设备租赁公告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110110.html",
+        "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目－专业人员招聘公告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110127.html",
+        "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-用工招聘公告"
+      },
+      {
+        "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110064.html",
+        "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-砂石采购公告"
+      }
+    ],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://youyang.gov.cn/",
+    "title": "酉阳土家族苗族自治县人民政府",
+    "sha256": "f93a52dd800b75e983eeec3925622d9f7e3ef4e26141a59481b47459bbcd9e53",
+    "snapshot": "f93a52dd800b75e983eeec3925622d9f7e3ef4e26141a59481b47459bbcd9e53.txt"
+  },
+  {
+    "region": "国际",
+    "name": "NOAA ENSO",
+    "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:42.626903+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+    "title": "Climate Prediction Center: ENSO Diagnostic Discussion",
+    "sha256": "e0e2a3b2309a68e7dbe860438b1ecc55e660789d3db329b350a1019a355eebb4",
+    "snapshot": "e0e2a3b2309a68e7dbe860438b1ecc55e660789d3db329b350a1019a355eebb4.txt"
+  },
+  {
+    "region": "国际",
+    "name": "FAO GIEWS",
+    "url": "https://www.fao.org/giews/en/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:42.904538+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [
+      {
+        "url": "https://www.fao.org/giews/country-analysis/external-assistance/en/",
+        "title": "Countries requiring external assistance for food: July 2026"
+      },
+      {
+        "url": "https://www.fao.org/giews/country-analysis/unfavourable-prospects/en/",
+        "title": "Countries with unfavourable prospects for current crops: July 2026"
+      }
+    ],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://www.fao.org/giews/en/",
+    "title": "GIEWS - Global Information and Early Warning System on Food and Agriculture&nbsp;&#124;&nbsp;Food and Agriculture Organization of the United Nations",
+    "sha256": "e7520977366ca6c1b1a1ec22d7f4a1568d82fef6708db3a2ddc3760166f338fe",
+    "snapshot": "e7520977366ca6c1b1a1ec22d7f4a1568d82fef6708db3a2ddc3760166f338fe.txt"
+  },
+  {
+    "region": "国际",
+    "name": "USDA FAS",
+    "url": "https://www.fas.usda.gov/data",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:43.724733+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 403: Forbidden",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "region": "国际",
+    "name": "世界银行指标API",
+    "url": "https://api.worldbank.org/v2/indicator/AG.PRD.CROP.XD?format=json",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:43.755518+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Not Found",
+    "httpStatus": 200,
+    "finalUrl": "https://api.worldbank.org/v2/indicator/AG.PRD.CROP.XD?format=json",
+    "title": "",
+    "sha256": "c671be7d7f659759621b502c59b673efc3d3f168f4161d914d39ce35eb8c2adb",
+    "snapshot": "c671be7d7f659759621b502c59b673efc3d3f168f4161d914d39ce35eb8c2adb.txt"
+  },
+  {
+    "region": "国际",
+    "name": "UN Comtrade",
+    "url": "https://comtradeapi.un.org/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:43.848872+00:00",
+    "status": "不可直接访问/待核验",
+    "articleCandidates": [],
+    "robots": "unavailable: HTTP Error 404: Resource Not Found",
+    "error": "HTTP Error 404: Resource Not Found"
+  },
+  {
+    "region": "国际",
+    "name": "澳大利亚气象局ENSO",
+    "url": "https://www.bom.gov.au/climate/enso/",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:44.255252+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://www.bom.gov.au/climate/enso/",
+    "title": "Southern hemisphere monitoring",
+    "sha256": "3aebfd86687408a3d938056241266cb3e03474833fb70746b1f3aea32a1e4f6f",
+    "snapshot": "3aebfd86687408a3d938056241266cb3e03474833fb70746b1f3aea32a1e4f6f.txt"
+  },
+  {
+    "region": "国际",
+    "name": "FAOSTAT",
+    "url": "https://www.fao.org/faostat/en/#data",
+    "priority": "P0",
+    "channel": "官方公开网站/API",
+    "audience": "专家、领导、政府、合作商",
+    "content": "农业与气候/贸易原始资料",
+    "overlap": "补充",
+    "checkedAt": "2026-10-27T15:03:44.594939+00:00",
+    "status": "页面可访问，尚不等于官方账号已认证",
+    "articleCandidates": [],
+    "robots": "allowed",
+    "httpStatus": 200,
+    "finalUrl": "https://www.fao.org/faostat/en/#data",
+    "title": "FAOSTAT",
+    "sha256": "e7d6c678671ba94e79217f3ed76de34cf93d3414d9677cedecb66c84089846af",
+    "snapshot": "e7d6c678671ba94e79217f3ed76de34cf93d3414d9677cedecb66c84089846af.txt"
+  }
+]

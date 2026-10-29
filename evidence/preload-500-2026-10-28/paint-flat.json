@@ -1,0 +1,27 @@
+{
+  "Paint": {
+    "count": 176,
+    "totalMs": 4.224,
+    "p95": 0.044
+  },
+  "UpdateLayer": {
+    "count": 0,
+    "totalMs": 0,
+    "p95": 0
+  },
+  "RasterTask": {
+    "count": 155,
+    "totalMs": 3.0669999999999993,
+    "p95": 0.079
+  },
+  "DrawFrame": {
+    "count": 361,
+    "totalMs": 0,
+    "p95": 0
+  },
+  "CompositeLayers": {
+    "count": 0,
+    "totalMs": 0,
+    "p95": 0
+  }
+}

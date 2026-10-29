@@ -1,0 +1,32 @@
+{
+  "asOf": "2026-10-26",
+  "input": {
+    "facts": 55222,
+    "objects": 4294,
+    "relations": 4096
+  },
+  "inputGenerated": 844,
+  "brandKeywordCandidates": [],
+  "output": {
+    "facts": 43,
+    "objects": 19,
+    "relations": 8,
+    "sources": 11
+  },
+  "checkedSourceCoverage": 1,
+  "policy": {
+    "audience": "供应商合作演示",
+    "default": "人工复核的公开资料",
+    "legacy": "旧数据保留在上一版与源文件，未复核内容不进入本版展示",
+    "brand": "不展示未核实负面归因及与合作演示无关的品牌风险标签；宏观市场变化和必要交易约束保留",
+    "noForecastAsActual": true
+  },
+  "quarantineReason": "未逐条复核的旧资料和生成数据保留在源仓库及v2.9.10；不据此断言其错误。本版不内嵌旧55,222条数据包。",
+  "removedUnsupportedClaims": [
+    "多品种组合价中值被当作单品行情",
+    "无原始观测支撑的价格趋势与变化率",
+    "无依据的市场份额、损耗、收益和价格传导关系",
+    "规划、意向被误作实际经营结果",
+    "静态资料被包装为今日实时新增"
+  ]
+}

@@ -1,0 +1,1788 @@
+{
+  "checks": [
+    {
+      "name": "V4全部37题及左右互斥",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-1-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-1-1",
+        "key": "1.1",
+        "title": "中国到底进口了多少榴莲？红星拿到了多少？",
+        "report": "V4-1-1-REPORT",
+        "style": "data",
+        "theme": "ledger",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-1-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-1-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-1-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-1-2",
+        "key": "1.2",
+        "title": "如果明年泰国榴莲减产 30%，谁会最先受冲击？",
+        "report": "V4-1-2-REPORT",
+        "style": "expert",
+        "theme": "swiss",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-1-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-1-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-1-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-1-3",
+        "key": "1.3",
+        "title": "极端天气下农产品流通会受到什么影响？",
+        "report": "V4-1-3-REPORT",
+        "style": "expert",
+        "theme": "ledger",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-1-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-1-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-2-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-2-1",
+        "key": "2.1",
+        "title": "厄尔尼诺现象会让明年哪些水果减产、哪些增产？",
+        "report": "V4-2-1-REPORT",
+        "style": "expert",
+        "theme": "zine",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-2-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-2-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-2-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-2-2",
+        "key": "2.2",
+        "title": "为什么今年沃柑便宜、耙耙柑贵？明年会反过来吗？",
+        "report": "V4-2-2-REPORT",
+        "style": "expert",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-2-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-2-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-2-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-2-3",
+        "key": "2.3",
+        "title": "中国农产品对东南亚的依赖度有多高？能替代吗？",
+        "report": "V4-2-3-REPORT",
+        "style": "data",
+        "theme": "data",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-2-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-2-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-1",
+        "key": "3.1",
+        "title": "长江中游城市群，谁能成为农产品流通中心？",
+        "report": "V4-3-1-REPORT",
+        "style": "expert",
+        "theme": "field",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-2",
+        "key": "3.2",
+        "title": "湖南果蔬流通损耗能降多少，冷链该投在哪个环节？",
+        "report": "V4-3-2-REPORT",
+        "style": "expert",
+        "theme": "nordic",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-3",
+        "key": "3.3",
+        "title": "乡村振兴资金投向哪里，农民收入增加最快？",
+        "report": "V4-3-3-REPORT",
+        "style": "expert",
+        "theme": "alert",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-4",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-4",
+        "key": "3.4",
+        "title": "湖南能不能成为中部农业数据中心？",
+        "report": "V4-3-4-REPORT",
+        "style": "expert",
+        "theme": "zine",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-4",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-4",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-5",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-5",
+        "key": "3.5",
+        "title": "粮食安全背景下，湖南的蔬菜水果自给能力如何？",
+        "report": "V4-3-5-REPORT",
+        "style": "expert",
+        "theme": "ledger",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-5",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-5",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-6",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-6",
+        "key": "3.6",
+        "title": "极端天气频发，湖南农业应急体系该如何建设？",
+        "report": "V4-3-6-REPORT",
+        "style": "expert",
+        "theme": "data",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-6",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-6",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-7",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-7",
+        "key": "3.7",
+        "title": "长株潭一体化，农产品流通如何协同降本增效？",
+        "report": "V4-3-7-REPORT",
+        "style": "expert",
+        "theme": "blueprint",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-7",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-7",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-8",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-8",
+        "key": "3.8",
+        "title": "农业产业园区该建在哪？产什么？服务谁？",
+        "report": "V4-3-8-REPORT",
+        "style": "data",
+        "theme": "field",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-8",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-8",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-9",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-9",
+        "key": "3.9",
+        "title": "湖南优势农产品\"走出去\"，哪些品类最有机会？",
+        "report": "V4-3-9-REPORT",
+        "style": "data",
+        "theme": "ledger",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-9",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-9",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-10",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-10",
+        "key": "3.10",
+        "title": "数字乡村建设，投资优先级应该如何排序？",
+        "report": "V4-3-10-REPORT",
+        "style": "data",
+        "theme": "ledger",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-10",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-10",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-11",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-11",
+        "key": "3.11",
+        "title": "农产品电商直播带货，到底带动了什么？",
+        "report": "V4-3-11-REPORT",
+        "style": "data",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-11",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-11",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-3-12",
+      "passed": true,
+      "detail": {
+        "id": "v4-3-12",
+        "key": "3.12",
+        "title": "如何让农产品区域公用品牌真正值钱？",
+        "report": "V4-3-12-REPORT",
+        "style": "expert",
+        "theme": "alert",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-3-12",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-3-12",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-4-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-4-1",
+        "key": "4.1",
+        "title": "一颗榴莲从果园到餐桌，成本和利润如何分配？",
+        "report": "V4-4-1-REPORT",
+        "style": "data",
+        "theme": "swiss",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-4-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-4-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-4-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-4-2",
+        "key": "4.2",
+        "title": "水果价格变化，供需、成本和渠道各起多大作用？",
+        "report": "V4-4-2-REPORT",
+        "style": "expert",
+        "theme": "blueprint",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-4-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-4-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-4-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-4-3",
+        "key": "4.3",
+        "title": "山货经营案例能复制吗，规模扩大后净收益如何变化？",
+        "report": "V4-4-3-REPORT",
+        "style": "expert",
+        "theme": "alert",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-4-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-4-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-4-4",
+      "passed": true,
+      "detail": {
+        "id": "v4-4-4",
+        "key": "4.4",
+        "title": "农产品滞销年年有，今年为什么是这几样？",
+        "report": "V4-4-4-REPORT",
+        "style": "expert",
+        "theme": "blueprint",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-4-4",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-4-4",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-5-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-5-1",
+        "key": "5.1",
+        "title": "批发市场的天花板在哪？这个项目还能长多大？",
+        "report": "V4-5-1-REPORT",
+        "style": "expert",
+        "theme": "field",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-5-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-5-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-5-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-5-2",
+        "key": "5.2",
+        "title": "如果盒马、美团直采，批发市场会被绕过吗？",
+        "report": "V4-5-2-REPORT",
+        "style": "expert",
+        "theme": "editorial",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-5-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-5-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-5-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-5-3",
+        "key": "5.3",
+        "title": "农业数字化的钱，最终会流向谁？",
+        "report": "V4-5-3-REPORT",
+        "style": "expert",
+        "theme": "zine",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 15,
+        "edges": 23,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-5-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-5-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-6-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-6-1",
+        "key": "6.1",
+        "title": "泰国榴莲大量到货，我该赶紧出货还是再等等？",
+        "report": "V4-6-1-REPORT",
+        "style": "data",
+        "theme": "swiss",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-6-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-6-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-6-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-6-2",
+        "key": "6.2",
+        "title": "我的竞争对手凭什么比我卖得好？",
+        "report": "V4-6-2-REPORT",
+        "style": "expert",
+        "theme": "swiss",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-6-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-6-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-6-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-6-3",
+        "key": "6.3",
+        "title": "极端天气来了，我的货怎么办？",
+        "report": "V4-6-3-REPORT",
+        "style": "data",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-6-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-6-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-7-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-7-1",
+        "key": "7.1",
+        "title": "全国农批市场，谁在崛起、谁在掉队？",
+        "report": "V4-7-1-REPORT",
+        "style": "expert",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 17,
+        "edges": 27,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-7-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-7-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-7-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-7-2",
+        "key": "7.2",
+        "title": "AI 时代，数据如何成为行业共同资产？",
+        "report": "V4-7-2-REPORT",
+        "style": "data",
+        "theme": "swiss",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-7-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-7-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-7-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-7-3",
+        "key": "7.3",
+        "title": "数据驱动的批发市场，和传统市场差在哪？",
+        "report": "V4-7-3-REPORT",
+        "style": "data",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-7-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-7-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-1",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-1",
+        "key": "8.1",
+        "title": "今年行情这么差，明年还敢种吗？",
+        "report": "V4-8-1-REPORT",
+        "style": "data",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-1",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-1",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-2",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-2",
+        "key": "8.2",
+        "title": "今年天气这么反常，我的果树会不会出问题？",
+        "report": "V4-8-2-REPORT",
+        "style": "expert",
+        "theme": "editorial",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-2",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-2",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-3",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-3",
+        "key": "8.3",
+        "title": "我的水果该什么时候采摘、卖给谁最划算？",
+        "report": "V4-8-3-REPORT",
+        "style": "expert",
+        "theme": "swiss",
+        "placement": "recommend",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-3",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-3",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-4",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-4",
+        "key": "8.4",
+        "title": "别人都在扩种，我要不要跟？",
+        "report": "V4-8-4-REPORT",
+        "style": "data",
+        "theme": "zine",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-4",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-4",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-5",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-5",
+        "key": "8.5",
+        "title": "湖南柑橘补贴若适用，哪些条件决定申请能否通过？",
+        "report": "V4-8-5-REPORT",
+        "style": "expert",
+        "theme": "editorial",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-5",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-5",
+      "passed": true
+    },
+    {
+      "name": "逐日双环境主体事件 v4-8-6",
+      "passed": true,
+      "detail": {
+        "id": "v4-8-6",
+        "key": "8.6",
+        "title": "如何把我的山货卖出去、卖出好价钱？",
+        "report": "V4-8-6-REPORT",
+        "style": "expert",
+        "theme": "nordic",
+        "placement": "history",
+        "dayCount": 40,
+        "events": 160,
+        "agents": 6,
+        "nodes": 16,
+        "edges": 25,
+        "perDay": true,
+        "monotonic": true,
+        "unique": true,
+        "references": true,
+        "distinct": true,
+        "conservation": true,
+        "series": true,
+        "adaptive": true,
+        "single": true,
+        "oneDay": true,
+        "paired": true,
+        "tools": 6,
+        "chapters": true,
+        "exact": true,
+        "boundary": true
+      }
+    },
+    {
+      "name": "图谱外键、守恒、序列与报告 v4-8-6",
+      "passed": true
+    },
+    {
+      "name": "10/20/40与单环境、ID隔离 v4-8-6",
+      "passed": true
+    },
+    {
+      "name": "首页只保留推荐内容",
+      "passed": true
+    },
+    {
+      "name": "12个推荐、25条简化历史",
+      "passed": true
+    },
+    {
+      "name": "两侧独立滚动、整页不滚动 1920",
+      "passed": true,
+      "detail": {
+        "page": true,
+        "horizontal": true,
+        "left": true,
+        "right": true,
+        "independent": true
+      }
+    },
+    {
+      "name": "两侧独立滚动、整页不滚动 1440",
+      "passed": true,
+      "detail": {
+        "page": true,
+        "horizontal": true,
+        "left": true,
+        "right": true,
+        "independent": true
+      }
+    },
+    {
+      "name": "两侧独立滚动、整页不滚动 1024",
+      "passed": true,
+      "detail": {
+        "page": true,
+        "horizontal": true,
+        "left": true,
+        "right": true,
+        "independent": true
+      }
+    },
+    {
+      "name": "两侧独立滚动、整页不滚动 768",
+      "passed": true,
+      "detail": {
+        "page": true,
+        "horizontal": true,
+        "left": true,
+        "right": true,
+        "independent": true
+      }
+    },
+    {
+      "name": "两侧独立滚动、整页不滚动 390",
+      "passed": true,
+      "detail": {
+        "page": true,
+        "horizontal": true,
+        "left": true,
+        "right": true,
+        "independent": true
+      }
+    },
+    {
+      "name": "默认40轮、可选范围10至40",
+      "passed": true
+    },
+    {
+      "name": "新推演清空文本",
+      "passed": true
+    },
+    {
+      "name": "真实API逐日进度、不泄露未来事件",
+      "passed": true,
+      "detail": {
+        "runner_status": "completed",
+        "total_rounds": 10,
+        "twitter_current_round": 10,
+        "reddit_current_round": 10,
+        "twitter_simulated_hours": 240,
+        "reddit_simulated_hours": 240,
+        "twitter_actions_count": 20,
+        "reddit_actions_count": 20,
+        "twitter_running": false,
+        "reddit_running": false,
+        "twitter_completed": true,
+        "reddit_completed": true,
+        "enabled_platforms": [
+          "twitter",
+          "reddit"
+        ]
+      }
+    },
+    {
+      "name": "独立报告 v4-1-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-1-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-1-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-2-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-2-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-2-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-4",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-5",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-6",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-7",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-8",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-9",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-10",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-11",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-3-12",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-4-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-4-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-4-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-4-4",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-5-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-5-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-5-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-6-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-6-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-6-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-7-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-7-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-7-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-1",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-2",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-3",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-4",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-5",
+      "passed": true
+    },
+    {
+      "name": "独立报告 v4-8-6",
+      "passed": true
+    },
+    {
+      "name": "07两侧真实渲染、逐轮运行",
+      "passed": true
+    },
+    {
+      "name": "07图谱主体保留",
+      "passed": true
+    },
+    {
+      "name": "40轮完成且最后一天事件未丢失",
+      "passed": true
+    },
+    {
+      "name": "08完整流式报告与工具",
+      "passed": true
+    },
+    {
+      "name": "无浏览器异常",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

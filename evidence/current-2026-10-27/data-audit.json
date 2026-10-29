@@ -1,0 +1,1856 @@
+{
+  "asOf": "2026-10-27",
+  "before": {
+    "facts": 36055,
+    "objects": 2428,
+    "relations": 2207
+  },
+  "after": {
+    "facts": 36141,
+    "objects": 2432,
+    "relations": 2207
+  },
+  "added": 86,
+  "octoberAdded": 56,
+  "accepted": [
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34089043.html",
+      "title": "湖南主要农产品批发价格监测周报（2026年第43期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34089043.html",
+      "pageTitle": "湖南主要农产品批发价格监测周报（2026年第43期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-27 10:46:40"
+      ],
+      "sha256": "4dba45bf74087d642b7d0e0c3a9f8b35a7891cfd6bd8c532d2b52f3e748086b1",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南主要农产品批发价格监测周报（2026年第43期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34088830.html",
+      "title": "10月第4周生猪和猪肉价格有所下跌",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261027_34088830.html",
+      "pageTitle": "10月第4周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-27 08:12:07"
+      ],
+      "sha256": "cde24401b82cb36e1243143d36b914180dcf81a318d566b05358df32fc543d93",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        10月第4周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                                 \r\n ",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261021_34085506.html",
+      "title": "湖南热门农产品电商行情监测周报(2026年第42期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261021_34085506.html",
+      "pageTitle": "湖南热门农产品电商行情监测周报(2026年第42期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-21 10:57:46"
+      ],
+      "sha256": "3c3a26298aec9e322931ad6af7afbe1567b54be569f538112947b7b85b0d91aa",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南热门农产品电商行情监测周报(2026年第42期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084758.html",
+      "title": "湖南主要农产品批发价格监测周报（2026年第42期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084758.html",
+      "pageTitle": "湖南主要农产品批发价格监测周报（2026年第42期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-20 15:01:05"
+      ],
+      "sha256": "e8d9db904a57d683e2bb20e6738abfacdb4440d9501063fc822b388aaeef7886",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南主要农产品批发价格监测周报（2026年第42期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084294.html",
+      "title": "10月第3周生猪和猪肉价格有所下跌",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261020_34084294.html",
+      "pageTitle": "10月第3周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-20 08:21:11"
+      ],
+      "sha256": "7c6f64b4a3b98c5d17c5a078811527fc67d5dea1a5d1417c5d736ed86fab0a34",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        10月第3周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                                 \r\n ",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261014_34081033.html",
+      "title": "湖南热门农产品电商行情监测周报(2026年第41期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261014_34081033.html",
+      "pageTitle": "湖南热门农产品电商行情监测周报(2026年第41期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-14 15:19:40"
+      ],
+      "sha256": "ef3798d4d4f6c92d9c79861ac90be713937bcb46a4fdc066985b58e3a55d4db4",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南热门农产品电商行情监测周报(2026年第41期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34080190.html",
+      "title": "湖南主要农产品批发价格监测周报（2026年第41期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34080190.html",
+      "pageTitle": "湖南主要农产品批发价格监测周报（2026年第41期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-13 11:15:41"
+      ],
+      "sha256": "06c4653198264cb592f93b9977dd4dc634a3c9b0036a222bf30ea27136be0b8f",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南主要农产品批发价格监测周报（2026年第41期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34079971.html",
+      "title": "10月第2周生猪和猪肉价格有所下跌",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261013_34079971.html",
+      "pageTitle": "10月第2周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-13 08:27:28"
+      ],
+      "sha256": "f42f0bbbf320d45096e1dc5721802fa760710d4b0f20e679715737030582bf58",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        10月第2周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                                 \r\n ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079768.html",
+      "title": "湖南热门农产品电商行情监测周报(2026年第40期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079768.html",
+      "pageTitle": "湖南热门农产品电商行情监测周报(2026年第40期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-12 16:47:37"
+      ],
+      "sha256": "50f88e9ae95b9ec1356c2506a20f40f51f33acb32061343df519520be0652ea4",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南热门农产品电商行情监测周报(2026年第40期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079780.html",
+      "title": "10月第1周生猪和猪肉价格有所下跌",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079780.html",
+      "pageTitle": "10月第1周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-12 16:53:11"
+      ],
+      "sha256": "11e50b06e2acda6b2ac69a09f2bcf864b9d0bd7b582daa1ac13dc98f6b5474c1",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        10月第1周生猪和猪肉价格有所下跌 -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                                 \r\n ",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079764.html",
+      "title": "湖南主要农产品批发价格监测周报（2026年第40期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202610/t20261012_34079764.html",
+      "pageTitle": "湖南主要农产品批发价格监测周报（2026年第40期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-10-12 16:39:53"
+      ],
+      "sha256": "18a678779bac879953104ee00d60913149b26fe7418156335ce10623df771759",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南主要农产品批发价格监测周报（2026年第40期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202609/t20260930_34075048.html",
+      "title": "湖南热门农产品电商行情监测周报(2026年第39期）",
+      "publisher": "湖南省农业农村厅·数据发布",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "https://agri.hunan.gov.cn/agri/tslm/njnqx/202609/t20260930_34075048.html",
+      "pageTitle": "湖南热门农产品电商行情监测周报(2026年第39期） -\r\n        湖南省农业农村厅",
+      "dateCandidates": [
+        "2026-09-30 11:05:12"
+      ],
+      "sha256": "3b34099341029c2c3703b7f962eabe97bb8731116a938c4038640d470b4e6693",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\r\n \r\n\r\n \r\n     \r\n     \r\n    \r\n    \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n        湖南热门农产品电商行情监测周报(2026年第39期） -\r\n        湖南省农业农村厅\r\n     \r\n   \r\n     \r\n     \r\n    \r\n     \r\n     \r\n     \r\n     \r\n   \r\n     \r\n  \r\n     \r\n     \r\n\r\n\r\n     \r\n   \r\n\r\n     \r\n \r\n\r\n \r\n     \r\n \r\n    \r\n     \r\n      \r\n     \r\n        \r\n         \r\n       \r\n     \r\n    \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                             \r\n                           ",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/sytt/202610/t20261023_6038378.shtml",
+      "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/sytt/202610/t20261023_6038378.shtml",
+      "pageTitle": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-23 09:29"
+      ],
+      "sha256": "e1f71527986fa944fea03647c52841df804a7b74dad92a1d428cb49e1aa715a0",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6038378 \n 习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话 \n 20 \n 新华社 \n \n 2026-10-23 \n 62865   \n 首页头条 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260923_6021582.shtml",
+      "title": "2026年中国农民丰收节主场活动在湖北枣阳举办--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202609/t20260923_6021582.shtml",
+      "pageTitle": "2026年中国农民丰收节主场活动在湖北枣阳举办--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-09-23 18:01"
+      ],
+      "sha256": "61b8de3448f460b7128c4d8b1b47e7125839d866aef101c929d7f0df2ff83c34",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     2026年中国农民丰收节主场活动在湖北枣阳举办--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6021582 \n 2026年中国农民丰收节主场活动在湖北枣阳举办 \n 20 \n 农业农村部新闻办公室 \n \n 2026-09-23 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n    \n   ",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-09-23"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260911_6012317.shtml",
+      "title": "2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202609/t20260911_6012317.shtml",
+      "pageTitle": "2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-09-13 10:39"
+      ],
+      "sha256": "4ef029832a37ff81ade124dcbe136e8886c4902027932875d0e9b0bb03a356b9",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6012317 \n 2026中国农民丰收节村歌大赛中部大区赛及颁奖展演在湖北宣恩举行 \n 20 \n “微观三农”微信公众号 \n \n 2026-09-13 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-09-13"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261022_6037819.shtml",
+      "title": "严把整地播种质量关 专家支招小麦适期高质播种--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202610/t20261022_6037819.shtml",
+      "pageTitle": "严把整地播种质量关 专家支招小麦适期高质播种--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-22 10:46"
+      ],
+      "sha256": "d6ed18fa6723021bb2068d753dfe7d658f1222e65322885806fb8f773b2f0c75",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     严把整地播种质量关 专家支招小麦适期高质播种--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6037819 \n 严把整地播种质量关 专家支招小麦适期高质播种 \n 20 \n 垄上行 \n \n 2026-10-22 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n    \n    \n\t    \n\t",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261020_6035885.shtml",
+      "title": "湖北省加强农业废弃物循环利用技术培训--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202610/t20261020_6035885.shtml",
+      "pageTitle": "湖北省加强农业废弃物循环利用技术培训--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-20 10:04"
+      ],
+      "sha256": "a0ab3cc533a98d352f61d18ee62eac97520e350f1953099216124aef9e2eba8d",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     湖北省加强农业废弃物循环利用技术培训--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6035885 \n 湖北省加强农业废弃物循环利用技术培训 \n 20 \n 农民日报 \n \n 2026-10-20 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n    \n    \n\t    \n\t    \n\t\t",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-20"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261019_6035306.shtml",
+      "title": "科技改写湖北农业版图--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202610/t20261019_6035306.shtml",
+      "pageTitle": "科技改写湖北农业版图--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-19 14:12"
+      ],
+      "sha256": "3bf1127b732ffdd8ba1dc2ed938f26f29d9f40d3101a35466982aefd94fffa9b",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     科技改写湖北农业版图--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6035306 \n 科技改写湖北农业版图 \n 20 \n 经济日报 \n \n 2026-10-19 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n    \n    \n\t    \n\t    \n\t\t    \n\t\t    搜 索 \n",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261015_6033434.shtml",
+      "title": "省人大常委会调研农产品质量安全工作--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/dtyw/202610/t20261015_6033434.shtml",
+      "pageTitle": "省人大常委会调研农产品质量安全工作--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-15 14:38"
+      ],
+      "sha256": "19fdd34527a58f13c4be37dbd37c9597d77b8dcbc4a4fbdbb0a2deca703b4f45",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     省人大常委会调研农产品质量安全工作--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6033434 \n 省人大常委会调研农产品质量安全工作 \n 20 \n 湖北省农业农村厅 \n \n 2026-10-15 \n 1556   \n 三农工作 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n\t \n     \n    \n    \n\t    \n\t    \n",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-15"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202610/t20261026_6040731.shtml",
+      "title": "[宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链--湖北省农业农村厅",
+      "publisher": "湖北省农业农村厅官网",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202610/t20261026_6040731.shtml",
+      "pageTitle": "[宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链--湖北省农业农村厅",
+      "dateCandidates": [
+        "2026-10-26 10:40"
+      ],
+      "sha256": "8196c20de7248be233082c834478ae126233651f43f07e95fde4d38dd95b0cd8",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n \n \n \n \n \n \n \n \n     \n     [宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链--湖北省农业农村厅 \n      \n\t \n  \n  \n  \n  \n \n    \n \n    \n    \n \n \n \n  \n \n \n \n\n \n \n\n \n \n 6040731 \n [宜昌]“北斗+”管住万吨粪污 宜都构建“1+4+N”畜禽粪污供应链 \n 20 \n 湖北日报 \n \n 2026-10-26 \n 67139   \n 市州动态 \n     \n     \n         \n        \n\t    \n \n \n \n   \n    \n      \n       \n     \n     无障碍阅读 |\n 微信 |\n 微博 |\n 手机版 \n | \n 繁体    | 登录 | 注册 \n     \n    \n   \n   \n    \n \n    \n\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t 搜索  \n\t\t \n\t\t \n\t\t   \n\t\t\t    \n\t\t  \n\t\t \n",
+      "registryLabel": "湖北农业政务微信／微博",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202610/t20261012_6031180.shtml",
+      "title": "双节联动  借势赋能  湖北全力做好第四次全国农业普查宣传--湖北省统计局",
+      "publisher": "湖北省统计局",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "http://tjj.hubei.gov.cn/bmdt/sjdt/202610/t20261012_6031180.shtml",
+      "pageTitle": "双节联动  借势赋能  湖北全力做好第四次全国农业普查宣传--湖北省统计局",
+      "dateCandidates": [
+        "2026-10-12 12:48"
+      ],
+      "sha256": "a770410c7bdc50f357e879302d558294fa151df4dddccf04c7070f6cead60e1e",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n     \n     \n     \n     \n     \n     \n     \n  \n       \n \n \n \n \n \n \n \n \n \n \n \n     \n     双节联动  借势赋能  湖北全力做好第四次全国农业普查宣传--湖北省统计局 \n     \n     \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n     \n     \n\t \n\t \n     \n     \n     \n\t \n \n\n   \n   \n\t \n     \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 今天是： \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t 中国政府网 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 无障碍阅读 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 登录 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 注册 \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202609/t20260910_6011315.shtml",
+      "title": "湖北省第四次全国农业普查方案培训会在武汉举办--湖北省统计局",
+      "publisher": "湖北省统计局",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "http://tjj.hubei.gov.cn/bmdt/sjdt/202609/t20260910_6011315.shtml",
+      "pageTitle": "湖北省第四次全国农业普查方案培训会在武汉举办--湖北省统计局",
+      "dateCandidates": [
+        "2026-09-10 17:00"
+      ],
+      "sha256": "0f652e40f41a6f4d840f8334c995c06eb2713e5961518fbebf4c255b448305e7",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n     \n     \n     \n     \n     \n     \n     \n  \n       \n \n \n \n \n \n \n \n \n \n \n \n     \n     湖北省第四次全国农业普查方案培训会在武汉举办--湖北省统计局 \n     \n     \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n     \n     \n\t \n\t \n     \n     \n     \n\t \n \n\n   \n   \n\t \n     \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 今天是： \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t 中国政府网 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 无障碍阅读 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 登录 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 注册 \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t 搜索 \n\t",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202607/t20260728_5984729.shtml",
+      "title": "谢高波赴武汉市督办农业普查工作--湖北省统计局",
+      "publisher": "湖北省统计局",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "http://tjj.hubei.gov.cn/bmdt/sjdt/202607/t20260728_5984729.shtml",
+      "pageTitle": "谢高波赴武汉市督办农业普查工作--湖北省统计局",
+      "dateCandidates": [
+        "2026-07-27 15:00"
+      ],
+      "sha256": "5d003d4cb2ec31f2ad0d1e624d4516eea7cf5531f31ac5c4c1bc9f23d320fa5b",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n     \n     \n     \n     \n     \n     \n     \n  \n       \n \n \n \n \n \n \n \n \n \n \n \n     \n     谢高波赴武汉市督办农业普查工作--湖北省统计局 \n     \n     \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n     \n     \n\t \n\t \n     \n     \n     \n\t \n \n\n   \n   \n\t \n     \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 今天是： \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t 中国政府网 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 无障碍阅读 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 登录 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 注册 \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t 搜索 \n\t\t\t\t\t \n\t",
+      "date": "2026-07-27"
+    },
+    {
+      "url": "http://tjj.hubei.gov.cn/tjsj/tjfx/qstjfx/202610/t20261026_6040988.shtml",
+      "title": "前三季度全省农业生产形势平稳--湖北省统计局",
+      "publisher": "湖北省统计局",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "http://tjj.hubei.gov.cn/tjsj/tjfx/qstjfx/202610/t20261026_6040988.shtml",
+      "pageTitle": "前三季度全省农业生产形势平稳--湖北省统计局",
+      "dateCandidates": [
+        "2026-10-26 15:05"
+      ],
+      "sha256": "54a6a9efd047d03bc210bdd088a5a86b3efdab829edfda8b52b4bf93f8669de9",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n     \n     \n     \n     \n     \n     \n     \n  \n       \n \n \n \n \n \n \n \n \n \n \n \n     \n     前三季度全省农业生产形势平稳--湖北省统计局 \n     \n     \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n\t \n     \n     \n\t \n\t \n     \n     \n     \n\t \n \n\n   \n   \n\t \n     \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t 今天是： \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t 中国政府网 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 无障碍阅读 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 登录 \n\t\t\t\t\t\t | \n\t\t\t\t\t\t 注册 \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t 搜索 \n\t\t\t\t\t \n\t\t",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868858.html",
+      "title": "秋日清剿外来入侵物种，武汉抢抓关键窗口期防治加拿大一枝黄花-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868858.html",
+      "pageTitle": "秋日清剿外来入侵物种，武汉抢抓关键窗口期防治加拿大一枝黄花-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-10-27 13:50"
+      ],
+      "sha256": "6bf0237897d6b695b4e25833ff79b87809fc8ae6d21c3aa3303f2a7c9340aa05",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    秋日清剿外来入侵物种，武汉抢抓关键窗口期防治加拿大一枝黄花-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2868858 \n 秋日清剿外来入侵物种，武汉抢抓关键窗口期防治加拿大一枝黄花 \n 20 \n 极目新闻 \n \n 2026-10-27 \n 16945   \n 武汉“三农” \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n     ",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261026_2868148.html",
+      "title": "“花点时间，乡游武汉”走进黄陂，古村山野间解锁乡村新玩法-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261026_2868148.html",
+      "pageTitle": "“花点时间，乡游武汉”走进黄陂，古村山野间解锁乡村新玩法-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-10-26 14:01"
+      ],
+      "sha256": "5bbf0a2c365831bbe537eb3a606e75cc6d7762bf718f9d684dc6cc1d8a0a84b7",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    “花点时间，乡游武汉”走进黄陂，古村山野间解锁乡村新玩法-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2868148 \n “花点时间，乡游武汉”走进黄陂，古村山野间解锁乡村新玩法 \n 20 \n 湖北日报 \n \n 2026-10-26 \n 16945   \n 武汉“三农” \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n       ",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202608/t20260825_2838180.html",
+      "title": "市农业农村局关于行政规范性文件清理结果的通知-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202608/t20260825_2838180.html",
+      "pageTitle": "市农业农村局关于行政规范性文件清理结果的通知-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-08-25 08:53"
+      ],
+      "sha256": "a23fa4a645203b9da80a2502a06e5ec29fa541e3b527e8a705891b76030ba125",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    市农业农村局关于行政规范性文件清理结果的通知-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2838180 \n 市农业农村局关于行政规范性文件清理结果的通知 \n 20 \n \n \n 2026-08-25 \n 16926   \n 规范性文件 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n       武汉市人民政府网 \n  ",
+      "date": "2026-08-25"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202607/t20260729_2827170.html",
+      "title": "市农业农村局关于印发 《武汉市高标准农田建设全过程质量管理实施细则(试行)》的通知-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/gfwj/202607/t20260729_2827170.html",
+      "pageTitle": "市农业农村局关于印发 《武汉市高标准农田建设全过程质量管理实施细则(试行)》的通知-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-05-12 10:00"
+      ],
+      "sha256": "44709a4bc04f991aa61c95a37bc6314575b7437702d5d23fe2632a72fa949259",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    市农业农村局关于印发 《武汉市高标准农田建设全过程质量管理实施细则(试行)》的通知-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2827170 \n 市农业农村局关于印发 《武汉市高标准农田建设全过程质量管理实施细则(试行)》的通知 \n 20 \n \n \n 2026-05-12 \n 16926   \n 规范性文件 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n     ",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/zcjd/202607/t20260730_2827234.html",
+      "title": "关于《武汉市高标准农田建设全过程质量管理实施细则（试行）》的解读-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/zcjd/202607/t20260730_2827234.html",
+      "pageTitle": "关于《武汉市高标准农田建设全过程质量管理实施细则（试行）》的解读-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-05-12 15:00"
+      ],
+      "sha256": "dd8ebe1d4296c0e439c435aa9ed57dcc60c4b674b4272da5070fd8c82c7a1730",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    关于《武汉市高标准农田建设全过程质量管理实施细则（试行）》的解读-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2827234 \n 关于《武汉市高标准农田建设全过程质量管理实施细则（试行）》的解读 \n 20 \n 武汉市农业农村局 \n \n 2026-05-12 \n 16925   \n 政策解读 \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       ",
+      "date": "2026-05-12"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202603/t20260316_2740443.html",
+      "title": "解读2026年省委一号文件精神｜锚定农业农村现代化 扎实推进乡村全面振兴-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202603/t20260316_2740443.html",
+      "pageTitle": "解读2026年省委一号文件精神｜锚定农业农村现代化 扎实推进乡村全面振兴-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-03-16 15:02"
+      ],
+      "sha256": "6047a51f0915c2345ceb7a7de02b6cafb67521633c8447e0e14e4d262d8ca27f",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    解读2026年省委一号文件精神｜锚定农业农村现代化 扎实推进乡村全面振兴-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2740443 \n 解读2026年省委一号文件精神｜锚定农业农村现代化 扎实推进乡村全面振兴 \n 20 \n 湖北日报 \n \n 2026-03-16 \n 16946   \n 信息联播 \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n   ",
+      "date": "2026-03-16"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202604/t20260427_2757773.html",
+      "title": "市农业农村局办公室关于印发 《2026年武汉市特色优质水产品种示范推广项目实施方案》的通知-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202604/t20260427_2757773.html",
+      "pageTitle": "市农业农村局办公室关于印发 《2026年武汉市特色优质水产品种示范推广项目实施方案》的通知-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-04-27 15:08"
+      ],
+      "sha256": "e266e91173cb9fde2ede17477997ff86d08438a5a363c68c60bef1a6555c6f65",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    市农业农村局办公室关于印发 《2026年武汉市特色优质水产品种示范推广项目实施方案》的通知-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2757773 \n 市农业农村局办公室关于印发 《2026年武汉市特色优质水产品种示范推广项目实施方案》的通知 \n 20 \n \n \n 2026-04-27 \n 52983   \n 武农办 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     ",
+      "date": "2026-04-27"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202605/t20260507_2761204.html",
+      "title": "市农业农村局办公室关于印发《2026年武汉市渔业发展补助项目实施方案》的通知-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202605/t20260507_2761204.html",
+      "pageTitle": "市农业农村局办公室关于印发《2026年武汉市渔业发展补助项目实施方案》的通知-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-04-23 10:00"
+      ],
+      "sha256": "8d46b485de53e51aeae54027f75dc4a57cf01fe46b41055a9e14894b2eb360a7",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    市农业农村局办公室关于印发《2026年武汉市渔业发展补助项目实施方案》的通知-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2761204 \n 市农业农村局办公室关于印发《2026年武汉市渔业发展补助项目实施方案》的通知 \n 20 \n \n \n 2026-04-23 \n 52983   \n 武农办 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 ",
+      "date": "2026-04-23"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202603/t20260318_2741534.html",
+      "title": "市农业农村局办公室关于印发2026年农业随机抽查计划的通知-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wnb/202603/t20260318_2741534.html",
+      "pageTitle": "市农业农村局办公室关于印发2026年农业随机抽查计划的通知-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-03-18 10:02"
+      ],
+      "sha256": "0207d8223f05c6d8be4543a9f26d7f32e0ca94a270d660a1d27c17187c7d3540",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    市农业农村局办公室关于印发2026年农业随机抽查计划的通知-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2741534 \n 市农业农村局办公室关于印发2026年农业随机抽查计划的通知 \n 20 \n \n \n 2026-03-18 \n 52983   \n 武农办 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n       ",
+      "date": "2026-03-18"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wn/202601/t20260113_2710487.html",
+      "title": "武汉市农业农村局关于湖北今楚联合食品有限公司新建100万头生猪定点屠宰厂加工项目的批复-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/zwgk_25/zcfg/xgwj/wn/202601/t20260113_2710487.html",
+      "pageTitle": "武汉市农业农村局关于湖北今楚联合食品有限公司新建100万头生猪定点屠宰厂加工项目的批复-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-01-12 10:00"
+      ],
+      "sha256": "f43bd4db0341eb17fc5f80cbe63ccf140afef578d532b2225ad74d239f1f7940",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    武汉市农业农村局关于湖北今楚联合食品有限公司新建100万头生猪定点屠宰厂加工项目的批复-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2710487 \n 武汉市农业农村局关于湖北今楚联合食品有限公司新建100万头生猪定点屠宰厂加工项目的批复 \n 20 \n \n \n 2026-01-12 \n 52984   \n 武农 \n     \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n    ",
+      "date": "2026-01-12"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868861.html",
+      "title": "徒步、露营、音乐“打包”进乡野 武汉这场嘉年华串起21家农庄-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868861.html",
+      "pageTitle": "徒步、露营、音乐“打包”进乡野 武汉这场嘉年华串起21家农庄-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-10-27 13:58"
+      ],
+      "sha256": "5b34b98437f64bfab8f1228fda2cfa2b297f2642eac4561c8527bfc90e732bab",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    徒步、露营、音乐“打包”进乡野 武汉这场嘉年华串起21家农庄-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2868861 \n 徒步、露营、音乐“打包”进乡野 武汉这场嘉年华串起21家农庄 \n 20 \n 湖北日报 \n \n 2026-10-27 \n 16945   \n 武汉“三农” \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n   ",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868860.html",
+      "title": "守住耕地、科技种田、育好种子，武汉三招端出一碗好饭-武汉市农业农村局",
+      "publisher": "武汉市农业农村局·农产品价格监测",
+      "region": "湖北",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/whsn/202610/t20261027_2868860.html",
+      "pageTitle": "守住耕地、科技种田、育好种子，武汉三招端出一碗好饭-武汉市农业农村局",
+      "dateCandidates": [
+        "2026-10-27 13:53"
+      ],
+      "sha256": "47d67361961397e155df3b51d8df189ce9eac4934ea102e651d281302b318de0",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n    守住耕地、科技种田、育好种子，武汉三招端出一碗好饭-武汉市农业农村局\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n 2868860 \n 守住耕地、科技种田、育好种子，武汉三招端出一碗好饭 \n 20 \n 长江日报 \n \n 2026-10-27 \n 16945   \n 武汉“三农” \n      \n \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n\t\t 网站首页 \n\t\t 政府信息公开 \n\t\t 政务服务 \n\t\t 新闻中心 \n\t\t 公众互动 \n\t\t 专题专栏 \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t \n \n \n   \n \n \n   \n     \n       中国政府网 \n       | \n       武汉市人民政",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261027_91036528.html",
+      "title": "贵州省畜禽遗传资源管理站关于家禽方面的4项采购公告",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261027_91036528.html",
+      "pageTitle": "贵州省畜禽遗传资源管理站关于家禽方面的4项采购公告",
+      "dateCandidates": [
+        "2026-10-27 11:37:41"
+      ],
+      "sha256": "7cfefc9e624d12de3e6e6b56a312ebd5a229d985a8caf2df58b84b4078124634",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 贵州省畜禽遗传资源管理站关于家禽方面的4项采购公告 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 91036528 \n 贵州省畜禽遗传资源管理站关于家禽方面的4项采购公告 \n 20 \n 贵州省畜禽遗传资源管理站 \n 贵州省畜禽遗传资源管理站 \n 2026-10-27  11:37:41 \n 5505912 \n 通知公告 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 91036528 \n 贵州省畜禽遗传资源管理站关于家禽方面的4项采购公告 \n 20 \n 贵州省畜禽遗传资源管理站 \n 贵州省畜禽遗传资源管理站 \n 2026-10-27  11:37:41 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261026_91030339.html",
+      "title": "贵州省农业农村厅 关于申请加入补充耕地质量验收省级专家库入库专家（第二批）的公告",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tzgg/202610/t20261026_91030339.html",
+      "pageTitle": "贵州省农业农村厅 关于申请加入补充耕地质量验收省级专家库入库专家（第二批）的公告",
+      "dateCandidates": [
+        "2026-10-26 15:37:52"
+      ],
+      "sha256": "1733e2cd85a4d1b02ddb3b4c60062752bf31c53cae91861fe017c38f5a19ec77",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 贵州省农业农村厅 关于申请加入补充耕地质量验收省级专家库入库专家（第二批）的公告 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 91030339 \n 贵州省农业农村厅 关于申请加入补充耕地质量验收省级专家库入库专家（第二批）的公告 \n 20 \n 耕地质量保护与农垦处 \n \n 2026-10-26  15:37:52 \n 5505912 \n 通知公告 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 91030339 \n 贵州省农业农村厅 关于申请加入补充耕地质量验收省级专家库入库专家（第二批）的公告 \n 20 \n 耕地质量保护与农垦处 \n \n 2026-10-26  15:37:52 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 ",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202610/t20261021_91015714.html",
+      "title": "喜报！贵州“村T”项目勇夺全国农村创业大赛总决赛一等奖",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202610/t20261021_91015714.html",
+      "pageTitle": "喜报！贵州“村T”项目勇夺全国农村创业大赛总决赛一等奖",
+      "dateCandidates": [
+        "2026-10-21 18:15:53"
+      ],
+      "sha256": "414f431b702c21cda2a57738541be6985162c2fb561252a3665171bc5a29944d",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 喜报！贵州“村T”项目勇夺全国农村创业大赛总决赛一等奖 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 91015714 \n 喜报！贵州“村T”项目勇夺全国农村创业大赛总决赛一等奖 \n 20 \n 厅乡村产业发展处 \n \n 2026-10-21  18:15:53 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 91015714 \n 喜报！贵州“村T”项目勇夺全国农村创业大赛总决赛一等奖 \n 20 \n 厅乡村产业发展处 \n \n 2026-10-21  18:15:53 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t 加入收藏 \n         ",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-10-21"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260930_90958180.html",
+      "title": "省种畜禽种质测定中心召开党风廉政工作会议",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260930_90958180.html",
+      "pageTitle": "省种畜禽种质测定中心召开党风廉政工作会议",
+      "dateCandidates": [
+        "2026-09-30 18:34:36"
+      ],
+      "sha256": "1f11366ddc4d3dc8f6909113960230228fc866ab5832a0bbf7b11ee5e2994e7d",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 省种畜禽种质测定中心召开党风廉政工作会议 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90958180 \n 省种畜禽种质测定中心召开党风廉政工作会议 \n 20 \n 贵州省种畜禽种植测定中心 \n 贵州省种畜禽种植测定中心 \n 2026-09-30  18:34:36 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90958180 \n 省种畜禽种质测定中心召开党风廉政工作会议 \n 20 \n 贵州省种畜禽种植测定中心 \n 贵州省种畜禽种植测定中心 \n 2026-09-30  18:34:36 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t 加入",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260929_90949789.html",
+      "title": "贵州省农业农村厅召开视频调度会 再部署农药兽药综合整治工作",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260929_90949789.html",
+      "pageTitle": "贵州省农业农村厅召开视频调度会 再部署农药兽药综合整治工作",
+      "dateCandidates": [
+        "2026-09-29 15:18:03"
+      ],
+      "sha256": "82f0d43d9eb23144cea93dd8d90777d65c33eb4a35870cb6b6efd0897eb7c741",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 贵州省农业农村厅召开视频调度会 再部署农药兽药综合整治工作 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90949789 \n 贵州省农业农村厅召开视频调度会 再部署农药兽药综合整治工作 \n 20 \n 省农业农村厅农产品质量安全监管处 \n 张瑞 \n 2026-09-29  15:18:03 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90949789 \n 贵州省农业农村厅召开视频调度会 再部署农药兽药综合整治工作 \n 20 \n 省农业农村厅农产品质量安全监管处 \n 张瑞 \n 2026-09-29  15:18:03 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260924_90940343.html",
+      "title": "农业农村部耕地质量和农田工程监督保护中心赴黔 开展补充耕地质量抽检",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260924_90940343.html",
+      "pageTitle": "农业农村部耕地质量和农田工程监督保护中心赴黔 开展补充耕地质量抽检",
+      "dateCandidates": [
+        "2026-09-24 17:17:59"
+      ],
+      "sha256": "c76d7ae869be5de1d7bbf1309f25789aae03aaf3851f51ddd0e2562a2904ec55",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 农业农村部耕地质量和农田工程监督保护中心赴黔 开展补充耕地质量抽检 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90940343 \n 农业农村部耕地质量和农田工程监督保护中心赴黔 开展补充耕地质量抽检 \n 20 \n 耕地质量保护与农垦处 \n \n 2026-09-24  17:17:59 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90940343 \n 农业农村部耕地质量和农田工程监督保护中心赴黔 开展补充耕地质量抽检 \n 20 \n 耕地质量保护与农垦处 \n \n 2026-09-24  17:17:59 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-09-24"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260910_90860155.html",
+      "title": "贵州省2026年首期乡村产业振兴带头人培育“头雁”项目开班",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260910_90860155.html",
+      "pageTitle": "贵州省2026年首期乡村产业振兴带头人培育“头雁”项目开班",
+      "dateCandidates": [
+        "2026-09-10 18:03:34"
+      ],
+      "sha256": "3f403de3a4965a9dcc7194057db702d9b7147cb61ba15f7c5c9b114138128d43",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 贵州省2026年首期乡村产业振兴带头人培育“头雁”项目开班 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90860155 \n 贵州省2026年首期乡村产业振兴带头人培育“头雁”项目开班 \n 20 \n 人事处 \n \n 2026-09-10  18:03:34 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90860155 \n 贵州省2026年首期乡村产业振兴带头人培育“头雁”项目开班 \n 20 \n 人事处 \n \n 2026-09-10  18:03:34 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t 加入收藏 \n             ",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-09-10"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260909_90851159.html",
+      "title": "贵州省山地农业机械研究所在开阳开展辣椒机械化收获试验",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260909_90851159.html",
+      "pageTitle": "贵州省山地农业机械研究所在开阳开展辣椒机械化收获试验",
+      "dateCandidates": [
+        "2026-09-09 09:41:54"
+      ],
+      "sha256": "ed32219c389eea0c986e24666c602786eca924bdc50003088360124fffb9a059",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 贵州省山地农业机械研究所在开阳开展辣椒机械化收获试验 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90851159 \n 贵州省山地农业机械研究所在开阳开展辣椒机械化收获试验 \n 20 \n 贵州省山地农业机械研究所 \n 贵州省山地农业机械研究所 \n 2026-09-09  09:41:54 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90851159 \n 贵州省山地农业机械研究所在开阳开展辣椒机械化收获试验 \n 20 \n 贵州省山地农业机械研究所 \n 贵州省山地农业机械研究所 \n 2026-09-09  09:41:54 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-09-09"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202608/t20260828_90795534.html",
+      "title": "省农业农村厅组织召开2026年第三季度防止返贫致贫监测帮扶工作厅际联席会",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202608/t20260828_90795534.html",
+      "pageTitle": "省农业农村厅组织召开2026年第三季度防止返贫致贫监测帮扶工作厅际联席会",
+      "dateCandidates": [
+        "2026-08-28 16:50:39"
+      ],
+      "sha256": "31030ea7846494fdafccfeb2634beb40dacdd9e7cfdfe47a94c670ae34bf58c2",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 省农业农村厅组织召开2026年第三季度防止返贫致贫监测帮扶工作厅际联席会 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90795534 \n 省农业农村厅组织召开2026年第三季度防止返贫致贫监测帮扶工作厅际联席会 \n 20 \n 监测处 \n \n 2026-08-28  16:50:39 \n 5538238 \n 图片新闻 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90795534 \n 省农业农村厅组织召开2026年第三季度防止返贫致贫监测帮扶工作厅际联席会 \n 20 \n 监测处 \n \n 2026-08-28  16:50:39 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-08-28"
+    },
+    {
+      "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202607/t20260716_90630292.html",
+      "title": "中华人民共和国农业农村部公告 第1039号（国家禁用农药品种）",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/wjzz/202607/t20260716_90630292.html",
+      "pageTitle": "中华人民共和国农业农村部公告 第1039号（国家禁用农药品种）",
+      "dateCandidates": [
+        "2026-07-16 16:50:06"
+      ],
+      "sha256": "fcf113091c68a362484efc15551ab3d67fb18af15878f1dd1bd60ede09facedd",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 中华人民共和国农业农村部公告 第1039号（国家禁用农药品种） \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90630292 \n 中华人民共和国农业农村部公告 第1039号（国家禁用农药品种） \n 20 \n 农业农村部 \n \n 2026-07-16  16:50:06 \n 5505909 \n 文件转载 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90630292 \n 中华人民共和国农业农村部公告 第1039号（国家禁用农药品种） \n 20 \n 农业农村部 \n \n 2026-07-16  16:50:06 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t 加入收藏 \n   ",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-07-16"
+    },
+    {
+      "url": "http://nynct.guizhou.gov.cn/xwzx/wjzz/202606/t20260605_90480637.html",
+      "title": "国务院关于印发《加快农业农村现代化  “十五五”规划》的通知",
+      "publisher": "贵州省农业农村厅官网",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "https://nynct.guizhou.gov.cn/xwzx/wjzz/202606/t20260605_90480637.html",
+      "pageTitle": "国务院关于印发《加快农业农村现代化  “十五五”规划》的通知",
+      "dateCandidates": [
+        "2026-06-05 09:45:06"
+      ],
+      "sha256": "2fb4ac92d29261d4cb759cb6b0fed3dfbc2d9f25e4c9dfeff252cf4665cec6bb",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n                 国务院关于印发《加快农业农村现代化  “十五五”规划》的通知 \n                 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n 90480637 \n 国务院关于印发《加快农业农村现代化  “十五五”规划》的通知 \n 20 \n 中国政府网 \n \n 2026-06-05  09:45:06 \n 5505909 \n 文件转载 \n         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\t\t \n \n \n \n \n \n \n          \n\n         \n \n \n \n\t \n\t \n\t\t 90480637 \n 国务院关于印发《加快农业农村现代化  “十五五”规划》的通知 \n 20 \n 中国政府网 \n \n 2026-06-05  09:45:06 \n \n    \n     \n      \n \n \n \n \n \n\t \n\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t 移动版本 | \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t 加入收藏 \n      ",
+      "registryLabel": "贵州农业农村政务微信",
+      "date": "2026-06-05"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261023_91022277.html",
+      "title": "普定县农普办召开第四次全国农业普查清查摸底工作推进会",
+      "publisher": "贵州省统计局",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261023_91022277.html",
+      "pageTitle": "普定县农普办召开第四次全国农业普查清查摸底工作推进会",
+      "dateCandidates": [
+        "2026-10-23 11:07:50"
+      ],
+      "sha256": "7abebd59001c384248888dd58d4dd9d2ea90258651c1b3ab66cbdca9114c45a2",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n\t\t 普定县农普办召开第四次全国农业普查清查摸底工作推进会 \n\t\t \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                  \n                  \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t 91022277 \n\t\t 普定县农普办召开第四次全国农业普查清查摸底工作推进会 \n\t\t 20 \n\t\t 普定县统计局 \n\t\t \n\t\t 2026-10-23  11:07:50 \n\t\t 5964635 \n\t\t 各地要事 \n\t\t  \n\t\t\t \n\t\t   \t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 中国政府网 \n\t\t\t\t | \n\t\t\t\t 贵州省人民政府网 \n\t\t\t \n\t\t\t \n                    \t\t 无障碍浏览 \n                    \t\t 关怀版 \n\t\t\t\t \n\t\t\t\t\t 个人中心 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969170.html",
+      "title": "钟山区开展第四次全国农业普查清查摸底业务培训",
+      "publisher": "贵州省统计局",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969170.html",
+      "pageTitle": "钟山区开展第四次全国农业普查清查摸底业务培训",
+      "dateCandidates": [
+        "2026-10-09 15:14:54"
+      ],
+      "sha256": "f17742d64a6aa9d0b6b2bc03b9741a3afe91792c0c681d84feaaf947e1d848fd",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n\t\t 钟山区开展第四次全国农业普查清查摸底业务培训 \n\t\t \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                  \n                  \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t 90969170 \n\t\t 钟山区开展第四次全国农业普查清查摸底业务培训 \n\t\t 20 \n\t\t 钟山区统计局 \n\t\t \n\t\t 2026-10-09  15:14:54 \n\t\t 5964635 \n\t\t 各地要事 \n\t\t  \n\t\t\t \n\t\t   \t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 中国政府网 \n\t\t\t\t | \n\t\t\t\t 贵州省人民政府网 \n\t\t\t \n\t\t\t \n                    \t\t 无障碍浏览 \n                    \t\t 关怀版 \n\t\t\t\t \n\t\t\t\t\t 个人中心 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202609/t20260929_90950748.html",
+      "title": "锦屏县统计局举办“中国统计开放日”暨第四次全国农业普查宣传活动",
+      "publisher": "贵州省统计局",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "http://stjj.guizhou.gov.cn/xwzx/gdys/202609/t20260929_90950748.html",
+      "pageTitle": "锦屏县统计局举办“中国统计开放日”暨第四次全国农业普查宣传活动",
+      "dateCandidates": [
+        "2026-09-29 16:40:40"
+      ],
+      "sha256": "081598ce4118474786db4ab1eea4b2400ae1cab9568809f10c1860b53d3afa88",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n\t\t 锦屏县统计局举办“中国统计开放日”暨第四次全国农业普查宣传活动 \n\t\t \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                  \n                  \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t 90950748 \n\t\t 锦屏县统计局举办“中国统计开放日”暨第四次全国农业普查宣传活动 \n\t\t 20 \n\t\t 锦屏县统计局 \n\t\t \n\t\t 2026-09-29  16:40:40 \n\t\t 5964635 \n\t\t 各地要事 \n\t\t  \n\t\t\t \n\t\t   \t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 中国政府网 \n\t\t\t\t | \n\t\t\t\t 贵州省人民政府网 \n\t\t\t \n\t\t\t \n                    \t\t 无障碍浏览 \n                    \t\t 关怀版 \n\t\t\t\t \n\t\t\t\t\t 个人中心 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t",
+      "date": "2026-09-29"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202607/t20260728_90669632.html",
+      "title": "上半年农业经济延续稳定发展态势",
+      "publisher": "贵州省统计局",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202607/t20260728_90669632.html",
+      "pageTitle": "上半年农业经济延续稳定发展态势",
+      "dateCandidates": [
+        "2026-07-28 17:54:30"
+      ],
+      "sha256": "5413208d02b84ad7699bda23a49c45afaf3afa8210443528b7ff75d6ab7c1ac4",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n\t\t 上半年农业经济延续稳定发展态势 \n\t\t \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                  \n                  \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t 90669632 \n\t\t 上半年农业经济延续稳定发展态势 \n\t\t 20 \n\t\t 贵州省统计局 \n\t\t 农村处 \n\t\t 2026-07-28  17:54:30 \n\t\t 5965221 \n\t\t 统计发布与解读 \n\t\t  \n\t\t\t \n\t\t   \t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 中国政府网 \n\t\t\t\t | \n\t\t\t\t 贵州省人民政府网 \n\t\t\t \n\t\t\t \n                    \t\t 无障碍浏览 \n                    \t\t 关怀版 \n\t\t\t\t \n\t\t\t\t\t 个人中心 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t",
+      "date": "2026-07-28"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202604/t20260424_90044014.html",
+      "title": "一季度全省农业经济稳定向好",
+      "publisher": "贵州省统计局",
+      "region": "贵州",
+      "httpStatus": 200,
+      "finalUrl": "http://stjj.guizhou.gov.cn/tjsj/tjfbyjd/202604/t20260424_90044014.html",
+      "pageTitle": "一季度全省农业经济稳定向好",
+      "dateCandidates": [
+        "2026-04-24 22:15:38"
+      ],
+      "sha256": "e49485484b486392e2e155132389fb85d5e400eeebfcc9b31b0af574634d2f08",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\t \n\t\t \n\t\t 一季度全省农业经济稳定向好 \n\t\t \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n                  \n                  \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\t \n\t\t 90044014 \n\t\t 一季度全省农业经济稳定向好 \n\t\t 20 \n\t\t 贵州省统计局 \n\t\t 农村处 \n\t\t 2026-04-24  22:15:38 \n\t\t 5965221 \n\t\t 统计发布与解读 \n\t\t  \n\t\t\t \n\t\t   \t \n\t \n\t\t \n\t\t\t \n\t\t\t\t 中国政府网 \n\t\t\t\t | \n\t\t\t\t 贵州省人民政府网 \n\t\t\t \n\t\t\t \n                    \t\t 无障碍浏览 \n                    \t\t 关怀版 \n\t\t\t\t \n\t\t\t\t\t 个人中心 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t\t",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28269161.shtml",
+      "title": "自治区农业农村厅开展2026年党员基本培训集中大课专题辅导_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28269161.shtml",
+      "pageTitle": "自治区农业农村厅开展2026年党员基本培训集中大课专题辅导_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-27 18:57"
+      ],
+      "sha256": "e843fd6a8a8472a75a7822a4be3cc6908ce21f1c5c08429970f83fb37694437d",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区农业农村厅开展2026年党员基本培训集中大课专题辅导_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n     ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264452.shtml",
+      "title": "自治区农业农村厅领导出席第二十三届广西“看禾选种”活动_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264452.shtml",
+      "pageTitle": "自治区农业农村厅领导出席第二十三届广西“看禾选种”活动_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-26 17:52"
+      ],
+      "sha256": "e729066b02fa657d1f0446e40719df9c5394c5b6fa4889aab192e57d803d0bcb",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区农业农村厅领导出席第二十三届广西“看禾选种”活动_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n       ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264399.shtml",
+      "title": "第八届广西壮族自治区农作物品种审定委员会成立大会在南宁召开_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28264399.shtml",
+      "pageTitle": "第八届广西壮族自治区农作物品种审定委员会成立大会在南宁召开_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-26 17:49"
+      ],
+      "sha256": "7ae0928047a7714ca28042b138871b3fd0b5ba4df37caf4ae239bb7ccebde805",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 第八届广西壮族自治区农作物品种审定委员会成立大会在南宁召开_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n     ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262094.shtml",
+      "title": "广西在全国丘陵山区低空农业典型应用场景展示推介活动作典型场景推介_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262094.shtml",
+      "pageTitle": "广西在全国丘陵山区低空农业典型应用场景展示推介活动作典型场景推介_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-26 11:30"
+      ],
+      "sha256": "d16636a39dbdf34c85b3ec801a96519d2408377209e4e673d7a77701e2b3dc18",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 广西在全国丘陵山区低空农业典型应用场景展示推介活动作典型场景推介_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n  ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262135.shtml",
+      "title": "自治区植保站《航空植保护八桂粮仓》视频作品入选科普中国优质科普资源_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28262135.shtml",
+      "pageTitle": "自治区植保站《航空植保护八桂粮仓》视频作品入选科普中国优质科普资源_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-26 11:25"
+      ],
+      "sha256": "49ae1ee084d4a99d485c8be942e6a4fb48dc0774a8caf4f426b0fb76eee9932a",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区植保站《航空植保护八桂粮仓》视频作品入选科普中国优质科普资源_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259288.shtml",
+      "title": "2026年全国农业精品品牌和“桂字号”农业品牌推介会在南宁举办_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259288.shtml",
+      "pageTitle": "2026年全国农业精品品牌和“桂字号”农业品牌推介会在南宁举办_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-23 22:50"
+      ],
+      "sha256": "547f8903092d171b05eb40cc9af99dcebadd57f86171aa7b1046638be9361756",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 2026年全国农业精品品牌和“桂字号”农业品牌推介会在南宁举办_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n   ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259071.shtml",
+      "title": "2026中国—东盟数字农业论坛探索农业合作新未来_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28259071.shtml",
+      "pageTitle": "2026中国—东盟数字农业论坛探索农业合作新未来_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-23 20:03"
+      ],
+      "sha256": "e059a5ed93d86f4e8bb62ff5e0360295c3b63dfa9bfe4f7a52eccf36383672e1",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 2026中国—东盟数字农业论坛探索农业合作新未来_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n         \n",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28257572.shtml",
+      "title": "自治区农业农村厅组织召开2026年推进农业信贷担保体系建设助推乡村振兴厅际联席会议_广西_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/gxlb/gx/t28257572.shtml",
+      "pageTitle": "自治区农业农村厅组织召开2026年推进农业信贷担保体系建设助推乡村振兴厅际联席会议_广西_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-23 16:20"
+      ],
+      "sha256": "9334fe756c0d50dbc5b1550edfecd11780ef2efa9d77e32a82c8a745916605e8",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区农业农村厅组织召开2026年推进农业信贷担保体系建设助推乡村振兴厅际联席会议_广西_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n      ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/rsxx/t28239404.shtml",
+      "title": "自治区农业农村厅2026年度考试录用参照公务员法管理单位工作人员第二批拟录用人员公示_人事信息(公务员招录)_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/rsxx/t28239404.shtml",
+      "pageTitle": "自治区农业农村厅2026年度考试录用参照公务员法管理单位工作人员第二批拟录用人员公示_人事信息(公务员招录)_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-19 15:55"
+      ],
+      "sha256": "0f473b2a9b65aacdb7b9a099809f569f29da69c962e2a3d2440ea15d19c54858",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区农业农村厅2026年度考试录用参照公务员法管理单位工作人员第二批拟录用人员公示_人事信息(公务员招录)_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-19"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28234797.shtml",
+      "title": "广西壮族自治区农业农村厅2026年6-9月国家重点保护野生植物采集许可证、国家重点保护野生植物进出口许可审批办理情况_通知公告_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28234797.shtml",
+      "pageTitle": "广西壮族自治区农业农村厅2026年6-9月国家重点保护野生植物采集许可证、国家重点保护野生植物进出口许可审批办理情况_通知公告_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-16 17:30"
+      ],
+      "sha256": "77c34a3269b67429cf285f74c55899309db4e5f7e0bd3f1ab227de8274fb9b62",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 广西壮族自治区农业农村厅2026年6-9月国家重点保护野生植物采集许可证、国家重点保护野生植物进出口许可审批办理情况_通知公告_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n      ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28230008.shtml",
+      "title": "自治区农业农村厅关于2026年度广西科学技术奖拟提名项目的公示_通知公告_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xxgk/jcxxgk/tzgg/t28230008.shtml",
+      "pageTitle": "自治区农业农村厅关于2026年度广西科学技术奖拟提名项目的公示_通知公告_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-10-14 12:00"
+      ],
+      "sha256": "3f8b6dba45db89453803524643294e0e55c5547c6c35b8f0a185b61a7635c48a",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 自治区农业农村厅关于2026年度广西科学技术奖拟提名项目的公示_通知公告_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "http://nynct.gxzf.gov.cn/xwdt/syjs/t28152216.shtml",
+      "title": "2026年秋收农作物秸秆饲料化利用指导意见_实用技术_广西壮族自治区农业农村厅",
+      "publisher": "广西壮族自治区农业农村厅官网",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://nynct.gxzf.gov.cn/xwdt/syjs/t28152216.shtml",
+      "pageTitle": "2026年秋收农作物秸秆饲料化利用指导意见_实用技术_广西壮族自治区农业农村厅",
+      "dateCandidates": [
+        "2026-09-21 09:10"
+      ],
+      "sha256": "d0a358ceaa4221296bbabbd86744ec5929d716a6c95625dd8ac033b3cd450190",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 2026年秋收农作物秸秆饲料化利用指导意见_实用技术_广西壮族自治区农业农村厅 \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n   \n     \n       \n       \n       \n     \n   \n  \n \n \n \n\t \n    \t \n         \n        \n             无障碍浏览 |\n             信息员登录 |\n      \n             智能问答 |\n             新媒体矩阵 \n             集 \n         \n\n     \n     \n         \n             首页 \n             新闻动态 \n             政府信息公开 \n             解读回应 \n             网上办事 \n             公共服务 \n             互动交流 \n            \n         \n ",
+      "registryLabel": "广西农业农村厅政务微信／头条／抖音／视频号",
+      "date": "2026-09-21"
+    },
+    {
+      "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28257934.shtml",
+      "title": "鱼峰区：聚焦农业普查数据质量  扎实开展晚稻遥感核实-广西壮族自治区统计局",
+      "publisher": "广西壮族自治区统计局",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28257934.shtml",
+      "pageTitle": "鱼峰区：聚焦农业普查数据质量  扎实开展晚稻遥感核实-广西壮族自治区统计局",
+      "dateCandidates": [
+        "2026-10-23 17:07"
+      ],
+      "sha256": "894584906aa185e324d4c07743189f1ba64839f4785e2c63f88a029d29b9b28c",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n\n \n\t \n\n    \t \n\t \n\t \n\t \n\t\n\t \n\t \n\t\n\t \t\n\t \t\n\t \n\t \n\t \n\t \n\n\t \n\t \n\t \n\t \t\n     \n\t\n     鱼峰区：聚焦农业普查数据质量  扎实开展晚稻遥感核实-广西壮族自治区统计局 \n     \n     \n     \n     \n     \n     \n     \n     \n     \n     \n     \n     \n     \n \n \n\n \n\t\n \t\n  \n\n \n\t\t \n\t\t\t \t \n\t \n\n \n\n\t\t\t \n\t\t\t\t \n\t\t\t\t \t\n                            智能问答 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t 适老化版本 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t 无障碍浏览 \n\t\t\t\t \n\t\t\t\t \n\t\t\t\t\t ENGLISH \n\t\t\t\t \n\t\t\t\t 支持IPV6 \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\n\t\t \n\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf0459-22008444.shtml",
+      "title": "广西日报南宁头条 | 乡村篮球在这里为何如此火爆-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf0459-22008444.shtml",
+      "pageTitle": "广西日报南宁头条 | 乡村篮球在这里为何如此火爆-广西新闻网",
+      "dateCandidates": [
+        "2026-10-26 15:42"
+      ],
+      "sha256": "715714bea39fb138f6bcc38f14dbcdc079db75faba9582cc9e99e7d9937b1f44",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 广西日报南宁头条 | 乡村篮球在这里为何如此火爆-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n          ",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae07992-22008786.shtml",
+      "title": "“速生”有机肥，只需一小时！广西在农业种养循环领域的研究取得新进展-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae07992-22008786.shtml",
+      "pageTitle": "“速生”有机肥，只需一小时！广西在农业种养循环领域的研究取得新进展-广西新闻网",
+      "dateCandidates": [
+        "2026-10-27 18:14"
+      ],
+      "sha256": "6d9dbb42f167d3201a83782fc1e505729af46eb9fc01515e89c8fb4f718755f1",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n “速生”有机肥，只需一小时！广西在农业种养循环领域的研究取得新进展-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n ",
+      "date": "2026-10-27"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad9ef8f-22006886.shtml",
+      "title": "共话科技助农 聚力八桂乡村振兴-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad9ef8f-22006886.shtml",
+      "pageTitle": "共话科技助农 聚力八桂乡村振兴-广西新闻网",
+      "dateCandidates": [
+        "2026-10-22 19:12"
+      ],
+      "sha256": "274802b3364b23d4e5fce5af0b44882faff508f45c62d1cdad65eaa35454659a",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 共话科技助农 聚力八桂乡村振兴-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n               \n   ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf543d-22008522.shtml",
+      "title": "增产又增糖 广农糖业科学管护助农增收-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf543d-22008522.shtml",
+      "pageTitle": "增产又增糖 广农糖业科学管护助农增收-广西新闻网",
+      "dateCandidates": [
+        "2026-10-26 21:23"
+      ],
+      "sha256": "9b30f6645dcf081c4e4aabd2aaa5dcfeb827d4059ff27c3e90c5dc015efea7da",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 增产又增糖 广农糖业科学管护助农增收-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n               \n",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261023/newgx6adb70ae-22007355.shtml",
+      "title": "估产测糖 科学调度｜广农糖业多措并举备战新榨季-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261023/newgx6adb70ae-22007355.shtml",
+      "pageTitle": "估产测糖 科学调度｜广农糖业多措并举备战新榨季-广西新闻网",
+      "dateCandidates": [
+        "2026-10-23 22:35"
+      ],
+      "sha256": "ddc0ff8b7e4e028b132abde137ff21be60e73ba90af9092426dbd4dc678794fe",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 估产测糖 科学调度｜广农糖业多措并举备战新榨季-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n           ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad96f9d-22006694.shtml",
+      "title": "广农糖业博华公司：检修技改正当时 全力冲刺新榨季-广西新闻网",
+      "publisher": "广西新闻网／广西日报三农",
+      "region": "广西",
+      "httpStatus": 200,
+      "finalUrl": "http://www.gxnews.com.cn/staticpages/20261022/newgx6ad96f9d-22006694.shtml",
+      "pageTitle": "广农糖业博华公司：检修技改正当时 全力冲刺新榨季-广西新闻网",
+      "dateCandidates": [
+        "2026-10-22 10:06"
+      ],
+      "sha256": "fa6213247b80697e0d4871cbc6c9c10710879056ef1bbd02134dcb6b01732d4c",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n \n \n 广农糖业博华公司：检修技改正当时 全力冲刺新榨季-广西新闻网 \n \n \n  \n \n \n \n \n \n   \n \n \n   \n \n\n\n \n \n \n \n \n \n \n \n \n  \n \n \n       \n         \n           \n           \n             广西日报传媒集团主办 \n             \n           \n           \n             \n               \n               \n                 \n                   全部 \n                   \n                 \n                 \n                   全部 \n                   红豆 \n                   新闻 \n                   视频 \n                 \n               \n               \n          ",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/zw/tzgg/content/post_11069314.html",
+      "title": "广州市农业农村局2026年第三季度养殖水产品质量安全风险隐患警示信息公示",
+      "publisher": "广州市农业农村局官网",
+      "region": "广州",
+      "httpStatus": 200,
+      "finalUrl": "http://nyncj.gz.gov.cn/zw/tzgg/content/post_11069314.html",
+      "pageTitle": "广州市农业农村局2026年第三季度养殖水产品质量安全风险隐患警示信息公示",
+      "dateCandidates": [
+        "2026-10-26 16:18:39"
+      ],
+      "sha256": "e8f03a05914867ce5f13dffdeb269e257b295757cc61c83c1cfd1e6a26c8e3c7",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n  \n    \n    \n    \n    \n   广州市农业农村局2026年第三季度养殖水产品质量安全风险隐患警示信息公示  \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n    \n    \n    \n    \n    \n    \n   \n   \n \n \n    \n        \n   \n   \n    \n    \n   \n     \n   \n \n \n \n   \n\n   \n     \n       \n         \n           \n             \n             \n           \n         \n         \n         \n       \n       \n         \n         统一登录 \n         繁體 \n         无障碍 \n\n         手机版 \n           \n             \n               \n             \n           \n         \n         关怀版 \n\n       \n       ",
+      "registryLabel": "广州农业农村政务微信／微博",
+      "date": "2026-10-26"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/hdjlpt/yjzj/answer/50869",
+      "title": "广州市农业农村局关于2026年中央一号文件的调查问卷 广州市农业农村局网站",
+      "publisher": "广州市农业农村局官网",
+      "region": "广州",
+      "httpStatus": 200,
+      "finalUrl": "http://nyncj.gz.gov.cn/hdjlpt/yjzj/answer/50869",
+      "pageTitle": "广州市农业农村局关于2026年中央一号文件的调查问卷 广州市农业农村局网站",
+      "dateCandidates": [
+        "2026-06-08 16:35:55"
+      ],
+      "sha256": "f2fbaf6efe5c0e39f282c16ce813a21fc2769217b68ede20eb11520a7ec0fafa",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n     \n     广州市农业农村局关于2026年中央一号文件的调查问卷 广州市农业农村局网站 \n     \n\n     \n     \n     \n     \n     \n     \n     \n     \n     \n     \n\n     \n \n\n\n    \n \n\n     \n \n \n \n     \n     \n \n \n\n\n \n \n \n \n\n \n \n\n    \n \n \n \n \n\n     \n \n \n \n             \n\n \n    \n \n \n     \n                 \n         \n             \n             \n             \n             \n             查看反馈 \n         \n                 \n         \n         \n         \n             \n                 相关附件 \n             \n             \n                 \n             ",
+      "registryLabel": "广州农业农村政务微信／微博",
+      "date": "2026-06-08"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/sj/cysj/content/post_10708260.html",
+      "title": "广州市畜禽屠宰企业名单（2026年9月）",
+      "publisher": "广州市农业农村局官网",
+      "region": "广州",
+      "httpStatus": 200,
+      "finalUrl": "http://nyncj.gz.gov.cn/sj/cysj/content/post_10708260.html",
+      "pageTitle": "广州市畜禽屠宰企业名单（2026年9月）",
+      "dateCandidates": [
+        "2026-09-11 17:50:57"
+      ],
+      "sha256": "dda24e6f0d5108350ff79dc60e4e3d07cda84248c8028bb8da2b380f0d22792e",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n  \n    \n    \n    \n    \n   广州市畜禽屠宰企业名单（2026年9月）  \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n    \n    \n    \n    \n    \n    \n   \n   \n \n \n    \n        \n   \n   \n    \n    \n   \n     \n   \n \n \n \n   \n\n   \n     \n       \n         \n           \n             \n             \n           \n         \n         \n         \n       \n       \n         \n         统一登录 \n         繁體 \n         无障碍 \n\n         手机版 \n           \n             \n               \n             \n           \n         \n         关怀版 \n\n       \n       \n\n       \n      ",
+      "registryLabel": "广州农业农村政务微信／微博",
+      "date": "2026-09-11"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/zw/zwyw/tpxw/content/post_10956030.html",
+      "title": "2026年广州市第一期农技人员知识更新培训圆满收官",
+      "publisher": "广州市农业农村局官网",
+      "region": "广州",
+      "httpStatus": 200,
+      "finalUrl": "http://nyncj.gz.gov.cn/zw/zwyw/tpxw/content/post_10956030.html",
+      "pageTitle": "2026年广州市第一期农技人员知识更新培训圆满收官",
+      "dateCandidates": [
+        "2026-07-21 12:47:45"
+      ],
+      "sha256": "4257a1afd6a4253d97f24ce35ab94149fb947c915ac48968985e4f3708770f5f",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n \n  \n    \n    \n    \n    \n   2026年广州市第一期农技人员知识更新培训圆满收官  \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n    \n    \n    \n    \n    \n    \n   \n   \n \n \n    \n        \n   \n   \n    \n    \n   \n     \n   \n \n \n \n   \n\n   \n     \n       \n         \n           \n             \n             \n           \n         \n         \n         \n       \n       \n         \n         统一登录 \n         繁體 \n         无障碍 \n\n         手机版 \n           \n             \n               \n             \n           \n         \n         关怀版 \n\n       \n       \n\n       \n ",
+      "registryLabel": "广州农业农村政务微信／微博",
+      "date": "2026-07-21"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280060.html",
+      "title": "2026年第42周重庆渔业市场周报（总第190期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280060.html",
+      "pageTitle": "2026年第42周重庆渔业市场周报（总第190期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-23 17:01"
+      ],
+      "sha256": "c0c7bea9c89a72d072e012e94610bcc00801e4a7a94f0cf593b63782b0376f3f",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    2026年第42周重庆渔业市场周报（总第190期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n   ",
+      "date": "2026-10-23"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280052.html",
+      "title": "重庆农产品及农资价格周报2026年第42期（第929期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261023_16280052.html",
+      "pageTitle": "重庆农产品及农资价格周报2026年第42期（第929期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-22 17:00"
+      ],
+      "sha256": "4aca9f6c3db6c3e38482bb567894f975195401415fed55220a5ab3ab2efbb750",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    重庆农产品及农资价格周报2026年第42期（第929期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n",
+      "date": "2026-10-22"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261016_16246582.html",
+      "title": "2026年第41周重庆渔业市场周报（总第189期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261016_16246582.html",
+      "pageTitle": "2026年第41周重庆渔业市场周报（总第189期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-16 16:55"
+      ],
+      "sha256": "14cdee6d2f24c12163064c37e2c780ce4b264e440a55b478ad354aef0043adb5",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    2026年第41周重庆渔业市场周报（总第189期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n   ",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232345.html",
+      "title": "重庆农产品及农资价格周报2026年第41期（第928期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232345.html",
+      "pageTitle": "重庆农产品及农资价格周报2026年第41期（第928期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-14 16:46"
+      ],
+      "sha256": "64298d2d68394e9dd9f9d411c0aa8ead284ddb05ebef214ec52f92889922dd42",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    重庆农产品及农资价格周报2026年第41期（第928期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n",
+      "date": "2026-10-14"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232320.html",
+      "title": "重庆市渔业全产业链经济发展指标监测月报(2026年第9期)_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261014_16232320.html",
+      "pageTitle": "重庆市渔业全产业链经济发展指标监测月报(2026年第9期)_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-13 16:44"
+      ],
+      "sha256": "3f032e84dcca30e4fd4fda824aa02ee0940d5f813522604c798e8c90bb964e7a",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    重庆市渔业全产业链经济发展指标监测月报(2026年第9期)_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261013_16225233.html",
+      "title": "重庆市大宗农产品产销形势分析月报(2026年第9期)_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261013_16225233.html",
+      "pageTitle": "重庆市大宗农产品产销形势分析月报(2026年第9期)_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-13 16:04"
+      ],
+      "sha256": "56803a8386a5fd7cb5b3ff543fc920f41b51aaf887eb60018abee34cb01e3260",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    重庆市大宗农产品产销形势分析月报(2026年第9期)_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n  ",
+      "date": "2026-10-13"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211912.html",
+      "title": "2026年第40周重庆渔业市场周报（总第188期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211912.html",
+      "pageTitle": "2026年第40周重庆渔业市场周报（总第188期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-10 15:24"
+      ],
+      "sha256": "59748c389a9ded87fc4dde8fef13937db16da1893b60c97caa291559705b921b",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    2026年第40周重庆渔业市场周报（总第188期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n   ",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211907.html",
+      "title": "重庆农产品及农资价格周报2026年第40期（第927期）_重庆市农业农村委员会",
+      "publisher": "重庆市农业农村委员会·市场资讯",
+      "region": "重庆／酉阳",
+      "httpStatus": 200,
+      "finalUrl": "https://nyncw.cq.gov.cn/xxgk_161/sczx/202610/t20261010_16211907.html",
+      "pageTitle": "重庆农产品及农资价格周报2026年第40期（第927期）_重庆市农业农村委员会",
+      "dateCandidates": [
+        "2026-10-10 15:23"
+      ],
+      "sha256": "95011fbb44dd960a715ba8cd1efd6eae6bb2330fc411c72b3f2efd645db0161d",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "\n \n\n \n   \n   \n   \n   \n \n \n \n \n\n \n \n\n\n   \n\n\n\n   \n\n\n   \n\n\n \n \n \n \n\n     \n\n\n \n  \n\n\n\n        \n\n \n \n   \n    重庆农产品及农资价格周报2026年第40期（第927期）_重庆市农业农村委员会\n   \n   \n   \n   \n   \n   \n   \n   \n   \n \n\n \n   \n   \n \n \n \n\n \n   中国政府网 | 重庆市人民政府网 \n \n     \n       无障碍 \n       关怀版 \n       农业政务邮箱 \n       登录 \n       | \n       注销 \n       注册 \n  网站支持IPV6 \n         各直属单位 \n         \n             \n                 \n                 各直属单位 \n                 \n                    \n  \n                     重庆市农业科学院 \n                    \n",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/35018.html",
+      "title": "红星实业集团2026迎春文艺汇演成功举办",
+      "publisher": "红星实业集团官网",
+      "region": "湖南",
+      "httpStatus": 200,
+      "finalUrl": "http://hxsyjt.net/news/gsxw/35018.html",
+      "pageTitle": "红星实业集团2026迎春文艺汇演成功举办|公司新闻-红星实业集团",
+      "dateCandidates": [
+        "2026/2/5"
+      ],
+      "sha256": "ad1c4c2001f41b6ce93d68051efae27028221e9ee66f7682d99e82da0eb7a5ee",
+      "status": "原文已获取，具体声明仍需核对",
+      "excerpt": "﻿\r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n  红星实业集团2026迎春文艺汇演成功举办|公司新闻-红星实业集团 \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n    \r\n \r\n \r\n\r\n \r\n   \r\n    \r\n      \r\n       \r\n         \r\n         \r\n       \r\n     \r\n   \r\n   \r\n   \r\n     \r\n     \r\n       \r\n         网站首页 \r\n         \r\n         关于红星 \r\n        \t \r\n        \t\r\n        \t 公司简介 \r\n        \t\r\n        \t 组织架构 \r\n        \t\r\n        \t 公司文化 \r\n        \t\r\n        \t 领导介绍 \r\n        \t\r\n        \t 荣誉资质 \r\n        \t\r\n             \r\n         \r\n         新闻资讯 \r\n        \t \r\n            \r\n        \t 公司新闻 \r\n        \t",
+      "date": "2026-02-05"
+    },
+    {
+      "url": "https://nyncj.gz.gov.cn/gkmlpt/content/10/10899/post_10899129.html",
+      "finalUrl": "https://nyncj.gz.gov.cn/gkmlpt/content/10/10899/post_10899129.html",
+      "publisher": "广州市农业农村局官网",
+      "title": "市农业技术推广中心全力筑牢汛期农技“防护网”",
+      "httpStatus": 200,
+      "dateCandidates": [
+        "2026-07-13"
+      ],
+      "sha256": "1ea79a973aaccc570f0e18e7c213298b8af992916d2ff6676a0a33b647c63c13",
+      "status": "原文已获取，待声明核对",
+      "excerpt": "\n \n \n     \n     \n     \n         市农业技术推广中心全力筑牢汛期农技“防护网” \n         \n     \n     \n     \n         \n     \n     \n     \n     \n     \n \n \n \n \n\n\n    \n     \n     \n     \n     \n     \n     \n\n \n \n \n     \n         \n             \n                 \n                     \n                     \n                        广州",
+      "registryLabel": "广州市农业农村局",
+      "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "finalUrl": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "publisher": "NOAA CPC",
+      "title": "NOAA十月研判：强至极强厄尔尼诺可能延续至2027年1—3月",
+      "httpStatus": 200,
+      "dateCandidates": [
+        "2026-10-08"
+      ],
+      "sha256": "e0e2a3b2309a68e7dbe860438b1ecc55e660789d3db329b350a1019a355eebb4",
+      "status": "原文已获取，待声明核对",
+      "excerpt": "\n\n\n \n\n\t \n\t\t Climate Prediction Center: ENSO Diagnostic Discussion \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n\n\t \n\n\t\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t www.nws.noaa.gov  \n\t\t\t \n\t\t \n\t \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t   \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t \n\t\t\t \n\t\t\t\t Home \n\t\t\t \n\t\t\t ",
+      "date": "2026-10-08",
+      "reviewScope": "manually_checked_forecast"
+    }
+  ],
+  "rejected": [
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202610/t20261023_34087374.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/hnywg/202610/t20261023_34086899.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/jmxx/2026sjjd/202610/t20261023_34087374.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260916_34065701.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260916_34065672.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260909_34059691.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/zxjd/202609/t20260903_34056191.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202610/t20261014_34080637.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260930_34074690.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260928_34072933.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260924_34071532.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://tjj.hunan.gov.cn/hntj/tjgz/tjyw/sjyw/202609/t20260922_34070367.html",
+      "title": "湖南省统计局",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260910_6010917.shtml",
+      "title": "一图看懂丨2026中国农民丰收节主题定了--湖北省农业农村厅",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202603/t20260309_5888176.shtml",
+      "title": "“三农九问”问出爱农富农初心使命--湖北省农业农村厅",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202610/t20261012_6030866.shtml",
+      "title": "湖北重构农村产权交易体系一年来成效明显——集体资产不再“睡大觉”　阳光交易鼓起“钱袋子”--湖北省农业农村厅",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "https://nyt.hubei.gov.cn/dtyw/202609/t20260930_6025637.shtml",
+      "title": "全省秋冬农业生产工作视频会议召开--湖北省农业农村厅",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://tjj.hubei.gov.cn/bmdt/sjdt/202608/t20260828_6003177.shtml",
+      "title": "谢高波到省农普办检查指导湖北省“四农普”普查区划分与建筑物标绘工作--湖北省统计局",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.whbsz.com.cn/NewsInfo.aspx?ID=659009",
+      "title": "武汉白沙洲农副产品大市场举办2026年马年元宵团拜会-最新动态-武汉白沙洲农副产品大市场",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://nynct.guizhou.gov.cn/xwzx/tpyw/202609/t20260921_90926297.html",
+      "title": "以法治强监理 以专业护安全——2026年全国农机安全监理法规培训班在六盘水市举办",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/tjyw/202610/t20261027_91040144.html",
+      "title": "省农普办召开四农普清查摸底工作视频会",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261023_91022227.html",
+      "title": "凤冈县召开四农普工作推进视频会",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261014_90988670.html",
+      "title": "关岭县错峰入户开展四农普清查摸底工作",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969141.html",
+      "title": "黔东南州借力农民丰收节开展四农普宣传活动",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969132.html",
+      "title": "贵阳贵安农普办开展四农普宣传活动",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202610/t20261009_90969056.html",
+      "title": "钟山区开展四农普清查宣传活动",
+      "reason": "原文未获取"
+    },
+    {
+      "url": "http://stjj.guizhou.gov.cn/xwzx/gdys/202609/t20260929_90950774.html",
+      "title": "关岭布依族苗族自治县深入基层指导四农普工作",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://ggzy.guizhou.gov.cn/zhdt/tpxw/202609/t20260902_90812472.html",
+      "title": "巩固拓展学习教育成果 以正确政绩观引领推动奋发有为走新路展风采",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://ggzy.guizhou.gov.cn/zhdt/tpxw/202610/t20261026_91029847.html",
+      "title": "贵州省纪念中国工农红军长征胜利90周年座谈会举行 徐麟讲话 李炳军主持",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28264235.shtml",
+      "title": "崇左市：榔响椒乡庆霜降 农普宣传入壮乡-广西壮族自治区统计局",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://tjj.gxzf.gov.cn/gzdt/sx_274/t28253892.shtml",
+      "title": "桂林市农普办下沉服务抓实精准指导  严控数据质量-广西壮族自治区统计局",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae06c85-22008744.shtml",
+      "title": "科学家发现远古两栖动物新物种-广西新闻网",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae04d59-22008686.shtml",
+      "title": "五常大米，有了新品种！-广西新闻网",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261027/newgx6ae025a5-22008660.shtml",
+      "title": "零办案县区挂牌督办！广西农兽药专项整治进入攻坚阶段-广西新闻网",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf4dfe-22008504.shtml",
+      "title": "数智赋能 链通东盟 | 广农供应链集团亮相2026广西农博会-广西新闻网",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261021/newgx6ad8008b-22006264.shtml",
+      "title": "新疆种葛根，广西来帮忙-广西新闻网",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://www.gxnews.com.cn/staticpages/20261026/newgx6adf0459-22008391.shtml",
+      "title": "广西日报南宁头条 | 乡村篮球在这里为何如此火爆-广西新闻网",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/attachment/8/8108/8108754/11069412.pdf",
+      "title": "广州市主要农产品价格变动分析-2026年09月",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://nyncj.gz.gov.cn/zw/zwyw/tszs/content/post_11023195.html",
+      "title": "2026中国农民丰收节陕西省主场活动见闻",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://www.cqnews.net/web/content_1564354647158886400.html",
+      "title": "让优质美育资源下沉乡村 2026年“乡村学校美育西部行”在渝启动-华龙网-重庆市委市政府官方新闻门户",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "https://www.cqnews.net/web/content_1563168936131690496.html",
+      "title": "重庆华龙网集团股份有限公司关于2026年7月社会招聘结果的公示-华龙网-重庆市委市政府官方新闻门户",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://cq.people.com.cn/n2/2026/0909/c365425-41691537.html",
+      "title": "鈥滃笇鏈涗笓绾库�濓紝璁╁啘瀹跺▋涓婂鏇村畨蹇�",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "http://cq.people.com.cn/n2/2026/1021/c365406-41728473.html",
+      "title": "宸濇笣鍐滄皯宸ユ湇鍔″懆娲诲姩11鏈�1鏃ュ湪宸村崡鍚箷",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "http://cq.people.com.cn/n2/2026/1023/c365416-41730570.html",
+      "title": "鍩庡彛鍘垮潽鍧濋晣鎵撻�犺璧扮殑涔℃潙鎬濇斂澶ц鍫�",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261021_16264875.html",
+      "title": "酉阳县9月考试员考试质量情况、三年内驾龄驾驶人交通违法率和交通肇事率",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261010_16212032.html",
+      "title": "酉阳土家族苗族自治县医疗保障事务中心关于公布解除重庆衡生医药连锁有限责任公司酉阳县中医院店等2家医保服务协议定点医药机构名单的通告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205922.html",
+      "title": "酉阳县钟多街道办事处紫园广场B栋六单元增设电梯项目公示",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205897.html",
+      "title": "酉阳县钟多街道办事处紫园广场A栋五单元增设电梯项目公示",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205815.html",
+      "title": "酉阳县钟多街道办事处紫园广场A栋二单元增设电梯项目公示",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202610/t20261009_16205716.html",
+      "title": "酉阳县钟多街道办事处黔程商都5栋1单元增设电梯项目公示",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110097.html",
+      "title": "酉阳土家族苗族自治县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-材料供应（模板、管材、钢材等）采购公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110079.html",
+      "title": "酉阳土家族苗族自治县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-水泥采购公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16109976.html",
+      "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-机械设备租赁公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110110.html",
+      "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目－专业人员招聘公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110127.html",
+      "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-用工招聘公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/sy_236/gsgg/202609/t20260921_16110064.html",
+      "title": "酉阳县铜鼓镇李阳村2026年村庄连接道路以工代赈项目-砂石采购公告",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://www.fao.org/giews/country-analysis/external-assistance/en/",
+      "title": "external-assistance | GIEWS",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://www.fao.org/giews/country-analysis/unfavourable-prospects/en/",
+      "title": "unfavourable-prospects | GIEWS",
+      "reason": "索引标题与原文不匹配"
+    },
+    {
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "title": "Climate Prediction Center: ENSO Diagnostic Discussion",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://www.fao.org/el-nino/en",
+      "title": "El Niño | FAO | Food and Agriculture Organization of the United Nations",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://forecast.ccsr.columbia.edu/discussions/ccsriri-enso-forecast-issued-september-2026",
+      "title": "CCSR/IRI ENSO Forecast Issued October 2026",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "https://youyang.gov.cn/hdjl_236/xmtjz/",
+      "title": "新媒体矩阵",
+      "reason": "缺少有效标题/可能为验证页"
+    },
+    {
+      "url": "https://agri.hunan.gov.cn/xxgk/",
+      "title": "信息公开-  湖南省农业农村厅",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "https://nyncj.gz.gov.cn/zw/tzgg/content/post_9724730.html",
+      "title": "关于“广州市乡村振兴”微信公众号更名为“广州农业农村”的公告",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "https://www.douyin.com/video/7688332950739995113",
+      "title": "",
+      "reason": "缺少有效标题/可能为验证页"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/36019.html",
+      "title": "从“菜篮子”到“会客厅”：红星实业集团点亮消费引领之光",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/36018.html",
+      "title": "未来可期！红星酉阳武陵山农批招商中心今日揭牌",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/35018.html",
+      "title": "红星实业集团2026迎春文艺汇演成功举办",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/34011.html",
+      "title": "红星冷链登陆港交所：资本赋能，开启国际化新征程",
+      "reason": "与已有资料重复"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/33012.html",
+      "title": "再获国家级荣誉！红星大市场荣膺中国商品市场综合百强前十",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/32040.html",
+      "title": "红星实业集团2025年度工作务虚会成功召开",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/32039.html",
+      "title": "长沙红星投资经营管理中心成员大会顺利召开",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31016.html",
+      "title": "甘味高原夏菜、果品两大运营中心正式落户",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31015.html",
+      "title": "重庆酉阳县委书记杨通胜率队考察红星",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31014.html",
+      "title": "红星智汇丨顺应市场抓发展，调整战略再发力——努力将茶油产业做强做大",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31013.html",
+      "title": "喜报：红星盛业荣获“湖南最具成长力品牌”",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31012.html",
+      "title": "红星实业集团与中国供销商贸流通集团公司举行会谈",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31009.html",
+      "title": "红星实业集团召开2024年度总结表彰大会",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31004.html",
+      "title": "援疆情深 红星闪耀丨红星实业集团：以援疆之名，共筑中国梦",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/31002.html",
+      "title": "红星实业集团高管湖南大学研修班课题汇报暨结业典礼圆满结束",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/30995.html",
+      "title": "高原夏菜入湘 红星全球农批中心“菜篮子”更丰富",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/30992.html",
+      "title": "“农商融合”新实践：“红星里·农夫小镇”新消费必到打卡地",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/30986.html",
+      "title": "湘疆共赢|红星实业集团受邀参加吐鲁番葡萄节",
+      "reason": "缺少明确发布日期"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/30987.html",
+      "title": "顺应新媒体时代变化 构建企媒融合新生态",
+      "reason": "非农业或品牌主题"
+    },
+    {
+      "url": "http://hxsyjt.net/news/gsxw/30988.html",
+      "title": "做强流通产业 提升经营水平 谱写服务城乡贡献红星力量新篇章",
+      "reason": "缺少明确发布日期"
+    }
+  ],
+  "quality": {
+    "uniqueFactIds": true,
+    "allFactObjectReferencesResolve": true,
+    "generatedNewFacts": 0,
+    "articleEvidenceScope": "title_url_publication_date",
+    "fullTextNumericAudit": false,
+    "existingAudit": "unchanged numeric/source ledger retained; not falsely claimed re-fetched in full"
+  }
+}

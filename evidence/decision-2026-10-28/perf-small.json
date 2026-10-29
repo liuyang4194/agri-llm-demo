@@ -1,0 +1,100 @@
+{
+  "samples": {
+    "frames": 334,
+    "p95": 16.700000000000728,
+    "p99": 16.80000000000291,
+    "over50": 2,
+    "stalled": 138,
+    "longTasks": [
+      1166,
+      1290
+    ],
+    "cards": 40,
+    "extent": 5852,
+    "position": 363.6360000000014,
+    "scroll": 364,
+    "clones": 0
+  },
+  "hot": [
+    {
+      "name": "(idle)",
+      "line": -1,
+      "hits": 2806
+    },
+    {
+      "name": "mapEligible",
+      "line": 4040,
+      "hits": 511
+    },
+    {
+      "name": "(program)",
+      "line": -1,
+      "hits": 416
+    },
+    {
+      "name": "stepFn",
+      "line": 5397,
+      "hits": 220
+    },
+    {
+      "name": "cloneNode",
+      "line": -1,
+      "hits": 195
+    },
+    {
+      "name": "facts",
+      "line": 3983,
+      "hits": 74
+    },
+    {
+      "name": "",
+      "line": 5542,
+      "hits": 57
+    },
+    {
+      "name": "remove",
+      "line": -1,
+      "hits": 52
+    },
+    {
+      "name": "",
+      "line": 5548,
+      "hits": 48
+    },
+    {
+      "name": "",
+      "line": 5561,
+      "hits": 48
+    },
+    {
+      "name": "renderCards",
+      "line": 5920,
+      "hits": 47
+    },
+    {
+      "name": "after",
+      "line": -1,
+      "hits": 46
+    },
+    {
+      "name": "(garbage collector)",
+      "line": -1,
+      "hits": 41
+    },
+    {
+      "name": "photo",
+      "line": 4730,
+      "hits": 38
+    },
+    {
+      "name": "mapFacts",
+      "line": 4046,
+      "hits": 35
+    },
+    {
+      "name": "",
+      "line": 5518,
+      "hits": 33
+    }
+  ]
+}

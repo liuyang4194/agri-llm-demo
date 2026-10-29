@@ -1,0 +1,60 @@
+{
+  "boundaries": [
+    {
+      "before": 41.61962890625,
+      "after": 36.833099365234375,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 90.48285716955374
+    },
+    {
+      "before": 41.1220703125,
+      "after": 37.4119987487793,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 73.94285714284965
+    },
+    {
+      "before": 41.765625,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    },
+    {
+      "before": 42.328125,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    },
+    {
+      "before": 41.65625,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    },
+    {
+      "before": 41.75,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    },
+    {
+      "before": 41.765625,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    },
+    {
+      "before": 41.828125,
+      "after": 38,
+      "topBefore": 0,
+      "topAfter": 0,
+      "time": 57.14285714285714
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "IBM": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ibm/plex-sans-sc@1.1.0/fonts/split/woff2/hinted/IBMPlexSansSC-Light.css",
+      "unicode_ranges": 216
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ibm/plex-sans-sc@1.1.0/fonts/split/woff2/hinted/IBMPlexSansSC-Regular.css",
+      "unicode_ranges": 216
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ibm/plex-sans-sc@1.1.0/fonts/split/woff2/hinted/IBMPlexSansSC-SemiBold.css",
+      "unicode_ranges": 216
+    }
+  ],
+  "Playfair": "https://github.com/google/fonts/tree/main/ofl/playfairdisplay",
+  "modifications": "Only font-display:swap and absolute CDN URLs; official subsets unchanged.",
+  "Anthropic": "No verified official open-source license found; fonts not included."
+}

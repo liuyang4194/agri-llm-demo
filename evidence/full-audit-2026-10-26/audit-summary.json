@@ -1,0 +1,50 @@
+{
+  "asOf": "2026-10-26",
+  "input": {
+    "facts": 55222,
+    "objects": 4294,
+    "relations": 4096
+  },
+  "output": {
+    "facts": 36055,
+    "objects": 2428,
+    "relations": 2207,
+    "sources": 60
+  },
+  "inputSha256": "d1c55e47f1fd8bf8582941133a44be72bc4380389f1c0f136677d71d9e1e10b3",
+  "allInputFactsHaveDisposition": true,
+  "allInputObjectsHaveDisposition": true,
+  "newsChecksComplete": true,
+  "newsRequestsComplete": false,
+  "newsDirectRequests": 22056,
+  "newsOriginDeferred": 3093,
+  "retained": {
+    "public-agricultural-report": 12885,
+    "public-agricultural-statistics": 18807,
+    "public-market-price-observation": 4302
+  },
+  "quarantined": {
+    "separate_review_required": 146,
+    "generated_without_source": 844,
+    "reference_catalogue_or_weather_not_business_fact": 5974,
+    "source_unavailable_or_title_not_matched": 6291,
+    "not_agricultural_topic": 5973
+  },
+  "brand": {
+    "oldLinkedFacts": 327,
+    "oldGeneratedLinkedFacts": 233,
+    "oldLinkedRelations": 61,
+    "newManuallyCheckedClaims": 18,
+    "window": [
+      "2025-10-26",
+      "2026-10-26"
+    ]
+  },
+  "verificationBoundaries": [
+    "世界银行逐值比对本次API响应；WFP逐行比对原始CSV存档，不冒充当前报价。",
+    "农业报道只保留抓取成功且标题与原始索引匹配者；日期沿用原始索引，不声称每篇正文全部数字独立审计。",
+    "404、403、超时、标题不符进入待核，不据此断言原文虚假。",
+    "关系按来源重建；市场所在国家与行政归属不冒充供货或价格传导。",
+    "集团官网是企业公开披露，央媒/政府报道也不等于独立财务审计。"
+  ]
+}

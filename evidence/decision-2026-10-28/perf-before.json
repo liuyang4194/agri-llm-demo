@@ -1,0 +1,96 @@
+{
+  "samples": {
+    "frames": 363,
+    "p95": 16.700000000000728,
+    "p99": 16.799999999999272,
+    "over50": 2,
+    "stalled": 150,
+    "longTasks": [
+      1122,
+      841
+    ],
+    "cards": 1000
+  },
+  "hot": [
+    {
+      "name": "(idle)",
+      "line": -1,
+      "hits": 3065
+    },
+    {
+      "name": "(program)",
+      "line": -1,
+      "hits": 460
+    },
+    {
+      "name": "mapEligible",
+      "line": 4040,
+      "hits": 329
+    },
+    {
+      "name": "mapEligible",
+      "line": 4040,
+      "hits": 256
+    },
+    {
+      "name": "stepFn",
+      "line": 5397,
+      "hits": 248
+    },
+    {
+      "name": "cloneNode",
+      "line": -1,
+      "hits": 214
+    },
+    {
+      "name": "facts",
+      "line": 3983,
+      "hits": 82
+    },
+    {
+      "name": "",
+      "line": 5542,
+      "hits": 66
+    },
+    {
+      "name": "remove",
+      "line": -1,
+      "hits": 57
+    },
+    {
+      "name": "",
+      "line": 5548,
+      "hits": 53
+    },
+    {
+      "name": "(garbage collector)",
+      "line": -1,
+      "hits": 51
+    },
+    {
+      "name": "renderCards",
+      "line": 5920,
+      "hits": 49
+    },
+    {
+      "name": "after",
+      "line": -1,
+      "hits": 45
+    },
+    {
+      "name": "facts",
+      "line": 3983,
+      "hits": 38
+    },
+    {
+      "name": "",
+      "line": 5561,
+      "hits": 38
+    },
+    {
+      "name": "",
+      "line": 5548,
+      "hits": 37
+    }
+  ]
+}

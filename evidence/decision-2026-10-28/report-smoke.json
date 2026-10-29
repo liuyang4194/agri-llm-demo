@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "name": "首页预置红星经营问题",
+      "passed": true
+    },
+    {
+      "name": "默认问题精确路由到既有V4-6.1",
+      "passed": true
+    },
+    {
+      "name": "37份报告结尾有判断和行动",
+      "passed": true
+    },
+    {
+      "name": "份额报告给定位和目标门槛，不冒充当前份额",
+      "passed": true
+    },
+    {
+      "name": "不选推荐卡直接发送从01启动",
+      "passed": true
+    },
+    {
+      "name": "实际进入V4-6.1的40轮过程",
+      "passed": true
+    },
+    {
+      "name": "份额卡片使用有来源量级与假设目标",
+      "passed": true
+    },
+    {
+      "name": "报告封面展示战略判断",
+      "passed": true
+    },
+    {
+      "name": "来源原文可追溯",
+      "passed": true
+    },
+    {
+      "name": "无浏览器异常",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

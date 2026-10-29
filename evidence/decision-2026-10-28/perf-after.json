@@ -1,0 +1,99 @@
+{
+  "samples": {
+    "frames": 360,
+    "p95": 16.799999999999272,
+    "p99": 16.80000000000291,
+    "over50": 2,
+    "stalled": 360,
+    "longTasks": [
+      1208,
+      838
+    ],
+    "cards": 60,
+    "extent": 4579,
+    "scroll": 69,
+    "clones": 0
+  },
+  "hot": [
+    {
+      "name": "(idle)",
+      "line": -1,
+      "hits": 3547
+    },
+    {
+      "name": "mapEligible",
+      "line": 4043,
+      "hits": 371
+    },
+    {
+      "name": "(program)",
+      "line": -1,
+      "hits": 360
+    },
+    {
+      "name": "mapEligible",
+      "line": 4043,
+      "hits": 255
+    },
+    {
+      "name": "frame",
+      "line": 0,
+      "hits": 172
+    },
+    {
+      "name": "facts",
+      "line": 3986,
+      "hits": 97
+    },
+    {
+      "name": "",
+      "line": 5572,
+      "hits": 85
+    },
+    {
+      "name": "",
+      "line": 5578,
+      "hits": 67
+    },
+    {
+      "name": "facts",
+      "line": 3986,
+      "hits": 63
+    },
+    {
+      "name": "",
+      "line": 5578,
+      "hits": 49
+    },
+    {
+      "name": "",
+      "line": 5548,
+      "hits": 45
+    },
+    {
+      "name": "(garbage collector)",
+      "line": -1,
+      "hits": 42
+    },
+    {
+      "name": "",
+      "line": 5572,
+      "hits": 35
+    },
+    {
+      "name": "insideMap",
+      "line": 1410,
+      "hits": 35
+    },
+    {
+      "name": "",
+      "line": 5591,
+      "hits": 29
+    },
+    {
+      "name": "mapPlan",
+      "line": 5543,
+      "hits": 28
+    }
+  ]
+}
