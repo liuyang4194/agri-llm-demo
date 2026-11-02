@@ -1,12 +1,12 @@
 {
-  "source_commit": "425d4cbea92fd78f7fb6a5aa45e03cef99a90faa",
-  "revision": "LLM-291-evidence-reports-20261102",
-  "fingerprint": "6125f3b16cf2",
+  "source_commit": "06975803e6802210fef0e1fcf34b580ac7bd09ba",
+  "revision": "LLM-291-interaction-hotfix-20261102",
+  "fingerprint": "6ecdc9a71978",
   "v4_topics": 37,
   "final_report_contract": "conclusion-evidence-options-action-citations",
   "model_appendix": false,
   "assets": [
-    "index-BbjMyteT.js",
-    "index-DxUu2zFp.css"
+    "index-Bg39Ri_U.js",
+    "index-d_KsXJv3.css"
   ]
 }
