@@ -1328,7 +1328,7 @@ html[data-theme="color"] .sim-tag.review{background:var(--panel-2)}
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 </div>
 
-<script>window.__V03_BUILD={"hash":"a05880f25005","git":"129e2b9","builtAt":"2026-11-03T07:01:54.522Z","partial":false};</script>
+<script>window.__V03_BUILD={"hash":"3c3625d1863e","git":"7e4f4b9","builtAt":"2026-11-03T07:14:19.877Z","partial":false};</script>
 <script>
 /*
 * Licensed to the Apache Software Foundation (ASF) under one
@@ -8814,17 +8814,21 @@ window.V03Sim = (function () {
   async function publicChatFetch(route,options){
     async function address(){
       if(!location.hostname.endsWith('github.io'))return '';
-      const response=await fetch('https://raw.githubusercontent.com/liuyang4194/agri-llm-demo/chat-endpoint/endpoint.json?t='+Date.now(),{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(10000)});
-      if(!response.ok)throw Error('服务地址更新中，请稍后重试。');
-      const {apiBase}=await response.json();
-      if(!/^https:\/\/[a-z0-9]+\.lhr\.life$/.test(apiBase))throw Error('服务地址配置无效，请联系维护人员。');
-      return apiBase;
+      const bootstrap={"apiBase": "https://e3b3419b489109.lhr.life", "updatedAt": "2026-11-03T07:11:03.313Z"};
+      try{
+        const response=await fetch('https://raw.githubusercontent.com/liuyang4194/agri-llm-demo/chat-endpoint/endpoint.json?t='+Date.now(),{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(5000)});
+        if(!response.ok)return bootstrap.apiBase;
+        const found=await response.json();
+        if(/^https:\/\/[a-z0-9]+\.lhr\.life$/.test(found.apiBase)&&found.updatedAt>bootstrap.updatedAt)return found.apiBase;
+      }catch{}
+      return bootstrap.apiBase;
     }
     try{
       const base=await address();
-      try{return await fetch(base+route,options)}catch(error){
-        if(!base)throw error;const next=await address();if(next===base)throw error;
-        return await fetch(next+route,options);
+      const request=url=>fetch(url,{...options,signal:AbortSignal.timeout(15000)});
+      try{return await request(base+route)}catch(error){
+        if(!base)throw error;const next=await address();if(next===base)await new Promise(resolve=>setTimeout(resolve,1000));
+        return await request(next+route);
       }
     }catch(error){
       if(error instanceof TypeError||error.name==='TimeoutError')throw Error('暂时无法连接问答服务，公网通道可能正在重连，请稍后再保存。');
