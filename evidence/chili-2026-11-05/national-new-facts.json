@@ -1,0 +1,254 @@
+[
+  {
+    "id": "chili1105:xinjiang-0",
+    "title": "新疆辣椒种植面积扩大至260万亩，变化基期未明确",
+    "shortTitle": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+    "summary": "支撑新疆辣椒种植面积由60万亩快速增加到260万亩",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "湖南农业大学",
+      "publishedAt": "2026-09-24"
+    },
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "高校报道；示范片数据不外推全疆；面积变化起止期未明确",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "新疆",
+    "province": "新疆",
+    "regionPath": [
+      "中国",
+      "新疆"
+    ],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "支撑新疆辣椒种植面积由60万亩快速增加到260万亩",
+    "sourcePlugin": "公开原文复核",
+    "sourceUrl": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文复核",
+        "t": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+        "q": "支撑新疆辣椒种植面积由60万亩快速增加到260万亩",
+        "url": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文逐句匹配；区域示范数据不外推",
+      "sourceRecordId": "hx1102:doc:1107:779e4f2a2eeb",
+      "sourceTextSha256": "80b18414c8cf97426114099bccfecac0536cc3c688a9e01742646fe865ef9508"
+    },
+    "factType": "observation",
+    "observation": null
+  },
+  {
+    "id": "chili1105:xinjiang-1",
+    "title": "新疆辣椒机械化技术在8个百亩示范片开展示范",
+    "shortTitle": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+    "summary": "并在新疆沙湾、乌苏、奎屯、拜城等地的8个百亩示范片开展示范",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "湖南农业大学",
+      "publishedAt": "2026-09-24"
+    },
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "高校报道；示范片数据不外推全疆；面积变化起止期未明确",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "新疆",
+    "province": "新疆",
+    "regionPath": [
+      "中国",
+      "新疆"
+    ],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "并在新疆沙湾、乌苏、奎屯、拜城等地的8个百亩示范片开展示范",
+    "sourcePlugin": "公开原文复核",
+    "sourceUrl": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文复核",
+        "t": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+        "q": "并在新疆沙湾、乌苏、奎屯、拜城等地的8个百亩示范片开展示范",
+        "url": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文逐句匹配；区域示范数据不外推",
+      "sourceRecordId": "hx1102:doc:1107:779e4f2a2eeb",
+      "sourceTextSha256": "80b18414c8cf97426114099bccfecac0536cc3c688a9e01742646fe865ef9508"
+    },
+    "factType": "observation",
+    "observation": null
+  },
+  {
+    "id": "chili1105:xinjiang-2",
+    "title": "沙湾示范基地干椒亩产524.56公斤（18%含水量）",
+    "shortTitle": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+    "summary": "平均亩产干椒（18%含水量）524.56公斤",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "湖南农业大学",
+      "publishedAt": "2026-09-24"
+    },
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "高校报道；示范片数据不外推全疆；面积变化起止期未明确",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "新疆",
+    "province": "新疆",
+    "regionPath": [
+      "中国",
+      "新疆"
+    ],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "平均亩产干椒（18%含水量）524.56公斤",
+    "sourcePlugin": "公开原文复核",
+    "sourceUrl": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文复核",
+        "t": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+        "q": "平均亩产干椒（18%含水量）524.56公斤",
+        "url": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文逐句匹配；区域示范数据不外推",
+      "sourceRecordId": "hx1102:doc:1107:779e4f2a2eeb",
+      "sourceTextSha256": "80b18414c8cf97426114099bccfecac0536cc3c688a9e01742646fe865ef9508"
+    },
+    "factType": "observation",
+    "observation": null
+  },
+  {
+    "id": "chili1105:xinjiang-3",
+    "title": "宋圣宫村基地传统线椒示范亩产干椒513.48公斤",
+    "shortTitle": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+    "summary": "平均亩产干椒513.48公斤",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "湖南农业大学",
+      "publishedAt": "2026-09-24"
+    },
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "高校报道；示范片数据不外推全疆；面积变化起止期未明确",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "新疆",
+    "province": "新疆",
+    "regionPath": [
+      "中国",
+      "新疆"
+    ],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "平均亩产干椒513.48公斤",
+    "sourcePlugin": "公开原文复核",
+    "sourceUrl": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文复核",
+        "t": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+        "q": "平均亩产干椒513.48公斤",
+        "url": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文逐句匹配；区域示范数据不外推",
+      "sourceRecordId": "hx1102:doc:1107:779e4f2a2eeb",
+      "sourceTextSha256": "80b18414c8cf97426114099bccfecac0536cc3c688a9e01742646fe865ef9508"
+    },
+    "factType": "observation",
+    "observation": null
+  }
+]

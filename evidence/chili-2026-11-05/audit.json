@@ -87,5 +87,20 @@
       "url": "https://agri.hunan.gov.cn/agri/xxgk/gzdt/sxdt_1/202509/t20250903_33794326.html",
       "reason": "本次读取TLS失败，未纳入新增证据"
     }
-  ]
+  ],
+  "nationalReframe": {
+    "addedFacts": 4,
+    "source": {
+      "id": "chili1105:source:7",
+      "title": "邹学校院士团队助力我国辣椒机械化采收达全球领先水平（组图）",
+      "publisher": "湖南农业大学",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.hunau.edu.cn/ndxw/lbt/202609/t20260924_527889.html",
+      "type": "external",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "evidenceNote": "已读取公开原文；面积变化起止期不明确，示范片单产不可外推区域总产量。"
+    },
+    "scope": "区域观察，未获得全国11月产销量"
+  }
 }
