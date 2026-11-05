@@ -1,0 +1,2224 @@
+[
+  {
+    "id": "chili1105:w42-0",
+    "title": "贵州第42周干辣椒：有把小米辣20.54元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "有把小米辣 20.54 -4.91% 28.38% -3.25%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把小米辣"
+    ],
+    "relations": [
+      "chili1105:classification:有把小米辣"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "有把小米辣 20.54 -4.91% 28.38% -3.25%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20.54,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-1",
+    "title": "贵州第42周干辣椒：无把小米辣22.94元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "无把小米辣 22.94 -4.42% 24.67% -2.92%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把小米辣"
+    ],
+    "relations": [
+      "chili1105:classification:无把小米辣"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "无把小米辣 22.94 -4.42% 24.67% -2.92%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 22.94,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-2",
+    "title": "贵州第42周干辣椒：有把圆颗粒24.29元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "有把圆颗粒 24.29 -0.45% 12.45% -5.12%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把圆颗粒"
+    ],
+    "relations": [
+      "chili1105:classification:有把圆颗粒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "有把圆颗粒 24.29 -0.45% 12.45% -5.12%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 24.29,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-3",
+    "title": "贵州第42周干辣椒：无把圆颗粒26.84元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "无把圆颗粒 26.84 -0.07% 11.83% -4.52%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把圆颗粒"
+    ],
+    "relations": [
+      "chili1105:classification:无把圆颗粒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "无把圆颗粒 26.84 -0.07% 11.83% -4.52%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 26.84,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-4",
+    "title": "贵州第42周干辣椒：有把朝天椒18.17元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "有把朝天椒 18.17 -4.37% 13.56% -11.24%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把朝天椒"
+    ],
+    "relations": [
+      "chili1105:classification:有把朝天椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "有把朝天椒 18.17 -4.37% 13.56% -11.24%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 18.17,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-5",
+    "title": "贵州第42周干辣椒：无把朝天椒20.57元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "无把朝天椒 20.57 -3.88% 11.79% -10.06%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把朝天椒"
+    ],
+    "relations": [
+      "chili1105:classification:无把朝天椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "无把朝天椒 20.57 -3.88% 11.79% -10.06%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20.57,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-6",
+    "title": "贵州第42周干辣椒：有把子弹头17.17元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "有把子弹头 17.17 -2.44% -25.35% -26.34%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把子弹头"
+    ],
+    "relations": [
+      "chili1105:classification:有把子弹头"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "有把子弹头 17.17 -2.44% -25.35% -26.34%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 17.17,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-7",
+    "title": "贵州第42周干辣椒：无把子弹头19.57元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "无把子弹头 19.57 -2.15% -22.95% -24.06%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把子弹头"
+    ],
+    "relations": [
+      "chili1105:classification:无把子弹头"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "无把子弹头 19.57 -2.15% -22.95% -24.06%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 19.57,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-8",
+    "title": "贵州第42周干辣椒：有把艳椒18.71元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "有把艳椒 18.71 -4.54% 18.42% -7.28%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把艳椒"
+    ],
+    "relations": [
+      "chili1105:classification:有把艳椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "有把艳椒 18.71 -4.54% 18.42% -7.28%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 18.71,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w42-9",
+    "title": "贵州第42周干辣椒：无把艳椒21.11元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "无把艳椒 21.11 -4.05% 15.99% -6.72%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把艳椒"
+    ],
+    "relations": [
+      "chili1105:classification:无把艳椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "无把艳椒 21.11 -4.05% 15.99% -6.72%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 21.11,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w43-0",
+    "title": "贵州第43周干辣椒：有把小米辣20.00元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "有把小米辣 20.00 -2.63% 25.00% -5.17%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把小米辣"
+    ],
+    "relations": [
+      "chili1105:classification:有把小米辣"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "有把小米辣 20.00 -2.63% 25.00% -5.17%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-1",
+    "title": "贵州第43周干辣椒：无把小米辣22.40元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "无把小米辣 22.40 -2.35% 21.74% -4.64%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把小米辣"
+    ],
+    "relations": [
+      "chili1105:classification:无把小米辣"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "无把小米辣 22.40 -2.35% 21.74% -4.64%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 22.4,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-2",
+    "title": "贵州第43周干辣椒：有把圆颗粒23.83元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "有把圆颗粒 23.83 -1.89% 9.31% -6.40%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把圆颗粒"
+    ],
+    "relations": [
+      "chili1105:classification:有把圆颗粒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "有把圆颗粒 23.83 -1.89% 9.31% -6.40%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 23.83,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-3",
+    "title": "贵州第43周干辣椒：无把圆颗粒26.23元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "无把圆颗粒 26.23 -2.27% 8.39% -6.02%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把圆颗粒"
+    ],
+    "relations": [
+      "chili1105:classification:无把圆颗粒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "无把圆颗粒 26.23 -2.27% 8.39% -6.02%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 26.23,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-4",
+    "title": "贵州第43周干辣椒：有把朝天椒18.00元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "有把朝天椒 18.00 -0.94% 12.50% -10.67%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把朝天椒"
+    ],
+    "relations": [
+      "chili1105:classification:有把朝天椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "有把朝天椒 18.00 -0.94% 12.50% -10.67%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 18,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-5",
+    "title": "贵州第43周干辣椒：无把朝天椒20.40元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "无把朝天椒 20.40 -0.83% 10.87% -9.53%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把朝天椒"
+    ],
+    "relations": [
+      "chili1105:classification:无把朝天椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "无把朝天椒 20.40 -0.83% 10.87% -9.53%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20.4,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-6",
+    "title": "贵州第43周干辣椒：有把子弹头17.00元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "有把子弹头 17.00 -0.99% -26.09% -26.28%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把子弹头"
+    ],
+    "relations": [
+      "chili1105:classification:有把子弹头"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "有把子弹头 17.00 -0.99% -26.09% -26.28%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 17,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-7",
+    "title": "贵州第43周干辣椒：无把子弹头19.40元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "无把子弹头 19.40 -0.87% -23.62% -23.98%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把子弹头"
+    ],
+    "relations": [
+      "chili1105:classification:无把子弹头"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "无把子弹头 19.40 -0.87% -23.62% -23.98%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 19.4,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-8",
+    "title": "贵州第43周干辣椒：有把艳椒18.60元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "有把艳椒 18.60 -0.59% 17.95% -6.49%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:有把艳椒"
+    ],
+    "relations": [
+      "chili1105:classification:有把艳椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "有把艳椒 18.60 -0.59% 17.95% -6.49%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 18.6,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w43-9",
+    "title": "贵州第43周干辣椒：无把艳椒21.00元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "无把艳椒 21.00 -0.52% 15.38% -7.16%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "chili1105:commodity:无把艳椒"
+    ],
+    "relations": [
+      "chili1105:classification:无把艳椒"
+    ],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "无把艳椒 21.00 -0.52% 15.38% -7.16%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 21,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w42-avg",
+    "title": "贵州第42周干辣椒监测均价20.99元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "平均价 20.99 -3.05% 6.66% -10.22%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "平均价 20.99 -3.05% 6.66% -10.22%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20.99,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w43-avg",
+    "title": "贵州第43周干辣椒监测均价20.69元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "平均价 20.69 -1.43% 4.92% -10.70%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "平均价 20.69 -1.43% 4.92% -10.70%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 20.69,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:w42-green",
+    "title": "贵州第42周大青椒4.55元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+    "summary": "大青椒 4.55 -8.08% -20.87% -18.75%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-21"
+    },
+    "date": "2026-10-21",
+    "publishedAt": "2026-10-21",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格2涨2平1跌；5种肉禽蛋类产品价格2涨3跌；5种水产品价格2涨3跌；34种蔬菜价格10涨1平23跌；6种水果价格1涨5跌；6种食用菌鲜货价格3涨3跌，3种食用菌干货价格1涨2跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+        "q": "大青椒 4.55 -8.08% -20.87% -18.75%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:4468:5ddddc18cf11",
+      "sourceTextSha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 4.55,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-12/2026-10-18"
+    }
+  },
+  {
+    "id": "chili1105:w43-green",
+    "title": "贵州第43周大青椒4.47元/公斤",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "大青椒 4.47 -1.76% -25.13% -20.04%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "大青椒 4.47 -1.76% -25.13% -20.04%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation",
+    "observation": {
+      "value": 4.47,
+      "unit": "元/公斤",
+      "scope": "贵州省58县115批发点监测；非红星成交价",
+      "period": "2026-10-19/2026-10-25"
+    }
+  },
+  {
+    "id": "chili1105:stone-area",
+    "prov": "real",
+    "title": "石柱辣椒种植与鲜椒产量的报道口径",
+    "summary": "石柱辣椒种植面积稳定在10万亩以上，覆盖27个乡镇（街道）、3万余户农户，年产鲜椒8万吨以上，综合产值突破8亿元",
+    "cat": "news",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-08-07"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-08-07",
+    "occurredAt": "2026-08-07",
+    "publishedAt": "2026-08-07",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "石柱：从良种到市场 石柱辣椒如何越做越“红”",
+        "q": "石柱辣椒种植面积稳定在10万亩以上，覆盖27个乡镇（街道）、3万余户农户，年产鲜椒8万吨以上，综合产值突破8亿元",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-f3013667141ed6e1",
+      "sourceTextSha256": "681839c4435e04e178cd058a8d3e2d59ec32e5ea48bd1b17788870e6695c28e6"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-08-07",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:stone-capacity",
+    "prov": "real",
+    "title": "石柱现有辣椒加工设施与产能",
+    "summary": "石柱辣椒加工企业达到32家，建成自动热风循环辣椒烘干生产线52条，年加工能力超过8万吨",
+    "cat": "news",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-08-07"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-08-07",
+    "occurredAt": "2026-08-07",
+    "publishedAt": "2026-08-07",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "石柱：从良种到市场 石柱辣椒如何越做越“红”",
+        "q": "石柱辣椒加工企业达到32家，建成自动热风循环辣椒烘干生产线52条，年加工能力超过8万吨",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-f3013667141ed6e1",
+      "sourceTextSha256": "681839c4435e04e178cd058a8d3e2d59ec32e5ea48bd1b17788870e6695c28e6"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-08-07",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:stone-orders",
+    "prov": "real",
+    "title": "石柱供销合作订单为年度报道口径",
+    "summary": "每年签订相关订单超过5000万元",
+    "cat": "news",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-08-07"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-08-07",
+    "occurredAt": "2026-08-07",
+    "publishedAt": "2026-08-07",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "石柱：从良种到市场 石柱辣椒如何越做越“红”",
+        "q": "每年签订相关订单超过5000万元",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-f3013667141ed6e1",
+      "sourceTextSha256": "681839c4435e04e178cd058a8d3e2d59ec32e5ea48bd1b17788870e6695c28e6"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-08-07",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:stone-varieties",
+    "prov": "real",
+    "title": "石柱辣椒观摩会展示的品种",
+    "summary": "来自全国19家科研单位和种业企业的140个辣椒品种集中亮相",
+    "cat": "news",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-08-07"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-08-07",
+    "occurredAt": "2026-08-07",
+    "publishedAt": "2026-08-07",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "石柱：从良种到市场 石柱辣椒如何越做越“红”",
+        "q": "来自全国19家科研单位和种业企业的140个辣椒品种集中亮相",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-f3013667141ed6e1",
+      "sourceTextSha256": "681839c4435e04e178cd058a8d3e2d59ec32e5ea48bd1b17788870e6695c28e6"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-08-07",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:you-area",
+    "prov": "real",
+    "title": "酉阳辣椒种植面积与年产量",
+    "summary": "全县辣椒种植面积稳定在2.5万亩，年产量达2.2万吨",
+    "cat": "supply",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-10-12"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-10-12",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "酉阳：辣椒丰收产销两旺 订单种植助农增收",
+        "q": "全县辣椒种植面积稳定在2.5万亩，年产量达2.2万吨",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-1b00dac4b9d66a13",
+      "sourceTextSha256": "5a8995a281a8e18012f116516546e53abb03431519521931d7e12128c85ef105"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-10-12",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:you-daily",
+    "prov": "real",
+    "title": "酉阳受访加工厂收购高峰量",
+    "summary": "厂区日收购鲜椒量达180吨",
+    "cat": "supply",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-10-12"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-10-12",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "酉阳：辣椒丰收产销两旺 订单种植助农增收",
+        "q": "厂区日收购鲜椒量达180吨",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-1b00dac4b9d66a13",
+      "sourceTextSha256": "5a8995a281a8e18012f116516546e53abb03431519521931d7e12128c85ef105"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-10-12",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:you-price",
+    "prov": "real",
+    "title": "酉阳受访企业价格变化的报道口径",
+    "summary": "收购、销售价格较往年上涨20%",
+    "cat": "supply",
+    "cardType": "news",
+    "card": {
+      "sourceName": "重庆市农业农村委员会",
+      "publishedAt": "2026-10-12"
+    },
+    "factType": "observation",
+    "status": "active",
+    "persistent": true,
+    "level": "L3",
+    "region": "重庆市",
+    "regionPath": [
+      {
+        "level": "country",
+        "name": "中国",
+        "code": "CHN"
+      },
+      {
+        "level": "province",
+        "name": "重庆市",
+        "code": "重庆市"
+      }
+    ],
+    "province": "重庆市",
+    "lat": 30.067297,
+    "lng": 107.8839,
+    "geoPrecision": "region_only",
+    "date": "2026-10-12",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "ingestedAt": "2026-11-05",
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "sourcePlugin": "nyncw.cq.gov.cn",
+    "sourceUrl": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html",
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "酉阳：辣椒丰收产销两旺 订单种植助农增收",
+        "q": "收购、销售价格较往年上涨20%",
+        "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html"
+      }
+    ],
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "v28-report-1b00dac4b9d66a13",
+      "sourceTextSha256": "5a8995a281a8e18012f116516546e53abb03431519521931d7e12128c85ef105"
+    },
+    "geoApprox": true,
+    "review": "source_text_checked",
+    "variety": "辣椒",
+    "period": "2026-10-12",
+    "varieties": [
+      "辣椒"
+    ],
+    "varietyBasis": "来源标题或结构化商品字段明确提及（词表匹配，非模型推断）"
+  },
+  {
+    "id": "chili1105:coverage",
+    "title": "贵州辣椒价格监测样本口径",
+    "shortTitle": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+    "summary": "本报告数据来源于全省58个县（市、区）115个批发点上周监测批发均价，仅供参考，不作任何交易依据。",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-28"
+    },
+    "date": "2026-10-28",
+    "publishedAt": "2026-10-28",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "分类别来看，5种粮油类产品价格1涨1平3跌；5种肉禽蛋类产品价格均下跌；5种水产品价格3涨2跌；34种蔬菜价格7涨1平26跌；6种水果价格3涨3跌；6种食用菌鲜货价格2涨4跌，3种食用菌干货价格均下跌；10种干辣椒价格均下跌。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+        "q": "本报告数据来源于全省58个县（市、区）115个批发点上周监测批发均价，仅供参考，不作任何交易依据。",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1690:12b56bb309b5",
+      "sourceTextSha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    "factType": "observation"
+  },
+  {
+    "id": "chili1105:sep-average",
+    "title": "贵州9月干辣椒月度监测均价",
+    "shortTitle": "2026年9月贵州省农产品批发市场价格监测月报",
+    "summary": "10种干辣椒环比8涨2跌，同比8高2低，整体月均价21.53元/公斤，环比上涨3.66%，同比高7.44%",
+    "cat": "news",
+    "cardType": "news",
+    "cardTypeName": "来源披露",
+    "card": {
+      "sourceName": "用户提供的公开资料",
+      "publishedAt": "2026-10-13"
+    },
+    "date": "2026-10-13",
+    "publishedAt": "2026-10-13",
+    "occurredAt": null,
+    "ingestedAt": "2026-11-05",
+    "period": "来源原文口径；未标日期不作当日事件",
+    "status": "active",
+    "persistent": true,
+    "level": "L1",
+    "region": "未定位",
+    "province": null,
+    "regionPath": [],
+    "lng": null,
+    "lat": null,
+    "geoApprox": false,
+    "cred": "high",
+    "credScore": 0.9,
+    "impact": "medium",
+    "severity": 60,
+    "radius": 0,
+    "media": "text",
+    "mediaNote": "其中，粮油产品价格环比均上涨，同比3高2低；肉禽蛋类产品价格环比均上涨，同比2高3低；5种水产品价格环比4涨1跌，同比1高4低，整体月均价22.56元/公斤，环比上涨2.92%，同比低7.58%；蔬菜产品价格环比12涨22跌，同比13高21低，整体月均价4.42元/公斤，环比持平，同比低5.35%；6种水果价格环比2涨4跌，同比3高3低，整体月均价6.06元/公斤，环比下跌1.78%，同比高1.00%；6种食用菌鲜货环比均上涨，同比2高4低，月均价7.49元/公斤，环比上涨2.60%，同比低2.47%；3种食用菌干货环比1涨2跌，同比均低，月均价58.70元/公斤，环比下跌0.58%，同比低5.72%；10种干辣椒环比8涨2跌，同比8高2低，整体月均价21.53元/公斤，环比上涨3.66%，同比高7.44%。",
+    "sourcePlugin": "红星及同行资料",
+    "sourceUrl": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261013_90983683.html",
+    "review": "source_text_checked",
+    "prov": "real",
+    "objects": [
+      "hx1102:commodity:辣椒"
+    ],
+    "relations": [],
+    "evidence": [
+      {
+        "k": "原文数值复核",
+        "t": "2026年9月贵州省农产品批发市场价格监测月报",
+        "q": "10种干辣椒环比8涨2跌，同比8高2低，整体月均价21.53元/公斤，环比上涨3.66%，同比高7.44%",
+        "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261013_90983683.html"
+      }
+    ],
+    "metric": null,
+    "provenanceMeta": {
+      "dataOrigin": "external-publication",
+      "checkedAt": "2026-11-05",
+      "method": "原文读取并逐值匹配；不是独立经营审计",
+      "sourceRecordId": "hx1102:doc:1710:123b78817b39",
+      "sourceTextSha256": "32e7f07968a0ae23d0caa583249e341949a70b119c0f98e34662713d49c935d2"
+    },
+    "factType": "observation"
+  }
+]

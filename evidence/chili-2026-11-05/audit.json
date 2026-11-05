@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-11-05",
+  "before": {
+    "facts": 36798,
+    "objects": 2525,
+    "relations": 2289,
+    "sources": 750
+  },
+  "existingChiliRecords": 33,
+  "existingAttachedSourceRecords": 10,
+  "added": {
+    "facts": 33,
+    "objects": 10,
+    "relations": 10,
+    "sources": 5
+  },
+  "externalSources": [
+    {
+      "id": "chili1105:source:2",
+      "title": "贵州省农产品批发市场价格监测周报（2026年第43周）",
+      "publisher": "贵州省农业农村厅",
+      "publishedAt": "2026-10-28",
+      "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261028_91049222.html",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "type": "external",
+      "access": "公开资料",
+      "evidenceNote": "外部公开来源，原文复核后补充入库；不是红星经营实测。",
+      "sha256": "728e1cae7381f6fc72c81443880e2ebda9dee6f42d3453f8e99ce9cd559153bb"
+    },
+    {
+      "id": "chili1105:source:3",
+      "title": "贵州省农产品批发市场价格监测周报（2026年第42周）",
+      "publisher": "贵州省农业农村厅",
+      "publishedAt": "2026-10-21",
+      "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261021_91013269.html",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "type": "external",
+      "access": "公开资料",
+      "evidenceNote": "外部公开来源，原文复核后补充入库；不是红星经营实测。",
+      "sha256": "49b56143b170f0aedec4d6ed8efdea33e1eb61276e5f1d61838156fd269d71d0"
+    },
+    {
+      "id": "chili1105:source:4",
+      "title": "石柱：从良种到市场 石柱辣椒如何越做越“红”",
+      "publisher": "重庆市农业农村委员会",
+      "publishedAt": "2026-08-07",
+      "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202608/t20260807_15907611.html",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "type": "external",
+      "access": "公开资料",
+      "evidenceNote": "外部公开来源，原文复核后补充入库；不是红星经营实测。",
+      "sha256": "681839c4435e04e178cd058a8d3e2d59ec32e5ea48bd1b17788870e6695c28e6"
+    },
+    {
+      "id": "chili1105:source:5",
+      "title": "酉阳：辣椒丰收产销两旺 订单种植助农增收",
+      "publisher": "重庆市农业农村委员会",
+      "publishedAt": "2026-10-12",
+      "url": "https://nyncw.cq.gov.cn/zwxx_161/qxlb/202610/t20261012_16218809.html",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "type": "external",
+      "access": "公开资料",
+      "evidenceNote": "外部公开来源，原文复核后补充入库；不是红星经营实测。",
+      "sha256": "5a8995a281a8e18012f116516546e53abb03431519521931d7e12128c85ef105"
+    },
+    {
+      "id": "chili1105:source:6",
+      "title": "2026年9月贵州省农产品批发市场价格监测月报",
+      "publisher": "贵州省农业农村厅",
+      "publishedAt": "2026-10-13",
+      "url": "https://nynct.guizhou.gov.cn/wsfw/scfx/202610/t20261013_90983683.html",
+      "checkedAt": "2026-11-05",
+      "status": "source_text_checked",
+      "type": "external",
+      "access": "公开资料",
+      "evidenceNote": "外部公开来源，原文复核后补充入库；不是红星经营实测。",
+      "sha256": "32e7f07968a0ae23d0caa583249e341949a70b119c0f98e34662713d49c935d2"
+    }
+  ],
+  "internalOperationalData": "未取得红星辣椒批次成交、成本、库龄、损耗、订单与回款台账；公开来源入库不改变来源属性。",
+  "excluded": [
+    {
+      "url": "https://agri.hunan.gov.cn/agri/xxgk/gzdt/sxdt_1/202509/t20250903_33794326.html",
+      "reason": "本次读取TLS失败，未纳入新增证据"
+    }
+  ]
+}
